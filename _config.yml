@@ -8,10 +8,12 @@ google_analytics: UA-93153473-1
 permalink: /:year/:month/:day/:slug
 
 lang: vi-VN
-paginate: 8
 url: https://hoantran.net
 
 plugins:
   - jekyll-paginate
+
+paginate: 8
+paginate_path: "/page:num/"
 
 theme: jekyll-theme-hacker
