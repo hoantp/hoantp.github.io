@@ -6,7 +6,7 @@ layout: default
   <div class="site-post">
     <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
     <p class="author">
-      <span class="meta">{{ post.date | date_to_string }} - by <i>{{ post.author | default: site.author }}<i></span>
+      <span class="meta">{{ post.date | date_to_string }} - by <i>{{ post.author | default: site.author }}</i></span>
     </p>
     <div class="content">
       {{ post.desc }}
