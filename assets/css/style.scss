@@ -8,6 +8,18 @@
   text-decoration: none;
 }
 
+.meta {
+  font-size: 0.9em;
+
+  i {
+    font-weight: bold;
+  }
+}
+
+.content {
+  text-align: justify;
+}
+
 .pagination {
   margin: 30px 0;
 }
