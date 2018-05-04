@@ -1,1 +1,7 @@
+name: Tran Phuc Hoan
+description: An Developer with 日本語
+
+google_analytics: UA-93153473-1
+permalink: /:year/:month/:day/:title
+
 theme: jekyll-theme-hacker
