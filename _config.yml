@@ -1,3 +1,4 @@
+title: hoantran.net
 name: "Tran Phuc Hoan"
 description: "An Developer with 日本語"
 
@@ -7,6 +8,10 @@ google_analytics: UA-93153473-1
 permalink: /:year/:month/:day/:slug
 
 lang: vi-VN
+paginate: 8
 url: https://hoantran.net
+
+plugins:
+  - jekyll-paginate
 
 theme: jekyll-theme-hacker

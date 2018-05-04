@@ -2,11 +2,10 @@
 layout: post
 title: "Docker có gì hay?"
 tags: [ docker, devops ]
+desc: "Docker hiện nay càng ngày càng nhận được sự quan tâm của giới DevOps, thực ra không chỉ riêng DevOps mà Developer cũng rất chú ý. Vậy chúng ta sẽ tìm hiểu xem Docker là gì, và tại sao nó lại quan tâm nhiều đến vậy."
 ---
 
-Docker hiện nay càng ngày càng nhận được sự quan tâm của giới DevOps, thực ra không chỉ riêng DevOps mà Developer cũng rất chú ý. Vậy chúng ta sẽ tìm hiểu xem Docker là gì, và tại sao nó lại quan tâm nhiều đến vậy.
-
-### Docker là gì?
+## Docker là gì?
 
 Như các bạn đã biết, vấn đề đầu tiên thường gặp phải đó là việc không đồng bộ môi trường giữa các Developer với nhau; chính vì vậy Docker sinh ra để giải quyết vấn đề "works on my machine" (cái này chạy ngon trên máy tui) bằng cách quản lý các apps song song trong các container được cô lập để đem lại hiệu quả tính toán tốt hơn.
 
@@ -18,7 +17,7 @@ Hiện tại công ty mình có sử dụng Vagrant + Virtualbox để giải qu
 
 Mình tiếp cận Docker không sớm cũng không muộn, và đã mất một thời gian rất vất vả để hiểu nó, vì thế mình sẽ tóm tắt những gì mình đã hiểu ở đây để giúp các bạn hình dung về Docker tốt hơn.
 
-### Đặc điểm
+## Đặc điểm
 
 Điểm đặc biệt của Docker là nó đóng gói mọi thứ thành Container.
 
@@ -32,7 +31,7 @@ Mọi thứ chúng ta cần sẽ được cô lập trong một container:
 
 Để biết cách cài đặt Docker mọi người tham khảo [ở đây](https://docs.docker.com/engine/installation/) nhé!
 
-### Image
+## Image
 
 Nói một cách dễ hiểu, bạn có thể hình dung nó giống như một cái DVD-R, hoặc một file Ghost, hoặc file box (nếu ai biết Vagrant). Tóm lại nó là đóng gói của một... cái gì đó. Về cơ bản nhất là nó sẽ đóng gói một Linux OS nào đó!
 
@@ -54,9 +53,9 @@ Hầu hết ở các dự án đặc thù thì DevOps sẽ kế thừa các Offi
 $ docker pull <tên image>
 ```
 
-### Container
+## Container
 
-#### Container là gì?
+### Container là gì?
 
 Container là một tên gọi rất thực tế và dễ hình dung tới Container ngoài đời thực. Khi bạn sử dụng Container, những thứ cần thiết để chạy được app của bạn sẽ được đóng gói vào các Container độc lập. Trong đó bao gồm OS, thư viện liên quan, app chính.
 
@@ -64,7 +63,7 @@ Tuy nhiên không giống như VM, Container sẽ không đóng gói một OS đ
 
 ![Docker Containers](https://www.docker.com/sites/default/files/group_5622_0.png)
 
-#### Tạo một Container mới
+### Tạo một Container mới
 
 Các bạn sẽ tạo ra Container từ Image. Giống như bạn chạy file Ghost như đi cài Windows dạo ngày xưa =)). Bạn có thể tưởng tượng mỗi Container như là một VM (thực tế không phải), được cô lập trong cái hộp nhưng lại xài chung tài nguyên với máy thật của chúng ta.
 
@@ -99,7 +98,7 @@ $ tail -f /dev/null
 
 Tuy nhiên khi xây dựng Application chạy trên docker thì khuyến khích nên ghi log để monitor dễ dàng hơn chứ null thì... =))
 
-### Một số thành phần khác
+## Một số thành phần khác
 
 Để bổ trợ cho hệ sinh thái Docker, chúng ta còn có các hệ thống network, volume,... để các container có thể dễ dàng tương tác với nhau.
 
@@ -113,7 +112,7 @@ Khi đó (ví dụ):
 
 Tuy nhiên việc chỉ dùng đơn thuần Docker để tạo lên một đống Container và cho chúng tương tác với nhau sẽ khá là mệt, tất nhiên ta có thể dùng một số công cụ automation như là Ansible. Nhưng bản thân Docker đã hoàn thiện dần hệ sinh thái và mang đến công cụ như thế.
 
-### Kết luận
+## Kết luận
 
 Docker đem khái niệm Container trở lại với một cách tiếp cận dễ dàng hiệu quả hơn, nếu quen với Docker bạn có thể nhận ra các lợi thế như:
 
