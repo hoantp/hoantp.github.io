@@ -6,4 +6,7 @@ show_downloads: false
 google_analytics: UA-93153473-1
 permalink: /:year/:month/:day/:slug
 
+github:
+  repository_url: https://hoantran.net
+
 theme: jekyll-theme-hacker
