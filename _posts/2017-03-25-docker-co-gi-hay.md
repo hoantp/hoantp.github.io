@@ -11,7 +11,7 @@ Như các bạn đã biết, vấn đề đầu tiên thường gặp phải đ�
 
 ![Docker Architecture](https://docs.docker.com/engine/images/architecture.svg)
 
-{:.caption}Kiến trúc của Docker
+Kiến trúc của Docker{:.caption}
 
 Hiện tại công ty mình có sử dụng Vagrant + Virtualbox để giải quyết vấn đề đó nhưng bản chất là sử dụng máy ảo để cô lập về mặt OS, còn điểm đặc biệt của Docker là cô lập tới từng app.
 
