@@ -50,7 +50,7 @@ Hầu hết ở các dự án đặc thù thì DevOps sẽ kế thừa các Offi
 
 Để pull một image về xài ta chỉ cần lên Docker Store, kiếm một cái và chạy lệnh:
 
-```
+```shell
 $ docker pull <tên image>
 ```
 
@@ -68,13 +68,13 @@ Tuy nhiên không giống như VM, Container sẽ không đóng gói một OS đ
 
 Các bạn sẽ tạo ra Container từ Image. Giống như bạn chạy file Ghost như đi cài Windows dạo ngày xưa =)). Bạn có thể tưởng tượng mỗi Container như là một VM (thực tế không phải), được cô lập trong cái hộp nhưng lại xài chung tài nguyên với máy thật của chúng ta.
 
-```
+```shell
 $ docker run <tên image>
 ```
 
 Thông thường khi chạy lệnh `docker run` thì nếu không có Image ở local thì nó sẽ tìm và tải về cho bạn luôn. Container ngay sau đó sẽ được tạo ra, chủ yếu bạn sẽ tương tác thông qua câu lệnh `docker exec`. Ví dụ
 
-```
+```shell
 $ docker exec -it <tên container> bash
 ```
 
@@ -93,7 +93,7 @@ Ban đầu mình khá khó chịu nhưng có thể thấy nó thường dùng đ
 
 Một trick khá thú vị khi viết Dockerfile để sau khi run thành Container mà vẫn giữ nó sống là thêm ở CMD hoặc ENTRYPOINT lệnh:
 
-```
+```shell
 $ tail -f /dev/null
 ```
 
