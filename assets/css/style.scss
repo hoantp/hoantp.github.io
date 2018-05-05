@@ -3,7 +3,18 @@
 
 @import "{{ site.theme }}";
 
+@font-face {
+  font-family: "Monaco";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Monaco"), url("{{ 'assets/font/Monaco.woff' | absolute_url }}") format("woff");
+}
+
 // Default site
+body {
+  font-family: "Monaco" !important;
+}
+
 .site-title {
   color: inherit;
   text-decoration: none;
