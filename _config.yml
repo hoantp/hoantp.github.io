@@ -17,4 +17,4 @@ paginate: 8
 paginate_path: "/page:num/"
 
 markdown: kramdown
-theme: jekyll-theme-midnight
+theme: jekyll-theme-hacker
