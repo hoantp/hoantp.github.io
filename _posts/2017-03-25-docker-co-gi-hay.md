@@ -22,7 +22,7 @@ Mình tiếp cận Docker không sớm cũng không muộn, và đã mất một
 
 Điểm đặc biệt của Docker là nó đóng gói mọi thứ thành Container.
 
-![Docker Container](https://www.docker.com/sites/default/files/Package%20software%40x2.png)
+![Docker Container](https://www.docker.com/sites/default/files/d8/styles/large/public/2018-11/container-what-is-container.png)
 
 Mọi thứ chúng ta cần sẽ được cô lập trong một container:
 
@@ -44,7 +44,7 @@ Một số điểm hay của việc xây dựng Image:
 
 * Có thể kế thừa từ bất kỳ Image nào khác và custom theo ý mình.
 * Image có thể upload và chia sẻ cho bất kỳ ai một cách dễ dàng.
-* Số lượng Official Image và các Image hữu ích rất nhiều và hầu hết là miễn phí ở trên [Docker Store](https://store.docker.com).
+* Số lượng Official Image và các Image hữu ích rất nhiều và hầu hết là miễn phí ở trên [Docker Hub](https://hub.docker.com).
 
 Hầu hết ở các dự án đặc thù thì DevOps sẽ kế thừa các Official Image và custom các thông số theo ý mình, cũng rất dễ kiểm soát và tiện lợi.
 
