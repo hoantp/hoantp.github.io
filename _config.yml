@@ -1,20 +1,36 @@
-title: hoantran.net
-name: "Tran Phuc Hoan"
-description: "An Developer with 日本語"
+title: "kipalog.dev"
+author: "Tran Phuc Hoan"
+description: "Really cool blog about ... something"
+lang: "vi"
 
-author: "Hoan Tran"
-show_downloads: false
-google_analytics: UA-93153473-1
-permalink: /:year/:month/:day/:slug
+# Page settings
+permalink: /:year/:month/:day/:slug          # see https://jekyllrb.com/docs/permalinks/
+date_format: "%B %d, %Y"     # see http://shopify.github.io/liquid/filters/date/
+#paginate: 8                 # use "layout: paginate" in the index.html to enable pagination
 
-lang: vi-VN
-url: https://hoantran.net
+# Theme settings
+hide_title: false            # remove site heading in the header
+hide_footer: false           # hide the "previous" and "next" links at the end of each post
+dark_theme: false            # use the dark mode as default
+dark_header: false           # keep the header dark
+dark_footer: false           # keep the footer dark
+# style: minimal             # use a simpler style inspired by the minima theme
 
-plugins:
-  - jekyll-paginate
+navigation:                  # site navigation in the header
+  - index.html
+  # - README.md
+#  - title: "https://"       # linking external sites is also supported
 
-paginate: 8
-paginate_path: "/page:num/"
+#icons:                      # icons in the header, see http://fontawesome.com/icons
+#  envelope: "mailto:niklasbuschmann@users.noreply.github.com"
+#  github: "https://github.com/niklasbuschmann/contrast"
+#  rss: "/contrast/feed.xml"
 
-markdown: kramdown
-theme: jekyll-theme-hacker
+comments:                    # embed disqus or isso comments
+#  disqus: ""
+#  isso: ""
+
+plugins: 
+ - jekyll-feed
+ - jekyll-paginate
+ - jekyll-default-layout
