@@ -48,7 +48,7 @@ Một số điểm hay của việc xây dựng Image:
 
 Hầu hết ở các dự án đặc thù thì DevOps sẽ kế thừa các Official Image và custom các thông số theo ý mình, cũng rất dễ kiểm soát và tiện lợi.
 
-Để pull một image về xài ta chỉ cần lên Docker Store, kiếm một cái và chạy lệnh:
+Để pull một image về xài ta chỉ cần lên Docker Hub, kiếm một cái và chạy lệnh:
 
 ```shell
 $ docker pull <tên image>
