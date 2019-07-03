@@ -30,6 +30,8 @@ comments:                    # embed disqus or isso comments
 #  disqus: ""
 #  isso: ""
 
+google_analytics: UA-93153473-1
+
 plugins: 
  - jekyll-feed
  - jekyll-paginate
