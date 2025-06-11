@@ -1,7 +1,8 @@
-#EXTM3U
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
+
 #EXTINF:-1 tvg-id="antvhd" group-title="Common" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822516608/b33963dc0df8_640_360.png",ANTV
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="AXNAsia.sg" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/21/1633012168716/95bc496176f2_640_360.png" group-title="Common",AXN Asia
+#EXTINF:-1 tvg-id="axnhd" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/21/1633012168716/95bc496176f2_640_360.png" group-title="Common",AXN Asia
 http://125hvt.ddns.net:21585/axn/index.m3u8
 
 
