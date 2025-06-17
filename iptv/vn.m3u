@@ -39,6 +39,7 @@ http://14.227.223.78:12343/rtp/232.84.1.37:8196
 #EXTINF:0 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997203860/76b98e5da32c_640_360.png",K+ Sport 2
 http://14.227.223.78:12343/rtp/232.84.1.34:8178
 #EXTINF:0 tvg-id="kkidshd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2022/10/22/18/1666437081424/cbd3f3af84ba_640_360.png",K+ Kids
+http://14.227.223.78:12343/rtp/232.84.3.42:11800
 
 
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/02/26/22/1740582677991/5a4a9bb5a63c_640_360.png",SCTV2
