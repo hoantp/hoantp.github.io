@@ -68,7 +68,7 @@ http://14.227.223.78:12343/rtp/232.84.2.193:10942
 #EXTINF:-1 tvg-id="onsportsplus" group-title="VTVcab" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650447548/72acfa0eca2c_640_360.png",ON Sports+
 http://14.227.223.78:12343/rtp/232.84.3.75:11602
 #EXTINF:-1 tvg-id="onlife" group-title="VTVcab" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/19/09/1689732652862/f124f55c3587_640_360.png",ON Life
-https://xem.TruyenHinh.Click/CoBan/vtvcab22hd/TuyetDoiKhongKinhDoanh.m3u8
+http://14.227.223.78:12343/rtp/232.84.3.40:11812
 #EXTINF:-1 tvg-id="oninfotv" group-title="VTVcab" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/19/09/1689732099410/a13853e5de55_640_360.png",ON Info
 http://14.227.223.78:12343/rtp/232.84.3.73:11614
 #EXTINF:-1 tvg-id="oncine" group-title="VTVcab" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/07/17/1631009339636/95e9bc61877c_640_360.png",ON Cine
@@ -92,7 +92,7 @@ https://xem.TruyenHinh.Click/CoBan/122/TuyetDoiKhongKinhDoanh.m3u8
 
 
 #EXTINF:-1 tvg-id="hbohd" group-title="Film" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/10/04/02/163329112517/6cb3ef1d12de_640_360.png",HBO
-http://125hvt.ddns.net:21585/hbo/index.m3u8
+http://14.227.223.78:12343/rtp/232.84.2.138:10648
 #EXTINF:-1 tvg-id="tv360.PhimAuMy" group-title="Film" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/03/24/23/1742835081398/4e6776be1efd_640_360.png",Phim Âu Mỹ
 https://xem.TruyenHinh.Click/CoBan/tv360.PhimAuMy/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="boxhits" group-title="Film" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/08/03/16/1627983804741/9828b27e4fe4_640_360.png",Box Hits
@@ -104,15 +104,19 @@ https://xem.TruyenHinh.Click/CoBan/hollywoodclassichd/TuyetDoiKhongKinhDoanh.m3u
 #EXTINF:-1 tvg-id="inthebox" group-title="Film" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/08/03/17/1627985890695/59bf29fc7eeb_640_360.png",In The Box
 https://xem.TruyenHinh.Click/CoBan/inthebox/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="Film" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/21/1633012168716/95bc496176f2_640_360.png",AXN Asia
-http://125hvt.ddns.net:21585/axn/index.m3u8
+http://14.227.223.78:12343/rtp/232.84.2.140:10660
+#EXTINF:0 tvg-id="dreamworks" group-title="Film" tvg-logo="https://s2129132.cdn.mytvnet.vn/vimages/de/eb/ba/a7/7e/ee/deba7-pdreamworkshd-channel-unkn.png",Dreamworks
+http://14.227.223.78:12343/rtp/232.84.3.227:11284
 
 
 #EXTINF:-1 tvg-id="planetearthhd" group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823484363/34cadc4f9c06_640_360.png",Planet Earth
 https://xem.TruyenHinh.Click/CoBan/planetearthhd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="warnertvhd" group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/17/1632996783674/68825acc06f6_640_360.png",Warner TV
-http://125hvt.ddns.net:21585/wbtv/index.m3u8
+http://14.227.223.78:12343/rtp/232.84.2.51:10516
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/640px-Discovery_Asia_logo.svg.png",Discovery Asia
+http://14.227.223.78:12343/rtp/232.84.3.219:11236
 #EXTINF:-1 tvg-id="discoveryhd" group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/17/1632999438220/cb5b2ef01b69_640_360.png",Discovery Channel
-http://125hvt.ddns.net:21585/discovery/index.m3u8
+http://14.227.223.78:12343/rtp/232.84.2.53:10528
 #EXTINF:-1 tvg-id="afnhd" group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822480473/e6bb9f277480_640_360.png",Asian Food Network
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="davinci" group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/160082246244/ef0750ad0a39_640_360.png",Da Vinci
@@ -120,23 +124,27 @@ https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="kix" group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/01/24/22/1737733016558/b6a8f1955817_640_360.png",KIX
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="bbcearth" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/640px-BBC_Earth_2023.svg.png",BBC Earth
-http://194.42.205.101:8070/live/c77a5914/cd600797bc/165106.ts
+http://14.227.223.78:12343/rtp/232.84.3.226:11278
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/640px-BBC_World_News_2022_%28Boxed%29.svg.png",BBC World News
-http://sv.cvtv.xyz:81/bbcn?token=live
-#EXTINF:-1 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",Animal Planet
-http://108.181.122.179:8070/live/c77a5914/cd600797bc/2446.ts
+http://14.227.223.78:12343/rtp/232.84.3.224:11266
+#EXTINF:-1 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/640px-2018_Animal_Planet_logo.svg.png",Animal Planet
+http://14.227.223.78:12343/rtp/232.84.3.139:10702
+#EXTINF:0 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/17/16329991075/0c76e4e7e984_640_360.png",Cartoon Network
+http://14.227.223.78:12343/rtp/232.84.2.144:10684
+#EXTINF:0 tvg-id="cinemaworldhd" group-title="Quốc Tế" tvg-logo="https://s2129132.cdn.mytvnet.vn/vimages/cd/de/e3/3a/a3/33/cde3a-pcinemaworldhd-channel-unkn.png",Cinema World
+http://14.227.223.78:12343/rtp/232.84.2.172:10840
 
 
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823417472/075a37be16f6_640_360.png",HTV1
-https://vc.101vn.com/htv/htvcmb.php?id=2631
+http://14.227.223.78:12343/rtp/232.84.3.57:11710
 #EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823424622/fd4c849487f6_640_360.png",HTV2
 https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823498725/2e64140da5c1_640_360.png",HTV3
-https://vc.101vn.com/htv/htvcmb.php?id=2535
+http://14.227.223.78:12343/rtp/232.84.3.56:11716
 #EXTINF:-1 tvg-id="htv4" group-title="HTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/01/02/1680290329210/3e3b1af7a50d_640_360.png",HTV Key
-https://vc.101vn.com/htv/htvcmb.php?id=2528
+http://14.227.223.78:12343/rtp/232.84.3.55:11722
 #EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822381421/47d2615f6141_640_360.png",HTV7
-https://vc.101vn.com/htv/htvcmb.php?id=256
+http://14.227.223.78:12343/rtp/232.84.1.223:9312
 #EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822390705/a9fc59138d3b_640_360.png",HTV9
 https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/03/16/1680514594557/ab2557f0b015_640_360.png",HTV Thể Thao
