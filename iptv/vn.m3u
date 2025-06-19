@@ -45,37 +45,37 @@ https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist_b5000000.m3u8
 # --- SCTV ---
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/iptv/logo/sctv/sctv1.webp",SCTV1
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv1
-#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/02/26/22/1740582677991/5a4a9bb5a63c_640_360.png",SCTV2
+#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/iptv/logo/sctv/sctv2.webp",SCTV2
 https://xem.TruyenHinh.Click/CoBan/sctv2-today-tv/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/iptv/logo/sctv/sctv3.webp",SCTV3
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv3
 #EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/iptv/logo/sctv/sctv4.webp",SCTV4
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv4
-#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2022/11/04/11/1667535115954/f66b7a793cbb_640_360.png",SCTV6
+#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/iptv/logo/sctv/sctv6.webp",SCTV6
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/iptv/logo/sctv/sctv7.webp",SCTV7
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv7
-#EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/iptv/logo/sctv/sctv8.png",SCTV8
+#EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/iptv/logo/sctv/sctv8.webp",SCTV8
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv8
-#EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/iptv/logo/sctv/sctv9.png",SCTV9
+#EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/iptv/logo/sctv/sctv9.webp",SCTV9
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv9
-#EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/iptv/logo/sctv/sctv11.png",SCTV11
+#EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/iptv/logo/sctv/sctv11.webp",SCTV11
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv11
-#EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/iptv/logo/sctv/sctv12.png",SCTV12
+#EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/iptv/logo/sctv/sctv12.webp",SCTV12
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv12
-#EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/iptv/logo/sctv/sctv13.png",SCTV13
+#EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/iptv/logo/sctv/sctv13.webp",SCTV13
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv13
-#EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/iptv/logo/sctv/sctv14.png",SCTV14
+#EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/iptv/logo/sctv/sctv14.webp",SCTV14
 https://liveh12.seenow.vn/hls/SCTV14/03.m3u8
-#EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/iptv/logo/sctv/sctv16.png",SCTV16
+#EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/iptv/logo/sctv/sctv16.webp",SCTV16
 https://freem3u.xyz/api/live/play.m3m8?tid=sctv16
-#EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/iptv/logo/sctv/sctv18.png",SCTV18
+#EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/iptv/logo/sctv/sctv18.webp",SCTV18
 https://freem3u.xyz/api/live/play.m3m8?tid=sctv18
-#EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/iptv/logo/sctv/sctv19.png",SCTV19
+#EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/iptv/logo/sctv/sctv19.webp",SCTV19
 https://freem3u.xyz/api/live/play.m3m8?tid=sctv19
-#EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/iptv/logo/sctv/sctv20.png",SCTV20
+#EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/iptv/logo/sctv/sctv20.webp",SCTV20
 https://freem3u.xyz/api/live/play.m3m8?tid=sctv20
-#EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/iptv/logo/sctv/sctv21.png",SCTV21
+#EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/iptv/logo/sctv/sctv21.webp",SCTV21
 https://freem3u.xyz/api/live/play.m3m8?tid=sctv21
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://hoantran.name.vn/iptv/logo/sctv/sctvpth.webp",SCTV Phim tổng hợp
 https://freem3u.xyz/api/live/play.m3m8?tid=sctvpth
