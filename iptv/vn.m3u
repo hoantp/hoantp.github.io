@@ -127,21 +127,21 @@ https://xem.TruyenHinh.Click/CoBan/121/TuyetDoiKhongKinhDoanh.m3u8
 https://xem.TruyenHinh.Click/CoBan/122/TuyetDoiKhongKinhDoanh.m3u8
 
 # --- Film ---
-#EXTINF:-1 tvg-id="hbohd" group-title="Film" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/10/04/02/163329112517/6cb3ef1d12de_640_360.png",HBO
+#EXTINF:-1 tvg-id="hbohd" group-title="Film" tvg-logo="https://hoantran.name.vn/iptv/logo/film/hbo.webp",HBO
 http://27.75.73.153:4022/udp/225.1.4.90:30120
-#EXTINF:-1 tvg-id="tv360.PhimAuMy" group-title="Film" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/03/24/23/1742835081398/4e6776be1efd_640_360.png",Phim Âu Mỹ
+#EXTINF:-1 tvg-id="tv360.PhimAuMy" group-title="Film" tvg-logo="https://hoantran.name.vn/iptv/logo/film/phimaumy.webp",Phim Âu Mỹ
 https://xem.TruyenHinh.Click/CoBan/tv360.PhimAuMy/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="boxhits" group-title="Film" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/08/03/16/1627983804741/9828b27e4fe4_640_360.png",Box Hits
+#EXTINF:-1 tvg-id="boxhits" group-title="Film" tvg-logo="https://hoantran.name.vn/iptv/logo/film/boxhits.webp",Box Hits
 https://xem.TruyenHinh.Click/CoBan/boxhits/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="boxmovie1" group-title="Film" tvg-logo="https://img-zlr1.tv360.vn/image1/2020/11/12/10/1605151526106/ab9f4531a232_640_360.png",Box Movie 1
+#EXTINF:-1 tvg-id="boxmovie1" group-title="Film" tvg-logo="https://hoantran.name.vn/iptv/logo/film/boxmovie1.webp",Box Movie 1
 https://xem.TruyenHinh.Click/CoBan/boxmovie1hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="Film" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822419264/1ce59b8c00e8_640_360.png",Hollywood Classics
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="Film" tvg-logo="https://hoantran.name.vn/iptv/logo/film/hollywoodclassics.webp",Hollywood Classics
 https://xem.TruyenHinh.Click/CoBan/hollywoodclassichd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="inthebox" group-title="Film" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/08/03/17/1627985890695/59bf29fc7eeb_640_360.png",In The Box
+#EXTINF:-1 tvg-id="inthebox" group-title="Film" tvg-logo="https://hoantran.name.vn/iptv/logo/film/inthebox.webp",In The Box
 https://xem.TruyenHinh.Click/CoBan/inthebox/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="axnhd" group-title="Film" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/21/1633012168716/95bc496176f2_640_360.png",AXN Asia
+#EXTINF:-1 tvg-id="axnhd" group-title="Film" tvg-logo="https://hoantran.name.vn/iptv/logo/film/axn.webp",AXN Asia
 http://27.75.73.153:4022/udp/225.1.4.9:30120
-#EXTINF:0 tvg-id="dreamworks" group-title="Film" tvg-logo="https://s2129132.cdn.mytvnet.vn/vimages/de/eb/ba/a7/7e/ee/deba7-pdreamworkshd-channel-unkn.png",Dreamworks
+#EXTINF:0 tvg-id="dreamworks" group-title="Film" tvg-logo="https://hoantran.name.vn/iptv/logo/film/dreamworks.webp",Dreamworks
 http://27.75.73.153:4022/udp/225.1.4.39:30120
 
 # --- International ---
