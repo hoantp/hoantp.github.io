@@ -121,9 +121,9 @@ https://sgchill.io.vn/360/187/index.m3u8
 https://sgchill.io.vn/360/179/index.m3u8
 
 # --- Hanoi TV ---
-#EXTINF:-1 tvg-id="hanoi1" group-title="HNTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/17/1728296855302/149490571e60_640_360.png",Hà Nội 1
+#EXTINF:-1 tvg-id="hanoi1" group-title="HNTV" tvg-logo="https://hoantran.name.vn/iptv/logo/hntv/hanoi1.webp",Hà Nội 1
 https://xem.TruyenHinh.Click/CoBan/121/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="hanoi2" group-title="HNTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728293033798/d23973063be9_640_360.png",Hà Nội 2
+#EXTINF:-1 tvg-id="hanoi2" group-title="HNTV" tvg-logo="https://hoantran.name.vn/iptv/logo/hntv/hanoi2.webp",Hà Nội 2
 https://xem.TruyenHinh.Click/CoBan/122/TuyetDoiKhongKinhDoanh.m3u8
 
 # --- Film ---
