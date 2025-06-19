@@ -145,29 +145,29 @@ http://27.75.73.153:4022/udp/225.1.4.9:30120
 http://27.75.73.153:4022/udp/225.1.4.39:30120
 
 # --- International ---
-#EXTINF:-1 tvg-id="planetearthhd" group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823484363/34cadc4f9c06_640_360.png",Planet Earth
+#EXTINF:-1 tvg-id="planetearthhd" group-title="Quốc Tế" tvg-logo="https://hoantran.name.vn/iptv/logo/int/planet_earth.webp",Planet Earth
 https://xem.TruyenHinh.Click/CoBan/planetearthhd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="warnertvhd" group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/17/1632996783674/68825acc06f6_640_360.png",Warner TV
+#EXTINF:-1 tvg-id="warnertvhd" group-title="Quốc Tế" tvg-logo="https://hoantran.name.vn/iptv/logo/int/warner_tv.webp",Warner TV
 http://27.75.73.153:4022/udp/225.1.1.139:30120
-#EXTINF:-1 tvg-id="discoveryasiahd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/640px-Discovery_Asia_logo.svg.png",Discovery Asia
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="Quốc Tế" tvg-logo="https://hoantran.name.vn/iptv/logo/int/discovery_asia.webp",Discovery Asia
 http://27.75.73.153:4022/udp/225.1.4.25:30120
-#EXTINF:-1 tvg-id="discoveryhd" group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/17/1632999438220/cb5b2ef01b69_640_360.png",Discovery Channel
+#EXTINF:-1 tvg-id="discoveryhd" group-title="Quốc Tế" tvg-logo="https://hoantran.name.vn/iptv/logo/int/discovery_channel.webp",Discovery Channel
 http://27.75.73.153:4022/udp/225.1.4.24:30120
-#EXTINF:-1 tvg-id="afnhd" group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822480473/e6bb9f277480_640_360.png",Asian Food Network
+#EXTINF:-1 tvg-id="afnhd" group-title="Quốc Tế" tvg-logo="https://hoantran.name.vn/iptv/logo/int/afn.webp",Asian Food Network
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="davinci" group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/160082246244/ef0750ad0a39_640_360.png",Da Vinci
+#EXTINF:-1 tvg-id="davinci" group-title="Quốc Tế" tvg-logo="https://hoantran.name.vn/iptv/logo/int/da_vinci.webp",Da Vinci
 https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="kix" group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/01/24/22/1737733016558/b6a8f1955817_640_360.png",KIX
+#EXTINF:-1 tvg-id="kix" group-title="Quốc Tế" tvg-logo="https://hoantran.name.vn/iptv/logo/int/kix.webp",KIX
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="bbcearth" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/640px-BBC_Earth_2023.svg.png",BBC Earth
+#EXTINF:-1 tvg-id="bbcearth" group-title="Quốc Tế" tvg-logo="https://hoantran.name.vn/iptv/logo/int/bbc_earth.webp",BBC Earth
 http://27.75.73.153:4022/udp/225.1.2.24:30120
-#EXTINF:-1 tvg-id="bbcworldnews" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/640px-BBC_World_News_2022_%28Boxed%29.svg.png",BBC World News
+#EXTINF:-1 tvg-id="bbcworldnews" group-title="Quốc Tế" tvg-logo="https://hoantran.name.vn/iptv/logo/int/bbc_news.webp",BBC World News
 http://27.75.73.153:4022/udp/225.1.2.74:30120
-#EXTINF:-1 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/640px-2018_Animal_Planet_logo.svg.png",Animal Planet
+#EXTINF:-1 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://hoantran.name.vn/iptv/logo/int/animal_planet.webp",Animal Planet
 http://27.75.73.153:4022/udp/225.1.1.231:30120
-#EXTINF:0 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/17/16329991075/0c76e4e7e984_640_360.png",Cartoon Network
+#EXTINF:0 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://hoantran.name.vn/iptv/logo/int/cartoon_network.webp",Cartoon Network
 http://27.75.73.153:4022/udp/225.1.2.231:30120
-#EXTINF:0 tvg-id="cinemaworldhd" group-title="Quốc Tế" tvg-logo="https://s2129132.cdn.mytvnet.vn/vimages/cd/de/e3/3a/a3/33/cde3a-pcinemaworldhd-channel-unkn.png",Cinema World
+#EXTINF:0 tvg-id="cinemaworldhd" group-title="Quốc Tế" tvg-logo="https://hoantran.name.vn/iptv/logo/int/cinema_world.webp",Cinema World
 http://27.75.73.153:4022/udp/225.1.1.142:30120
 #EXTINF:0 tvg-id="cinemaxhd" group-title="Quốc Tế" tvg-logo="https://hoantran.name.vn/iptv/logo/int/cinemax.webp",Cinemax
 http://27.75.73.153:4022/udp/225.1.2.86:30120
