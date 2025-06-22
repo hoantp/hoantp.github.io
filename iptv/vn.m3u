@@ -1,15 +1,15 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
 
 # --- ANQP ---
-#EXTINF:-1 tvg-id="antvhd" group-title="ANQP" tvg-logo="https://hoantran.name.vn/iptv/logo/anqp/antv.webp",ANTV
+#EXTINF:-1 tvg-id="antvhd" group-title="ANQP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/ANTV_Vietnam.png/revision/latest/scale-to-width-down/640?cb=20191110082312",ANTV
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="qpvnhd" group-title="ANQP" tvg-logo="https://hoantran.name.vn/iptv/logo/anqp/qpvn.webp",QPVN
+#EXTINF:-1 tvg-id="qpvnhd" group-title="ANQP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/800px-QPVN.png/revision/latest/scale-to-width-down/640?cb=20200423155747",QPVN
 https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 
 # --- VTV ---
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://hoantran.name.vn/iptv/logo/vtv/vtv1.webp",VTV1
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/VTV1_logo_2013_final.svg/revision/latest/scale-to-width-down/640?cb=20210607135650",VTV1
 http://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://hoantran.name.vn/iptv/logo/vtv/vtv2.webp",VTV2
+#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/VTV2_logo_2013_final.svg/revision/latest/scale-to-width-down/640?cb=20210607135651",VTV2
 https://live.fptplay53.net/fnxhd1/vtv2_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://hoantran.name.vn/iptv/logo/vtv/vtv3.webp",VTV3
 https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist_b4200000.m3u8
@@ -127,50 +127,62 @@ https://xem.TruyenHinh.Click/CoBan/121/TuyetDoiKhongKinhDoanh.m3u8
 https://xem.TruyenHinh.Click/CoBan/122/TuyetDoiKhongKinhDoanh.m3u8
 
 # --- Film ---
-#EXTINF:-1 tvg-id="hbohd" group-title="Film" tvg-logo="https://hoantran.name.vn/iptv/logo/film/hbo.webp",HBO
+#EXTINF:-1 tvg-id="hbohd" group-title="Film" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
 http://27.75.73.153:4022/udp/225.1.4.90:30120
-#EXTINF:-1 tvg-id="tv360.PhimAuMy" group-title="Film" tvg-logo="https://hoantran.name.vn/iptv/logo/film/phimaumy.webp",Phim Âu Mỹ
+#EXTINF:-1 tvg-id="tv360.PhimAuMy" group-title="Film" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cb/Phim_%C3%82u_M%E1%BB%B9.png/revision/latest/scale-to-width-down/640?cb=20250401224358&path-prefix=vi",Phim Âu Mỹ
 https://xem.TruyenHinh.Click/CoBan/tv360.PhimAuMy/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="boxhits" group-title="Film" tvg-logo="https://hoantran.name.vn/iptv/logo/film/boxhits.webp",Box Hits
+#EXTINF:-1 tvg-id="boxhits" group-title="Film" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8b/Box_Hits_logo.png/revision/latest/scale-to-width-down/640?cb=20240717144147&path-prefix=vi",Box Hits
 https://xem.TruyenHinh.Click/CoBan/boxhits/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="boxmovie1" group-title="Film" tvg-logo="https://hoantran.name.vn/iptv/logo/film/boxmovie1.webp",Box Movie 1
+#EXTINF:-1 tvg-id="boxmovie1" group-title="Film" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/55/Box_Movie_1_logo_2023.png/revision/latest/scale-to-width-down/640?cb=20230515132648&path-prefix=vi",Box Movie 1
 https://xem.TruyenHinh.Click/CoBan/boxmovie1hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="Film" tvg-logo="https://hoantran.name.vn/iptv/logo/film/hollywoodclassics.webp",Hollywood Classics
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="Film" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/08/Hollywood_Classics.png/revision/latest/scale-to-width-down/640?cb=20230123164105&path-prefix=vi",Hollywood Classics
 https://xem.TruyenHinh.Click/CoBan/hollywoodclassichd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="inthebox" group-title="Film" tvg-logo="https://hoantran.name.vn/iptv/logo/film/inthebox.webp",In The Box
+#EXTINF:-1 tvg-id="inthebox" group-title="Film" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/InTheBoxChannel.png/revision/latest/scale-to-width-down/640?cb=20241104082307",In The Box
 https://xem.TruyenHinh.Click/CoBan/inthebox/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="axnhd" group-title="Film" tvg-logo="https://hoantran.name.vn/iptv/logo/film/axn.webp",AXN Asia
+#EXTINF:-1 tvg-id="axnhd" group-title="Film" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN Asia
 http://27.75.73.153:4022/udp/225.1.4.9:30120
-#EXTINF:0 tvg-id="dreamworks" group-title="Film" tvg-logo="https://hoantran.name.vn/iptv/logo/film/dreamworks.webp",Dreamworks
+#EXTINF:0 tvg-id="dreamworks" group-title="Film" tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks
 http://27.75.73.153:4022/udp/225.1.4.39:30120
 
 # --- International ---
-#EXTINF:-1 tvg-id="planetearthhd" group-title="Quốc Tế" tvg-logo="https://hoantran.name.vn/iptv/logo/int/planet_earth.webp",Planet Earth
+#EXTINF:0 tvg-id="abcaustralia" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC Australia
+http://27.75.73.153:4022/udp/225.1.2.21:30120
+#EXTINF:-1 tvg-id="planetearthhd" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Planet_Earth.png/revision/latest/scale-to-width-down/640?cb=20241104093929",Planet Earth
 https://xem.TruyenHinh.Click/CoBan/planetearthhd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="warnertvhd" group-title="Quốc Tế" tvg-logo="https://hoantran.name.vn/iptv/logo/int/warner_tv.webp",Warner TV
+#EXTINF:-1 tvg-id="warnertvhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/B9AVT2i.png",Warner TV
 http://27.75.73.153:4022/udp/225.1.1.139:30120
-#EXTINF:-1 tvg-id="discoveryasiahd" group-title="Quốc Tế" tvg-logo="https://hoantran.name.vn/iptv/logo/int/discovery_asia.webp",Discovery Asia
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia
 http://27.75.73.153:4022/udp/225.1.4.25:30120
-#EXTINF:-1 tvg-id="discoveryhd" group-title="Quốc Tế" tvg-logo="https://hoantran.name.vn/iptv/logo/int/discovery_channel.webp",Discovery Channel
+#EXTINF:-1 tvg-id="discoveryhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel
 http://27.75.73.153:4022/udp/225.1.4.24:30120
-#EXTINF:-1 tvg-id="afnhd" group-title="Quốc Tế" tvg-logo="https://hoantran.name.vn/iptv/logo/int/afn.webp",Asian Food Network
+#EXTINF:-1 tvg-id="afnhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="davinci" group-title="Quốc Tế" tvg-logo="https://hoantran.name.vn/iptv/logo/int/da_vinci.webp",Da Vinci
+#EXTINF:-1 tvg-id="davinci" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/t9fzARL.png",Da Vinci
 https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="kix" group-title="Quốc Tế" tvg-logo="https://hoantran.name.vn/iptv/logo/int/kix.webp",KIX
+#EXTINF:-1 tvg-id="kix" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/KIX.png/revision/latest/scale-to-width-down/640?cb=20241107194642",KIX
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="bbcearth" group-title="Quốc Tế" tvg-logo="https://hoantran.name.vn/iptv/logo/int/bbc_earth.webp",BBC Earth
+#EXTINF:-1 tvg-id="bbcearth" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth
 http://27.75.73.153:4022/udp/225.1.2.24:30120
-#EXTINF:-1 tvg-id="bbcworldnews" group-title="Quốc Tế" tvg-logo="https://hoantran.name.vn/iptv/logo/int/bbc_news.webp",BBC World News
+#EXTINF:-1 tvg-id="bbcworldnews" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC News
 http://27.75.73.153:4022/udp/225.1.2.74:30120
-#EXTINF:-1 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://hoantran.name.vn/iptv/logo/int/animal_planet.webp",Animal Planet
+#EXTINF:0 tvg-id="cbeebies" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CbeeBies
+http://27.75.73.153:4022/udp/225.1.1.134:30120
+#EXTINF:0 tvg-id="bbclifestyle" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/i7aYwdZ.png",BBC Lifestyle
+http://27.75.73.153:4022/udp/225.1.2.52:30120
+#EXTINF:-1 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet
 http://27.75.73.153:4022/udp/225.1.1.231:30120
-#EXTINF:0 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://hoantran.name.vn/iptv/logo/int/cartoon_network.webp",Cartoon Network
+#EXTINF:0 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network
 http://27.75.73.153:4022/udp/225.1.2.231:30120
-#EXTINF:0 tvg-id="cinemaworldhd" group-title="Quốc Tế" tvg-logo="https://hoantran.name.vn/iptv/logo/int/cinema_world.webp",Cinema World
+#EXTINF:0 tvg-id="cinemaworldhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World
 http://27.75.73.153:4022/udp/225.1.1.142:30120
-#EXTINF:0 tvg-id="cinemaxhd" group-title="Quốc Tế" tvg-logo="https://hoantran.name.vn/iptv/logo/int/cinemax.webp",Cinemax
+#EXTINF:0 tvg-id="cinemaxhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax
 http://27.75.73.153:4022/udp/225.1.2.86:30120
+#EXTINF:0 tvg-id="bloomberg" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/rxFZgIK.png",Bloomberg
+http://27.75.73.153:4022/udp/225.1.2.91:30120
+#EXTINF:0 tvg-id="cnn" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/RCd9AM9.png",CNN
+http://27.75.73.153:4022/udp/225.1.1.242:30120
+#EXTINF:0 tvg-id="arirang" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/H0hAm72.png",CNBC
+http://27.75.73.153:4022/udp/225.1.1.227:30120
 
 # --- HTV ---
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://hoantran.name.vn/iptv/logo/htv/htv1.webp",HTV1
