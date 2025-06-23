@@ -43,9 +43,9 @@ https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist_b5000000.m3u8
 # http://14.227.223.78:12343/rtp/232.84.3.42:11800
 
 # --- SCTV ---
-#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/SCTV1_logo.png/revision/latest/scale-to-width-down/500?cb=20191009032102",SCTV1
+#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3c/SCTV1.png/revision/latest/scale-to-width-down/500?cb=20201119113949&path-prefix=vi",SCTV1
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv1
-#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SCTV2-0.png/revision/latest/scale-to-width-down/220?cb=20180627082740",SCTV2
+#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/64/SCTV2.png/revision/latest/scale-to-width-down/500?cb=20201119114104&path-prefix=vi",SCTV2
 https://xem.TruyenHinh.Click/CoBan/sctv2-today-tv/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/35/SCTV3_See_TV.png/revision/latest/scale-to-width-down/500?cb=20210819101412&path-prefix=vi",SCTV3
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv3
@@ -81,43 +81,43 @@ https://freem3u.xyz/api/live/play.m3m8?tid=sctv21
 https://freem3u.xyz/api/live/play.m3m8?tid=sctvpth
 
 # --- VTVcab---
-#EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://hoantran.name.vn/iptv/logo/vtvcab/onviegiaitri.webp",ON Vie Giải trí
+#EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/ON_Vie_Gi%E1%BA%A3i_Tr%C3%AD.png/revision/latest/scale-to-width-down/500?cb=20240911153334",ON Vie Giải trí
 https://sgchill.io.vn/360/180/index.m3u8
-#EXTINF:-1 tvg-id="onphimviet" group-title="VTVcab" tvg-logo="https://hoantran.name.vn/iptv/logo/vtvcab/onphimviet.webp",ON Phim Việt
+#EXTINF:-1 tvg-id="onphimviet" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Phimviet-vctv2_2021.png/revision/latest/scale-to-width-down/500?cb=20240922084601",ON Phim Việt
 https://sgchill.io.vn/360/175/index.m3u8
-#EXTINF:-1 tvg-id="onmovies" group-title="VTVcab" tvg-logo="https://hoantran.name.vn/iptv/logo/vtvcab/onmovies.webp",ON Movies
+#EXTINF:-1 tvg-id="onmovies" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/ON_Movies.png/revision/latest/scale-to-width-down/500?cb=20240912095100",ON Movies
 https://sgchill.io.vn/360/181/index.m3u8
-#EXTINF:-1 tvg-id="onechannel" group-title="VTVcab" tvg-logo="https://hoantran.name.vn/iptv/logo/vtvcab/onechannel.webp",ON E-Channel
+#EXTINF:-1 tvg-id="onechannel" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/ON_E_Channel.png/revision/latest/scale-to-width-down/500?cb=20240912100230",ON E-Channel
 https://sgchill.io.vn/360/182/index.m3u8
-#EXTINF:-1 tvg-id="ono2tv" group-title="VTVcab" tvg-logo="https://hoantran.name.vn/iptv/logo/vtvcab/ono2tv.webp",ON O2TV
+#EXTINF:-1 tvg-id="ono2tv" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/ON_O2TV.png/revision/latest/scale-to-width-down/500?cb=20240912114736",ON O2TV
 https://sgchill.io.vn/360/136/index.m3u8
-#EXTINF:-1 tvg-id="onbibi" group-title="VTVcab" tvg-logo="https://hoantran.name.vn/iptv/logo/vtvcab/onbibi.webp",ON BiBi
+#EXTINF:-1 tvg-id="onbibi" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/ON_BiBi.png/revision/latest/scale-to-width-down/500?cb=20240912115252",ON BiBi
 https://sgchill.io.vn/360/178/index.m3u8
-#EXTINF:-1 tvg-id="onfootball" group-title="VTVcab" tvg-logo="https://hoantran.name.vn/iptv/logo/vtvcab/onfootball.webp",ON Football
+#EXTINF:-1 tvg-id="onfootball" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/ON_Football.png/revision/latest/scale-to-width-down/500?cb=20240912153849",ON Football
 https://freem3u.xyz/api/live/play.m3u8?oid=onfootball
-#EXTINF:-1 tvg-id="onsports" group-title="VTVcab" tvg-logo="https://hoantran.name.vn/iptv/logo/vtvcab/onsports.webp",ON Sports
+#EXTINF:-1 tvg-id="onsports" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d3/ON_Sports_logo_2022.png/revision/latest/scale-to-width-down/500?cb=20220311023726&path-prefix=vi",ON Sports
 https://freem3u.xyz/api/live/play.m3u8?oid=onsports
-#EXTINF:-1 tvg-id="onsportsnews" group-title="VTVcab" tvg-logo="https://hoantran.name.vn/iptv/logo/vtvcab/onsportsnews.webp",ON Sports News
+#EXTINF:-1 tvg-id="onsportsnews" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/ON_Sports_News.png/revision/latest/scale-to-width-down/500?cb=20240912160020",ON Sports News
 https://freem3u.xyz/api/live/play.m3u8?oid=onsportsnews
-#EXTINF:-1 tvg-id="onsportsplus" group-title="VTVcab" tvg-logo="https://hoantran.name.vn/iptv/logo/vtvcab/onsportsplus.webp",ON Sports+
+#EXTINF:-1 tvg-id="onsportsplus" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/OnSports%2B.png/revision/latest/scale-to-width-down/500?cb=20240912114258",ON Sports+
 https://freem3u.xyz/api/live/play.m3u8?oid=onsportsplus
-#EXTINF:-1 tvg-id="onlife" group-title="VTVcab" tvg-logo="https://hoantran.name.vn/iptv/logo/vtvcab/onlife.webp",ON Life
+#EXTINF:-1 tvg-id="onlife" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/ON_LIFE.png/revision/latest/scale-to-width-down/500?cb=20240912165357",ON Life
 https://sgchill.io.vn/360/188/index.m3u8
-#EXTINF:-1 tvg-id="oninfotv" group-title="VTVcab" tvg-logo="https://hoantran.name.vn/iptv/logo/vtvcab/oninfo.webp",ON Info
+#EXTINF:-1 tvg-id="oninfotv" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/ON_Info_TV.png/revision/latest/scale-to-width-down/500?cb=20240912145006",ON Info
 https://sgchill.io.vn/360/189/index.m3u8
-#EXTINF:-1 tvg-id="oncine" group-title="VTVcab" tvg-logo="https://hoantran.name.vn/iptv/logo/vtvcab/oncine.webp",ON Cine
+#EXTINF:-1 tvg-id="oncine" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/44/ON_Cine_logo_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/500?cb=20250517032358&path-prefix=vi",ON Cine
 https://sgchill.io.vn/360/176/index.m3u8
-#EXTINF:-1 tvg-id="onstyle" group-title="VTVcab" tvg-logo="https://hoantran.name.vn/iptv/logo/vtvcab/onstyle.webp",ON Style
+#EXTINF:-1 tvg-id="onstyle" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/ON_Style_TV_2023.png/revision/latest/scale-to-width-down/500?cb=20240912095627",ON Style
 https://sgchill.io.vn/360/184/index.m3u8
-#EXTINF:-1 tvg-id="onmusic" group-title="VTVcab" tvg-logo="https://hoantran.name.vn/iptv/logo/vtvcab/onmusic.webp",ON Music
+#EXTINF:-1 tvg-id="onmusic" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/ON_Music.png/revision/latest/scale-to-width-down/500?cb=20240912153122",ON Music
 https://sgchill.io.vn/360/185/index.m3u8
-#EXTINF:0 tvg-id="ontrending" type="stream" group-title="VTVcab" tvg-logo="https://hoantran.name.vn/iptv/logo/vtvcab/ontrending.webp",ON Trending
+#EXTINF:0 tvg-id="ontrending" type="stream" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/On_Trending_TV.png/revision/latest/scale-to-width-down/500?cb=20240912154725",ON Trending
 https://sgchill.io.vn/360/186/index.m3u8
-#EXTINF:-1 tvg-id="onviedramas" group-title="VTVcab" tvg-logo="https://hoantran.name.vn/iptv/logo/vtvcab/onviedramas.webp",ON Vie Dramas
+#EXTINF:-1 tvg-id="onviedramas" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/ON_Vie_Dramas_logo.png/revision/latest/scale-to-width-down/500?cb=20240912150238",ON Vie Dramas
 https://sgchill.io.vn/360/177/index.m3u8
-#EXTINF:-1 tvg-id="onvfamily" type="stream" group-title="VTVcab" tvg-logo="https://hoantran.name.vn/iptv/logo/vtvcab/onvfamily.webp",ON VFamily
+#EXTINF:-1 tvg-id="onvfamily" type="stream" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/ON_VFamily.png/revision/latest/scale-to-width-down/500?cb=20240912162555",ON VFamily
 https://sgchill.io.vn/360/187/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab21hd" group-title="VTVcab" tvg-logo="https://hoantran.name.vn/iptv/logo/vtvcab/onkids.webp", ON Kids
+#EXTINF:-1 tvg-id="vtvcab21hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/ON_Kids.png/revision/latest/scale-to-width-down/500?cb=20240912164200", ON Kids
 https://sgchill.io.vn/360/179/index.m3u8
 
 # --- Hanoi TV ---
