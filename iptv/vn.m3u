@@ -31,16 +31,16 @@ https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist_b5000000.m3u8
 
 # --- K+ ---
-# #EXTINF:0 tvg-id="kcinehd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/01/04/1680297664931/fb287ae7a7ad_640_360.png",K+ Cine
-# http://14.227.223.78:12343/rtp/232.84.1.122:10314
-# #EXTINF:0 tvg-id="kaction" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/01/02/22/170421048737/ca40e0d39e63_640_360.png",K+ Action
-# http://14.227.223.78:12343/rtp/232.84.1.33:8172
-# #EXTINF:0 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png",K+ Sport 1
-# http://14.227.223.78:12343/rtp/232.84.1.37:8196
-# #EXTINF:0 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997203860/76b98e5da32c_640_360.png",K+ Sport 2
-# http://14.227.223.78:12343/rtp/232.84.1.34:8178
-# #EXTINF:0 tvg-id="kkidshd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2022/10/22/18/1666437081424/cbd3f3af84ba_640_360.png",K+ Kids
-# http://14.227.223.78:12343/rtp/232.84.3.42:11800
+#EXTINF:0 tvg-id="kcinehd" group-title="K+" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/K%2B_Cine_2024.svg/revision/latest/scale-to-width-down/500?cb=20241030051040",K+ Cine
+http://14.182.202.62:8989/rtp/232.84.1.122:10314
+#EXTINF:0 tvg-id="kaction" group-title="K+" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/K%2B_Action_2024.svg/revision/latest/scale-to-width-down/500?cb=20241030051040",K+ Action
+http://14.182.202.62:8989/rtp/232.84.1.33:8172
+#EXTINF:0 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/K%2B_Sport_1_2024.svg/revision/latest/scale-to-width-down/500?cb=20241030051042",K+ Sport 1
+http://14.182.202.62:8989/rtp/232.84.1.37:8196
+#EXTINF:0 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/K%2B_Sport_2_2024.svg/revision/latest/scale-to-width-down/500?cb=20241030051043",K+ Sport 2
+http://14.182.202.62:8989/rtp/232.84.1.34:8178
+#EXTINF:0 tvg-id="kkidshd" group-title="K+" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/K%2B_Kids_2024.svg/revision/latest/scale-to-width-down/500?cb=20241030051041",K+ Kids
+http://14.182.202.62:8989/rtp/232.84.3.42:11800
 
 # --- SCTV ---
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3c/SCTV1.png/revision/latest/scale-to-width-down/500?cb=20201119113949&path-prefix=vi",SCTV1
