@@ -94,13 +94,17 @@ https://sgchill.io.vn/360/136/index.m3u8
 #EXTINF:-1 tvg-id="onbibi" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/ON_BiBi.png/revision/latest/scale-to-width-down/500?cb=20240912115252",ON BiBi
 https://sgchill.io.vn/360/178/index.m3u8
 #EXTINF:-1 tvg-id="onfootball" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/ON_Football.png/revision/latest/scale-to-width-down/500?cb=20240912153849",ON Football
-https://freem3u.xyz/api/live/play.m3u8?oid=onfootball
+http://14.182.202.62:8989/rtp/232.84.3.243:11380
+# https://freem3u.xyz/api/live/play.m3u8?oid=onfootball
 #EXTINF:-1 tvg-id="onsports" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d3/ON_Sports_logo_2022.png/revision/latest/scale-to-width-down/500?cb=20220311023726&path-prefix=vi",ON Sports
-https://freem3u.xyz/api/live/play.m3u8?oid=onsports
+http://14.182.202.62:8989/rtp/232.84.3.242:11374
+# https://freem3u.xyz/api/live/play.m3u8?oid=onsports
 #EXTINF:-1 tvg-id="onsportsnews" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/ON_Sports_News.png/revision/latest/scale-to-width-down/500?cb=20240912160020",ON Sports News
-https://freem3u.xyz/api/live/play.m3u8?oid=onsportsnews
+http://14.182.202.62:8989/rtp/232.84.2.193:10942
+# https://freem3u.xyz/api/live/play.m3u8?oid=onsportsnews
 #EXTINF:-1 tvg-id="onsportsplus" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/OnSports%2B.png/revision/latest/scale-to-width-down/500?cb=20240912114258",ON Sports+
-https://freem3u.xyz/api/live/play.m3u8?oid=onsportsplus
+http://14.182.202.62:8989/rtp/232.84.3.75:11602
+# https://freem3u.xyz/api/live/play.m3u8?oid=onsportsplus
 #EXTINF:-1 tvg-id="onlife" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/ON_LIFE.png/revision/latest/scale-to-width-down/500?cb=20240912165357",ON Life
 https://sgchill.io.vn/360/188/index.m3u8
 #EXTINF:-1 tvg-id="oninfotv" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/ON_Info_TV.png/revision/latest/scale-to-width-down/500?cb=20240912145006",ON Info
@@ -171,6 +175,8 @@ http://27.75.73.153:4022/udp/225.1.1.134:30120
 http://27.75.73.153:4022/udp/225.1.2.52:30120
 #EXTINF:-1 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet
 http://27.75.73.153:4022/udp/225.1.1.231:30120
+#EXTINF:0 tvg-id="outdoorhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor Channel
+http://27.75.73.153:4022/udp/225.1.2.215:30120
 #EXTINF:0 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network
 http://27.75.73.153:4022/udp/225.1.2.231:30120
 #EXTINF:0 tvg-id="cinemaworldhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World
@@ -181,26 +187,31 @@ http://27.75.73.153:4022/udp/225.1.2.86:30120
 http://27.75.73.153:4022/udp/225.1.2.91:30120
 #EXTINF:0 tvg-id="cnn" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/RCd9AM9.png",CNN
 http://27.75.73.153:4022/udp/225.1.1.242:30120
-#EXTINF:0 tvg-id="arirang" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/H0hAm72.png",CNBC
+#EXTINF:0 tvg-id="cnbc" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/H0hAm72.png",CNBC
 http://27.75.73.153:4022/udp/225.1.1.227:30120
+#EXTINF:0 tvg-id="musicbox" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/DoCK1GY.png",Music Box
+http://14.182.202.62:8989/rtp/232.84.1.13:8052
 
 # --- HTV ---
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ac/HTV1_logo.png/revision/latest/scale-to-width-down/500?cb=20180819051511&path-prefix=vi",HTV1
-https://live.fptplay53.net/epzhd1/htv1_vhls.smil/chunklist.m3u8
+http://14.182.202.62:8989/rtp/232.84.3.57:11710
+# https://live.fptplay53.net/epzhd1/htv1_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/61/HTV2_logo_%282010%29.png/revision/latest/scale-to-width-down/500?cb=20231116055127&path-prefix=vi",HTV2
 https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7f/HTV3_logo_2018-nay.png/revision/latest/scale-to-width-down/500?cb=20240907103335&path-prefix=vi",HTV3
-https://live.fptplay53.net/epzhd1/htv3_vhls.smil/chunklist.m3u8
+http://14.182.202.62:8989/rtp/232.84.3.56:11716
+# https://live.fptplay53.net/epzhd1/htv3_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv4" group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/63/HTV_Key_logo_%2831.12.2024-nay%29.png/revision/latest/scale-to-width-down/500?cb=20250323105253&path-prefix=vi",HTV Key
-https://live.fptplay53.net/epzhd1/htv4_vhls.smil/chunklist.m3u8
+http://14.182.202.62:8989/rtp/232.84.3.55:11722
+# https://live.fptplay53.net/epzhd1/htv4_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e3/HTV7_31-12-2024.png/revision/latest/scale-to-width-down/500?cb=20250213091237&path-prefix=vi",HTV7
 https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/69/HTV9_31-12-2024.png/revision/latest/scale-to-width-down/500?cb=20250213091232&path-prefix=vi",HTV9
 https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/11/HTV_Th%E1%BB%83_thao_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/500?cb=20220424065732&path-prefix=vi",HTV Thể Thao
+https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
 
 # --- HTVC ---
-https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTVC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/HTVC_Vietnamese.png/revision/latest/scale-to-width-down/500?cb=20250219044928",HTVC Thuần Việt
 https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTVC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/HTVC_Gia_%C4%91%C3%ACnh_logo.png/revision/latest/scale-to-width-down/500?cb=20250322144645",HTVC Gia đình
