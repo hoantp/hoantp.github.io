@@ -201,17 +201,17 @@ https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
 
 # --- HTVC ---
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTVC" tvg-logo="https://hoantran.name.vn/iptv/logo/htvc/htvcthuanviet.webp",HTVC Thuần Việt
+#EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTVC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/HTVC_Vietnamese.png/revision/latest/scale-to-width-down/500?cb=20250219044928",HTVC Thuần Việt
 https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTVC" tvg-logo="https://hoantran.name.vn/iptv/logo/htvc/htvcgiadinh.webp",HTVC Gia đình
+#EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTVC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/HTVC_Gia_%C4%91%C3%ACnh_logo.png/revision/latest/scale-to-width-down/500?cb=20250322144645",HTVC Gia đình
 https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="htvcphunuhd" group-title="HTVC" tvg-logo="https://hoantran.name.vn/iptv/logo/htvc/htvcphunu.webp",HTVC Phụ nữ
+#EXTINF:-1 tvg-id="htvcphunuhd" group-title="HTVC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/HTVC_Women_logo_2016.png/revision/latest/scale-to-width-down/500?cb=20210625041607",HTVC Phụ nữ
 https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTVC" tvg-logo="https://hoantran.name.vn/iptv/logo/htvc/htvcdulich.webp",HTVC Du lịch Cuộc sống
+#EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTVC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/HTVC_Travel_and_Living.png/revision/latest/scale-to-width-down/500?cb=20250219045153",HTVC Du lịch Cuộc sống
 https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="htvccanhachd" group-title="HTVC" tvg-logo="https://hoantran.name.vn/iptv/logo/htvc/htvccanhac.webp",HTVC Ca nhạc
+#EXTINF:-1 tvg-id="htvccanhachd" group-title="HTVC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/HTVC_Ca_Nh%E1%BA%A1c_2017.png/revision/latest/scale-to-width-down/500?cb=20250322151254",HTVC Ca nhạc
 https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="htvcphimhd" group-title="HTVC" tvg-logo="https://hoantran.name.vn/iptv/logo/htvc/htvcphim.webp",HTVC Phim
+#EXTINF:-1 tvg-id="htvcphimhd" group-title="HTVC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/HTVC_Phim_logo.webp/revision/latest/scale-to-width-down/500?cb=20220316092201",HTVC Phim
 https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="htvcplushd" group-title="HTVC" tvg-logo="https://hoantran.name.vn/iptv/logo/htvc/htvcplus.webp",HTVC Plus
+#EXTINF:-1 tvg-id="htvcplushd" group-title="HTVC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/HTVC%2B_logo.png/revision/latest/scale-to-width-down/500?cb=20250322150605",HTVC Plus
 https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
