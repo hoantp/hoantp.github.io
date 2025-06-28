@@ -171,13 +171,15 @@ https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="kix" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/kix.png",KIX
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="bbcearth" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/bbcearth.jpg",BBC Earth
-http://manhmk:123@hoatv001.ddns.net:9981/stream/channelid/1578896610?profile=pass
+http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/165106.ts
+# http://manhmk:123@hoatv001.ddns.net:9981/stream/channelid/1578896610?profile=pass
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/bbcnews.png",BBC News
 http://14.160.250.37:12343/rtp/232.84.3.224:11266
 #EXTINF:0 tvg-id="cbeebies" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/cbeebies.jpg",BBC CbeeBies
 http://manhmk:123@hoatv001.ddns.net:9981/stream/channelid/1895330731?profile=pass
 #EXTINF:0 tvg-id="bbclifestyle" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/bbclifestyle.jpg",BBC Lifestyle
-http://manhmk:123@hoatv001.ddns.net:9981/stream/channelid/566420670?profile=pass
+http://ntdung.duckdns.org:27589/udp/225.1.2.52:30120
+# http://manhmk:123@hoatv001.ddns.net:9981/stream/channelid/566420670?profile=pass
 #EXTINF:-1 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/animalhd.jpg",Animal Planet
 http://manhmk:123@hoatv001.ddns.net:9981/stream/channelid/2088496102?profile=pass
 #EXTINF:0 tvg-id="outdoorhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/outdoorhd.jpg",Outdoor Channel
