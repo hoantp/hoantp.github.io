@@ -174,12 +174,11 @@ https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
 http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/165106.ts
 # http://manhmk:123@hoatv001.ddns.net:9981/stream/channelid/1578896610?profile=pass
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/bbcnews.png",BBC News
-http://14.160.250.37:12343/rtp/232.84.3.224:11266
+http://sv.cvtv.xyz:81/bbcn?token=live
 #EXTINF:0 tvg-id="cbeebies" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/cbeebies.jpg",BBC CbeeBies
 http://manhmk:123@hoatv001.ddns.net:9981/stream/channelid/1895330731?profile=pass
 #EXTINF:0 tvg-id="bbclifestyle" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/bbclifestyle.jpg",BBC Lifestyle
-http://ntdung.duckdns.org:27589/udp/225.1.2.52:30120
-# http://manhmk:123@hoatv001.ddns.net:9981/stream/channelid/566420670?profile=pass
+http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/264747.ts
 #EXTINF:-1 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/animalhd.jpg",Animal Planet
 http://manhmk:123@hoatv001.ddns.net:9981/stream/channelid/2088496102?profile=pass
 #EXTINF:0 tvg-id="outdoorhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/outdoorhd.jpg",Outdoor Channel
@@ -191,26 +190,26 @@ http://manhmk:123@hoatv001.ddns.net:9981/stream/channelid/1800384844?profile=pas
 #EXTINF:0 tvg-id="cinemaxhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/cinemaxhd.png",Cinemax
 http://manhmk:123@hoatv001.ddns.net:9981/stream/channelid/146634546?profile=pass
 #EXTINF:0 tvg-id="bloomberg" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/bloomberg.png",Bloomberg
-http://manhmk:123@hoatv001.ddns.net:9981/stream/channelid/1533362369?profile=pass
+http://sv.cvtv.xyz:81/bb?token=live
 #EXTINF:0 tvg-id="cnn" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/cnn.png",CNN
-http://14.160.250.37:12343/rtp/232.84.3.153:10690
+http://sv.cvtv.xyz:81/cnn?token=live
 #EXTINF:0 tvg-id="cnbc" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/H0hAm72.png",CNBC
-http://14.160.250.37:12343/rtp/232.84.3.179:10488
+http://sv.cvtv.xyz:81/cnbc?token=live
 #EXTINF:0 tvg-id="musicbox" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/musicbox.jpg",Music Box
-http://14.160.250.37:12343/rtp/232.84.1.13:8052
+https://sgchill.io.vn/360/289/index.m3u8
 
 # --- HTV ---
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://img.lichphatsong.xyz/logo/htv1.jpg",HTV1
-# http://manhmk:123@hoatv001.ddns.net:9981/stream/channelid/676650533?profile=pass
-https://live.fptplay53.net/epzhd1/htv1_vhls.smil/chunklist.m3u8
+https://sgchill.io.vn/360/190/index.m3u8
+# https://live.fptplay53.net/epzhd1/htv1_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://img.lichphatsong.xyz/logo/htv2hd.jpg",HTV2
 https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://img.lichphatsong.xyz/logo/htv3.png",HTV3
-# http://manhmk:123@hoatv001.ddns.net:9981/stream/channelid/1191895758?profile=pass
-https://live.fptplay53.net/epzhd1/htv3_vhls.smil/chunklist.m3u8
+https://sgchill.io.vn/360/192/index.m3u8
+# https://live.fptplay53.net/epzhd1/htv3_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv4" group-title="HTV" tvg-logo="https://img.lichphatsong.xyz/logo/htvkey.jpg",HTV Key
-# http://manhmk:123@hoatv001.ddns.net:9981/stream/channelid/152021746?profile=pass
-https://live.fptplay53.net/epzhd1/htv4_vhls.smil/chunklist.m3u8
+https://sgchill.io.vn/360/193/index.m3u8
+# https://live.fptplay53.net/epzhd1/htv4_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://img.lichphatsong.xyz/logo/htv7hd.jpg",HTV7
 https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://img.lichphatsong.xyz/logo/htv9hd.jpg",HTV9
