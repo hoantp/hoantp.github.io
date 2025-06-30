@@ -31,27 +31,22 @@ https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist_b5000000.m3u8
 
 # --- K+ ---
-#EXTINF:0 tvg-id="kcinehd" group-title="K+" tvg-logo="https://img.lichphatsong.xyz/logo/kcinehd.jpg",K+ Cine
-http://manhmk:123@hoatv001.ddns.net:9981/stream/channelid/725255302?profile=pass
+# #EXTINF:0 tvg-id="kcinehd" group-title="K+" tvg-logo="https://img.lichphatsong.xyz/logo/kcinehd.jpg",K+ Cine
 # http://14.160.250.37:12343/rtp/232.84.1.122:10314
-#EXTINF:0 tvg-id="kaction" group-title="K+" tvg-logo="https://img.lichphatsong.xyz/logo/kaction.jpg",K+ Action
-http://manhmk:123@hoatv001.ddns.net:9981/stream/channelid/2068866323?profile=pass
+# #EXTINF:0 tvg-id="kaction" group-title="K+" tvg-logo="https://img.lichphatsong.xyz/logo/kaction.jpg",K+ Action
 # http://14.160.250.37:12343/rtp/232.84.1.33:8172
-#EXTINF:0 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://img.lichphatsong.xyz/logo/ksport1hd.jpg",K+ Sport 1
-http://manhmk:123@hoatv001.ddns.net:9981/stream/channelid/213638783?profile=pass
+# #EXTINF:0 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://img.lichphatsong.xyz/logo/ksport1hd.jpg",K+ Sport 1
 # http://14.160.250.37:12343/rtp/232.84.1.37:8196
-#EXTINF:0 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://img.lichphatsong.xyz/logo/ksport2hd.jpg",K+ Sport 2
-http://manhmk:123@hoatv001.ddns.net:9981/stream/channelid/1505763998?profile=pass
+# #EXTINF:0 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://img.lichphatsong.xyz/logo/ksport2hd.jpg",K+ Sport 2
 # http://14.160.250.37:12343/rtp/232.84.1.34:8178
-#EXTINF:0 tvg-id="kkidshd" group-title="K+" tvg-logo="https://img.lichphatsong.xyz/logo/kkidshd.jpg",K+ Kids
-http://manhmk:123@hoatv001.ddns.net:9981/stream/channelid/207602120?profile=pass
+# #EXTINF:0 tvg-id="kkidshd" group-title="K+" tvg-logo="https://img.lichphatsong.xyz/logo/kkidshd.jpg",K+ Kids
 # http://14.160.250.37:12343/rtp/232.84.3.42:11800
 
 # --- SCTV ---
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://img.lichphatsong.xyz/logo/sctv1hd.png",SCTV1
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv1
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://img.lichphatsong.xyz/logo/sctv2hd.png",SCTV2
-https://xem.TruyenHinh.Click/CoBan/sctv2-today-tv/TuyetDoiKhongKinhDoanh.m3u8
+https://sgchill.io.vn/360/201/index.m3u8
 #EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://img.lichphatsong.xyz/logo/sctv3hd.png",SCTV3
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv3
 #EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://img.lichphatsong.xyz/logo/sctv4hd.png",SCTV4
@@ -133,10 +128,9 @@ https://sgchill.io.vn/360/34/index.m3u8
 
 # --- Film ---
 #EXTINF:-1 tvg-id="hbohd" group-title="Film" tvg-logo="https://img.lichphatsong.xyz/logo/hbohd.png",HBO
-http://118.71.189.181:9981/stream/channelid/563238127?ticket=1BE98FCE9BEFACEF719355ACD8E2EF546C5FA8F1&profile=pass
-# https://s8.sky4k.top/stream/astro/hbo/master.m3u8?u=cvappuser&p=0f573e68e00dff8dca0ea6fb2e78c1b9b490a64e8d103112965404558fc00aa8
+http://125hvt.ddns.net:21585/hbo/index.m3u8
 #EXTINF:-1 tvg-id="tv360.PhimAuMy" group-title="Film" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/03/24/23/1742835081398/4e6776be1efd_640_360.png",Phim Âu Mỹ
-https://xem.TruyenHinh.Click/CoBan/tv360.PhimAuMy/TuyetDoiKhongKinhDoanh.m3u8
+https://sgchill.io.vn/360/9903/index.m3u8
 #EXTINF:-1 tvg-id="boxhits" group-title="Film" tvg-logo="https://img.lichphatsong.xyz/logo/boxhits.jpg",Box Hits
 https://sgchill.io.vn/360/239/index.m3u8
 #EXTINF:-1 tvg-id="boxmovie1" group-title="Film" tvg-logo="https://img.lichphatsong.xyz/logo/boxmovie1.jpg",Box Movie 1
@@ -146,27 +140,24 @@ https://sgchill.io.vn/360/160/index.m3u8
 #EXTINF:-1 tvg-id="inthebox" group-title="Film" tvg-logo="https://img.lichphatsong.xyz/logo/inthebox.jpg",In The Box
 https://sgchill.io.vn/360/235/index.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="Film" tvg-logo="https://img.lichphatsong.xyz/logo/axn.png",AXN Asia
-http://118.71.189.181:9981/stream/channelid/1218593369?ticket=B4F3E3903AC61815E46480B776A8FDA9619CFC4D&profile=pass
-# http://125hvt.ddns.net:21585/axn/index.m3u8
-#EXTINF:0 tvg-id="dreamworks" group-title="Film" tvg-logo="https://img.lichphatsong.xyz/logo/dreamworks.jpg",Dreamworks
-http://118.71.189.181:9981/stream/channelid/96169793?ticket=615F54D2818725DFD9A314E7AFA424A19DF4E3C8&profile=pass
-#EXTINF:0 tvg-id="cinemaworldhd" group-title="Film" tvg-logo="https://img.lichphatsong.xyz/logo/cinemaworldhd.jpg",Cinema World
-http://ntdung.duckdns.org:27589/udp/225.1.1.142:30120
-#EXTINF:0 tvg-id="cinemaxhd" group-title="Film" tvg-logo="https://img.lichphatsong.xyz/logo/cinemaxhd.png",Cinemax
-https://smart.pendy.dpdns.org/Smart.php?id=Cinemax
+http://125hvt.ddns.net:21585/axn/index.m3u8
+# #EXTINF:0 tvg-id="dreamworks" group-title="Film" tvg-logo="https://img.lichphatsong.xyz/logo/dreamworks.jpg",Dreamworks
+# http://118.71.189.181:9981/stream/channelid/96169793?ticket=615F54D2818725DFD9A314E7AFA424A19DF4E3C8&profile=pass
+# #EXTINF:0 tvg-id="cinemaworldhd" group-title="Film" tvg-logo="https://img.lichphatsong.xyz/logo/cinemaworldhd.jpg",Cinema World
+# http://ntdung.duckdns.org:27589/udp/225.1.1.142:30120
+# #EXTINF:0 tvg-id="cinemaxhd" group-title="Film" tvg-logo="https://img.lichphatsong.xyz/logo/cinemaxhd.png",Cinemax
+# https://smart.pendy.dpdns.org/Smart.php?id=Cinemax
 
 # --- International ---
-#EXTINF:0 tvg-id="abcaustralia" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/abcaustralia.jpg",ABC Australia
-http://118.71.189.181:9981/stream/channelid/1896292941?profile=pass
+# #EXTINF:0 tvg-id="abcaustralia" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/abcaustralia.jpg",ABC Australia
+# http://49.0.64.96:8007/ABC
 #EXTINF:-1 tvg-id="planetearthhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/planetearthhd.jpg",Planet Earth
-https://xem.TruyenHinh.Click/CoBan/planetearthhd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="warnertvhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/warnertvhd.jpg",Warner TV
-http://118.71.189.181:9981/stream/channelid/1980132028?ticket=CE360BC50BABD61CFEF1D90B5E08D2D935172EEE&profile=pass
+https://sgchill.io.vn/360/135/index.m3u8
+# #EXTINF:-1 tvg-id="warnertvhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/warnertvhd.jpg",Warner TV
 # http://125hvt.ddns.net:21585/wbtv/index.m3u8
-#EXTINF:-1 tvg-id="discoveryasiahd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/discoveryasiahd.jpg",Discovery Asia
-http://118.71.189.181:9981/stream/channelid/1569246603?ticket=BDEE0EA3BF555751F7A1A076A72DF9F7DE2D6C97&profile=pass
-#EXTINF:-1 tvg-id="discoveryhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/discoveryhd.jpg",Discovery Channel
-http://118.71.189.181:9981/stream/channelid/532555049?ticket=DCE48238756E0DF8EC2F5DF8B6ABF5091B34CCAD&profile=pass
+# #EXTINF:-1 tvg-id="discoveryasiahd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/discoveryasiahd.jpg",Discovery Asia
+# http://118.71.189.181:9981/stream/channelid/1569246603?ticket=BDEE0EA3BF555751F7A1A076A72DF9F7DE2D6C97&profile=pass
+# #EXTINF:-1 tvg-id="discoveryhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/discoveryhd.jpg",Discovery Channel
 # http://125hvt.ddns.net:21585/discovery/index.m3u8
 #EXTINF:-1 tvg-id="afnhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/afnhd.png",Asian Food Network
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
@@ -175,26 +166,24 @@ https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="kix" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/kix.png",KIX
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="bbcearth" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/bbcearth.jpg",BBC Earth
-http://118.71.189.181:9981/stream/channelid/557728413?profile=pass
-# http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/165106.ts
+http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/165106.ts
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/bbcnews.png",BBC News
 http://sv.cvtv.xyz:81/bbcn?token=live
-#EXTINF:0 tvg-id="cbeebies" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/cbeebies.jpg",BBC CbeeBies
-http://118.71.189.181:9981/stream/channelid/920973448?profile=pass
+# #EXTINF:0 tvg-id="cbeebies" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/cbeebies.jpg",BBC CbeeBies
+# http://118.71.189.181:9981/stream/channelid/920973448?profile=pass
 #EXTINF:0 tvg-id="bbclifestyle" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/bbclifestyle.jpg",BBC Lifestyle
-http://118.71.189.181:9981/stream/channelid/294874272?profile=pass
-# http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/264747.ts
+http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/264747.ts
 #EXTINF:-1 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/animalhd.jpg",Animal Planet
-http://118.71.189.181:9981/stream/channelid/1516924485?profile=pass
-# http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/83381.ts
+http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/83381.ts
 #EXTINF:-1 tvg-id="national" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/nat_geo.png",National Geographic
 https://fl5.moveonjoy.com/National_Geographic/index.m3u8
 #EXTINF:0 tvg-id="outdoorhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/outdoorhd.jpg",Outdoor Channel
 https://sgchill.io.vn/360/216/index.m3u8
-#EXTINF:0 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/cartoonhd.jpg",Cartoon Network
-http://118.71.189.181:9981/stream/channelid/1262835200?ticket=F78A4AC2E774FBCF2CA52A6D9BC65E31052CD5A2&profile=pass
+# #EXTINF:0 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/cartoonhd.jpg",Cartoon Network
+# http://118.71.189.181:9981/stream/channelid/1262835200?ticket=F78A4AC2E774FBCF2CA52A6D9BC65E31052CD5A2&profile=pass
 #EXTINF:0 tvg-id="bloomberg" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/bloomberg.png",Bloomberg
-http://sv.cvtv.xyz:81/bb?token=live
+https://bloomberg.com/media-manifest/streams/asia.m3u8
+# http://sv.cvtv.xyz:81/bb?token=live
 #EXTINF:0 tvg-id="cnn" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/cnn.png",CNN
 http://sv.cvtv.xyz:81/cnn?token=live
 #EXTINF:0 tvg-id="cnbc" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/H0hAm72.png",CNBC
