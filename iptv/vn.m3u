@@ -153,7 +153,7 @@ https://xem.TruyenHinh.Click/CoBan/vtvcab21hd/TuyetDoiKhongKinhDoanh.m3u8
 
 # --- Hanoi TV ---
 #EXTINF:-1 tvg-id="hanoi1" group-title="HNTV" tvg-logo="https://img.lichphatsong.xyz/logo/hanoi1.png",Hà Nội 1
-https://sgchill.io.vn/360/33/index.m3u8
+https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="hanoi2" group-title="HNTV" tvg-logo="https://img.lichphatsong.xyz/logo/hanoi2.png",Hà Nội 2
 https://sgchill.io.vn/360/34/index.m3u8
 
@@ -184,12 +184,12 @@ http://125hvt.ddns.net:21585/axn/index.m3u8
 # http://49.0.64.96:8007/ABC
 #EXTINF:-1 tvg-id="planetearthhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/planetearthhd.jpg",Planet Earth
 https://sgchill.io.vn/360/135/index.m3u8
-# #EXTINF:-1 tvg-id="warnertvhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/warnertvhd.jpg",Warner TV
-# http://125hvt.ddns.net:21585/wbtv/index.m3u8
+#EXTINF:-1 tvg-id="warnertvhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/warnertvhd.jpg",Warner TV
+http://125hvt.ddns.net:21585/wbtv/index.m3u8
 # #EXTINF:-1 tvg-id="discoveryasiahd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/discoveryasiahd.jpg",Discovery Asia
 # http://118.71.189.181:9981/stream/channelid/1569246603?ticket=BDEE0EA3BF555751F7A1A076A72DF9F7DE2D6C97&profile=pass
-# #EXTINF:-1 tvg-id="discoveryhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/discoveryhd.jpg",Discovery Channel
-# http://125hvt.ddns.net:21585/discovery/index.m3u8
+#EXTINF:-1 tvg-id="discoveryhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/discoveryhd.jpg",Discovery Channel
+http://125hvt.ddns.net:21585/discovery/index.m3u8
 #EXTINF:-1 tvg-id="afnhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/afnhd.png",Asian Food Network
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="davinci" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/davinci.png",Da Vinci
@@ -202,8 +202,8 @@ http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/165106.ts
 http://sv.cvtv.xyz:81/bbcn?token=live
 # #EXTINF:0 tvg-id="cbeebies" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/cbeebies.jpg",BBC CbeeBies
 # http://118.71.189.181:9981/stream/channelid/920973448?profile=pass
-#EXTINF:0 tvg-id="bbclifestyle" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/bbclifestyle.jpg",BBC Lifestyle
-http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/264747.ts
+# #EXTINF:0 tvg-id="bbclifestyle" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/bbclifestyle.jpg",BBC Lifestyle
+# http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/264747.ts
 #EXTINF:-1 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/animalhd.jpg",Animal Planet
 http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/83381.ts
 #EXTINF:-1 tvg-id="national" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/nat_geo.png",National Geographic
