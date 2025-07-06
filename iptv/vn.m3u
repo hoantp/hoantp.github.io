@@ -169,8 +169,8 @@ https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="bbcearth" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/bbcearth.jpg",BBC Earth
 http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/165106.ts
-#EXTINF:-1 tvg-id="bbcworldnews" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/bbcnews.png",BBC News
-http://sv.cvtv.xyz:81/bbcn?token=live
+# #EXTINF:-1 tvg-id="bbcworldnews" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/bbcnews.png",BBC News
+# http://sv.cvtv.xyz:81/bbcn?token=live
 # #EXTINF:0 tvg-id="cbeebies" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/cbeebies.jpg",BBC CbeeBies
 # http://118.71.189.181:9981/stream/channelid/920973448?profile=pass
 # #EXTINF:0 tvg-id="bbclifestyle" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/bbclifestyle.jpg",BBC Lifestyle
@@ -181,15 +181,18 @@ http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/83381.ts
 https://fl5.moveonjoy.com/National_Geographic/index.m3u8
 #EXTINF:0 tvg-id="outdoorhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/outdoorhd.jpg",Outdoor Channel
 https://sgchill.io.vn/360/216/index.m3u8
+#EXTINF:0 tvg-id="hgtv" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/hgtv.jpg",HGTV
+https://sgchill.io.vn/360/99/index.m3u8
 # #EXTINF:0 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/cartoonhd.jpg",Cartoon Network
 # http://118.71.189.181:9981/stream/channelid/1262835200?ticket=F78A4AC2E774FBCF2CA52A6D9BC65E31052CD5A2&profile=pass
 #EXTINF:0 tvg-id="bloomberg" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/bloomberg.png",Bloomberg
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 # http://sv.cvtv.xyz:81/bb?token=live
-#EXTINF:0 tvg-id="cnn" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/cnn.png",CNN
-http://sv.cvtv.xyz:81/cnn?token=live
+# #EXTINF:0 tvg-id="cnn" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/cnn.png",CNN
+# http://sv.cvtv.xyz:81/cnn?token=live
 #EXTINF:0 tvg-id="cnbc" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/H0hAm72.png",CNBC
-http://sv.cvtv.xyz:81/cnbc?token=live
+https://sgchill.io.vn/360/9855/index.m3u8
+# http://sv.cvtv.xyz:81/cnbc?token=live
 #EXTINF:0 tvg-id="musicbox" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/musicbox.jpg",Music Box
 https://sgchill.io.vn/360/289/index.m3u8
 
