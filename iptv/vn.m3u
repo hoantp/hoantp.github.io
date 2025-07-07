@@ -66,7 +66,7 @@ https://liveh12.seenow.vn/hls/SCTV12/index.m3u8
 #EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="https://img.lichphatsong.xyz/logo/sctv13hd.png",SCTV13
 https://liveh12.seenow.vn/hls/SCTV13/index.m3u8
 #EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://img.lichphatsong.xyz/logo/sctv14hd.png",SCTV14
-https://liveh12.seenow.vn/hls/SCTV14/03.m3u8
+https://liveh12.seenow.vn/hls/SCTV14/index.m3u8
 # #EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://img.lichphatsong.xyz/logo/sctv16hd.png",SCTV16
 # == LINK
 #EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://img.lichphatsong.xyz/logo/sctv18hd.png",SCTV18
@@ -188,7 +188,8 @@ https://sgchill.io.vn/360/99/index.m3u8
 #EXTINF:0 tvg-id="bloomberg" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/bloomberg.png",Bloomberg
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 # http://sv.cvtv.xyz:81/bb?token=live
-# #EXTINF:0 tvg-id="cnn" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/cnn.png",CNN
+#EXTINF:0 tvg-id="cnn" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/cnn.png",CNN
+https://raw.githubusercontent.com/CODERX24/tv/refs/heads/master/CNN.m3u8
 # http://sv.cvtv.xyz:81/cnn?token=live
 #EXTINF:0 tvg-id="cnbc" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/H0hAm72.png",CNBC
 https://sgchill.io.vn/360/9855/index.m3u8
