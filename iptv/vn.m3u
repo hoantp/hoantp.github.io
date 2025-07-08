@@ -94,15 +94,19 @@ https://sgchill.io.vn/360/136/index.m3u8
 #EXTINF:-1 tvg-id="onbibi" group-title="VTVcab" tvg-logo="https://img.lichphatsong.xyz/logo/on-bibi.jpg",ON BiBi
 https://sgchill.io.vn/360/178/index.m3u8
 #EXTINF:-1 tvg-id="onfootball" group-title="VTVcab" tvg-logo="https://img.lichphatsong.xyz/logo/on-football.jpg",ON Football
-https://xem.TruyenHinh.Click/BoSung/vtvcab16hd/TruyenHinh.Click
+https://xem.truyenhinh.click/TichHop/OnLive/LIVE/?user=onfootball
+# https://xem.TruyenHinh.Click/BoSung/vtvcab16hd/TruyenHinh.Click
 #EXTINF:-1 tvg-id="onsports" group-title="VTVcab" tvg-logo="https://img.lichphatsong.xyz/logo/on-sports.jpg",ON Sports
-https://xem.TruyenHinh.Click/BoSung/vtvcab3hd/TruyenHinh.Click
+https://xem.truyenhinh.click/TichHop/OnLive/LIVE/?user=onsports
+# https://xem.TruyenHinh.Click/BoSung/vtvcab3hd/TruyenHinh.Click
 #EXTINF:-1 tvg-id="onsportsnews" group-title="VTVcab" tvg-logo="https://img.lichphatsong.xyz/logo/on-sportsnews.jpg",ON Sports News
-https://xem.TruyenHinh.Click/BoSung/vtvcab18hd/TruyenHinh.Click
+https://xem.truyenhinh.click/TichHop/OnLive/LIVE/?user=onsportsnews
+# https://xem.TruyenHinh.Click/BoSung/vtvcab18hd/TruyenHinh.Click
 #EXTINF:-1 tvg-id="onsportsplus" group-title="VTVcab" tvg-logo="https://img.lichphatsong.xyz/logo/on-sportsplus.jpg",ON Sports+
-https://xem.TruyenHinh.Click/BoSung/vtvcab6hd/TruyenHinh.Click
+https://xem.truyenhinh.click/TichHop/OnLive/LIVE/?user=onsportsplus
+# https://xem.TruyenHinh.Click/BoSung/vtvcab6hd/TruyenHinh.Click
 #EXTINF:-1 tvg-id="ongolf" group-title="VTVcab" tvg-logo="https://img.lichphatsong.xyz/logo/on-golf.jpg",ON Golf
-https://xem.TruyenHinh.Click/CoBan/vtvcab23hd/TuyetDoiKhongKinhDoanh.m3u8
+https://sgchill.io.vn/360/169/index.m3u8
 #EXTINF:-1 tvg-id="onlife" group-title="VTVcab" tvg-logo="https://img.lichphatsong.xyz/logo/on-life.jpg",ON Life
 https://sgchill.io.vn/360/188/index.m3u8
 #EXTINF:-1 tvg-id="oninfotv" group-title="VTVcab" tvg-logo="https://img.lichphatsong.xyz/logo/on-infotv.jpg",ON Info
