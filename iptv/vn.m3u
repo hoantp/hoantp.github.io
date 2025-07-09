@@ -82,8 +82,7 @@ https://liveh12.seenow.vn/hls/SCTVPHIM/index.m3u8
 
 # --- VTVcab---
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://img.lichphatsong.xyz/logo/on-viegiaitri.jpg",ON Vie Giải trí
-https://gist.githubusercontent.com/hoantp/1cc6fdcb6a8a679c3049722c2ae175ab/raw/d3d0d8cd44f71124170f4439c93bfd2fe4886729/vtvcab1.m3u8
-# https://sgchill.io.vn/360/180/index.m3u8
+https://sgchill.io.vn/360/180/index.m3u8
 #EXTINF:-1 tvg-id="onphimviet" group-title="VTVcab" tvg-logo="https://img.lichphatsong.xyz/logo/on-phimviet.jpg",ON Phim Việt
 https://sgchill.io.vn/360/175/index.m3u8
 #EXTINF:-1 tvg-id="onmovies" group-title="VTVcab" tvg-logo="https://img.lichphatsong.xyz/logo/on-movies.jpg",ON Movies
@@ -197,7 +196,6 @@ https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:0 tvg-id="cnn" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/cnn.png",CNN
 https://gist.githubusercontent.com/hoantp/1cc6fdcb6a8a679c3049722c2ae175ab/raw/d3d0d8cd44f71124170f4439c93bfd2fe4886729/cnn.m3u8
 # https://raw.githubusercontent.com/CODERX24/tv/refs/heads/master/CNN.m3u8
-# http://sv.cvtv.xyz:81/cnn?token=live
 #EXTINF:0 tvg-id="cnbc" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/H0hAm72.png",CNBC
 https://sgchill.io.vn/360/9855/index.m3u8
 # http://sv.cvtv.xyz:81/cnbc?token=live
