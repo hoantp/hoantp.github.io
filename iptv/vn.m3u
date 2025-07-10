@@ -202,8 +202,7 @@ https://bloomberg.com/media-manifest/streams/asia.m3u8
 https://gist.githubusercontent.com/hoantp/1cc6fdcb6a8a679c3049722c2ae175ab/raw/d3d0d8cd44f71124170f4439c93bfd2fe4886729/cnn.m3u8
 # https://raw.githubusercontent.com/CODERX24/tv/refs/heads/master/CNN.m3u8
 #EXTINF:0 tvg-id="cnbc" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/H0hAm72.png",CNBC
-http://42.116.94.112:9876/udp
-# https://sgchill.io.vn/360/9855/index.m3u8
+https://sgchill.io.vn/360/9855/index.m3u8
 #EXTINF:0 tvg-id="musicbox" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/musicbox.jpg",Music Box
 https://sgchill.io.vn/360/289/index.m3u8
 
