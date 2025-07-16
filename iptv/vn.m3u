@@ -148,6 +148,8 @@ https://live.fptplay53.net/fnxhd2/hanoitv2_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="hbohd" group-title="Film" tvg-logo="https://img.lichphatsong.xyz/logo/hbohd.png",HBO
 # http://42.116.94.112:9876/udp/225.1.4.90:30120
 http://125hvt.ddns.net:21585/hbo/index.m3u8
+#EXTINF:-1 tvg-id="hbo" group-title="Film" tvg-logo="https://img.lichphatsong.xyz/logo/hbohd.png",HBO (US)
+https://fl5.moveonjoy.com/HBO/index.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="Film" tvg-logo="https://img.lichphatsong.xyz/logo/axn.png",AXN Asia
 # http://42.116.94.112:9876/udp/225.1.4.9:30120
 http://125hvt.ddns.net:21585/axn/index.m3u8
@@ -202,7 +204,8 @@ http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/165106.ts
 # #EXTINF:0 tvg-id="bbclifestyle" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/bbclifestyle.jpg",BBC Lifestyle
 # http://42.116.94.112:9876/udp/225.1.4.23:30120
 #EXTINF:-1 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/animalhd.jpg",Animal Planet
-http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/83381.ts
+https://fl5.moveonjoy.com/Animal_Planet/index.m3u8
+# http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/83381.ts
 #EXTINF:-1 tvg-id="national" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/nat_geo.png",National Geographic
 https://fl5.moveonjoy.com/National_Geographic/index.m3u8
 #EXTINF:0 tvg-id="outdoorhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/outdoorhd.jpg",Outdoor Channel
@@ -219,7 +222,8 @@ https://bloomberg.com/media-manifest/streams/asia.m3u8
 https://gist.githubusercontent.com/hoantp/1cc6fdcb6a8a679c3049722c2ae175ab/raw/d3d0d8cd44f71124170f4439c93bfd2fe4886729/cnn.m3u8
 # https://raw.githubusercontent.com/CODERX24/tv/refs/heads/master/CNN.m3u8
 #EXTINF:0 tvg-id="cnbc" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/H0hAm72.png",CNBC
-https://xem.TruyenHinh.Click/CoBan/cnbc-sd/TuyetDoiKhongKinhDoanh.m3u8
+https://fl5.moveonjoy.com/CNBC/index.m3u8
+# https://xem.TruyenHinh.Click/CoBan/cnbc-sd/TuyetDoiKhongKinhDoanh.m3u8
 # https://sgchill.io.vn/360/9855/index.m3u8
 #EXTINF:0 tvg-id="musicbox" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/musicbox.jpg",Music Box
 https://xem.TruyenHinh.Click/CoBan/music-box/TuyetDoiKhongKinhDoanh.m3u8
