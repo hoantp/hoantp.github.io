@@ -207,7 +207,7 @@ https://xem.TruyenHinh.Click/CoBan/hgtv/TuyetDoiKhongKinhDoanh.m3u8
 # http://42.116.94.112:9876/udp/225.1.4.13:30120
 #EXTINF:0 tvg-id="bloomberg" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/bloomberg.png",Bloomberg
 https://bloomberg.com/media-manifest/streams/asia.m3u8
-#EXTINF:-1 tvg-id="cna" group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/30/22/172770964477/d5bbdfff9927_480_270.png",CNA
+#EXTINF:-1 tvg-id="cna" group-title="Quốc Tế" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_channel-newsasia_165649295091.png",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:0 tvg-id="cnn" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/cnn.png",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
