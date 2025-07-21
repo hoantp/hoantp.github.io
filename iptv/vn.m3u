@@ -43,9 +43,9 @@ http://113.177.113.7:4022/rtp/232.84.1.34:8178
 http://113.177.113.7:4022/rtp/232.84.3.42:11800
 
 #EXTINF:-1 tvg-id="onfootball" group-title="MyTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-football.jpg",ON Football
-http://113.177.113.7:4022/rtp/232.84.3.243:11380
+http://113.177.113.7:4022/rtp/232.84.1.210:9234
 #EXTINF:-1 tvg-id="onsports" group-title="MyTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-sports.jpg",ON Sports
-http://113.177.113.7:4022/rtp/232.84.3.242:11374
+http://113.177.113.7:4022/rtp/232.84.1.207:9216
 #EXTINF:-1 tvg-id="onsportsnews" group-title="MyTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-sportsnews.jpg",ON Sports News
 http://113.177.113.7:4022/rtp/232.84.2.193:10942
 #EXTINF:-1 tvg-id="onsportsplus" group-title="MyTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-sportsplus.jpg",ON Sports+
