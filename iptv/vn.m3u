@@ -119,6 +119,8 @@ https://liveh12.seenow.vn/hls/SCTV18/03.m3u8
 # == LINK
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://img.lichphatsong.xyz/logo/sctvhdpth.png",SCTV Phim tổng hợp
 https://liveh12.seenow.vn/hls/SCTVPHIM/03.m3u8
+#EXTINF:-1 tvg-id="sctv4k" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/37/SCTV_4K.png/revision/latest/scale-to-width-down/600?cb=20250620065611&path-prefix=vi",SCTV 4K
+https://xem.TruyenHinh.Click/BoSung/sctv4k/TruyenHinh.Click
 
 # --- VTVcab---
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://img.lichphatsong.xyz/logo/on-viegiaitri.jpg",ON Vie Giải trí
