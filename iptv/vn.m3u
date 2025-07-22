@@ -267,3 +267,13 @@ https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvcplushd" group-title="HTVC" tvg-logo="https://img.lichphatsong.xyz/logo/htvcplushd.jpg",HTVC Plus
 https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
+
+# --- THVL ---
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="THVL" tvg-logo="https://img.lichphatsong.xyz/logo/vinhlong1hd.jpg",THVL1
+https://xem.TruyenHinh.Click/CoBan/vinh-long-1/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="THVL" tvg-logo="https://img.lichphatsong.xyz/logo/vinhlong2hd.jpg",THVL2
+https://xem.TruyenHinh.Click/CoBan/vinh-long-2/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="THVL" tvg-logo="https://img.lichphatsong.xyz/logo/vinhlong3hd.jpg",THVL3
+https://xem.TruyenHinh.Click/CoBan/vinh-long-3/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="THVL" tvg-logo="https://img.lichphatsong.xyz/logo/vinhlong4hd.png",THVL4
+https://xem.TruyenHinh.Click/CoBan/vinh-long-4/TuyetDoiKhongKinhDoanh.m3u8
