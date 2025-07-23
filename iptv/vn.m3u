@@ -183,13 +183,11 @@ https://xem.TruyenHinh.Click/CoBan/ha-noi-2/TuyetDoiKhongKinhDoanh.m3u8
 
 # --- Film ---
 #EXTINF:-1 tvg-id="hbohd" group-title="Film" tvg-logo="https://img.lichphatsong.xyz/logo/hbohd.png",HBO
-https://tv.ddns.vn/tv/hbohd/index.m3u8
-# http://125hvt.ddns.net:21585/hbo/index.m3u8
+http://125hvt.ddns.net:21585/hbo/index.m3u8
 #EXTINF:-1 tvg-id="hbo" group-title="Film" tvg-logo="https://img.lichphatsong.xyz/logo/hbohd.png",HBO (US)
 https://fl5.moveonjoy.com/HBO/index.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="Film" tvg-logo="https://img.lichphatsong.xyz/logo/axn.png",AXN Asia
-https://tv.ddns.vn/tv/axnhd/index.m3u8
-# http://125hvt.ddns.net:21585/axn/index.m3u8
+http://125hvt.ddns.net:21585/axn/index.m3u8
 #EXTINF:-1 tvg-id="boxhits" group-title="Film" tvg-logo="https://img.lichphatsong.xyz/logo/boxhits.jpg",Box Hits
 https://xem.TruyenHinh.Click/CoBan/box-hits/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="boxmovie1" group-title="Film" tvg-logo="https://img.lichphatsong.xyz/logo/boxmovie1.jpg",Box Movie 1
@@ -198,12 +196,12 @@ https://xem.TruyenHinh.Click/CoBan/box-movie-1-hd/TuyetDoiKhongKinhDoanh.m3u8
 https://xem.TruyenHinh.Click/CoBan/hollywood-classic-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="inthebox" group-title="Film" tvg-logo="https://img.lichphatsong.xyz/logo/inthebox.jpg",In The Box
 https://xem.TruyenHinh.Click/CoBan/in-the-box/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:0 tvg-id="cinemaworldhd" group-title="Film" tvg-logo="https://img.lichphatsong.xyz/logo/cinemaworldhd.jpg",Cinema World
-https://tv.ddns.vn/tv/cinemaworldhd/index.m3u8
-#EXTINF:0 tvg-id="cinemaxhd" group-title="Film" tvg-logo="https://img.lichphatsong.xyz/logo/cinemaxhd.png",Cinemax
-https://tv.ddns.vn/tv/cinemaxhd/index.m3u8
-#EXTINF:0 tvg-id="cartoonhd" group-title="Film" tvg-logo="https://img.lichphatsong.xyz/logo/cartoonhd.jpg",Cartoon Network
-https://tv.ddns.vn/tv/cartoonhd/index.m3u8
+# #EXTINF:0 tvg-id="cinemaworldhd" group-title="Film" tvg-logo="https://img.lichphatsong.xyz/logo/cinemaworldhd.jpg",Cinema World
+# https://tv.ddns.vn/tv/cinemaworldhd/index.m3u8
+# #EXTINF:0 tvg-id="cinemaxhd" group-title="Film" tvg-logo="https://img.lichphatsong.xyz/logo/cinemaxhd.png",Cinemax
+# https://tv.ddns.vn/tv/cinemaxhd/index.m3u8
+# #EXTINF:0 tvg-id="cartoonhd" group-title="Film" tvg-logo="https://img.lichphatsong.xyz/logo/cartoonhd.jpg",Cartoon Network
+# https://tv.ddns.vn/tv/cartoonhd/index.m3u8
 
 # --- International ---
 #EXTINF:-1 tvg-id="planetearthhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/planetearthhd.jpg",Planet Earth
@@ -211,8 +209,7 @@ https://xem.TruyenHinh.Click/CoBan/planet-earth-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="warnertvhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/warnertvhd.jpg",Warner TV
 http://125hvt.ddns.net:21585/wbtv/index.m3u8
 #EXTINF:-1 tvg-id="discoveryhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/discoveryhd.jpg",Discovery Channel
-https://tv.ddns.vn/tv/discoveryhd/index.m3u8
-# http://125hvt.ddns.net:21585/discovery/index.m3u8
+http://125hvt.ddns.net:21585/discovery/index.m3u8
 #EXTINF:-1 tvg-id="afnhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/afnhd.png",Asian Food Network
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="davinci" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/davinci.png",Da Vinci
