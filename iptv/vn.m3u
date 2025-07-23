@@ -209,7 +209,8 @@ https://tv.ddns.vn/tv/cartoonhd/index.m3u8
 #EXTINF:-1 tvg-id="planetearthhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/planetearthhd.jpg",Planet Earth
 https://xem.TruyenHinh.Click/CoBan/planet-earth-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="warnertvhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/warnertvhd.jpg",Warner TV
-http://125hvt.ddns.net:21585/wbtv/index.m3u8
+https://tv.ddns.vn/tv/warnertvhd/index.m3u8
+# http://125hvt.ddns.net:21585/wbtv/index.m3u8
 #EXTINF:-1 tvg-id="discoveryhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/discoveryhd.jpg",Discovery Channel
 https://tv.ddns.vn/tv/discoveryhd/index.m3u8
 # http://125hvt.ddns.net:21585/discovery/index.m3u8
