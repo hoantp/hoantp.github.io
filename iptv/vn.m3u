@@ -5,8 +5,8 @@
 https://livecdn.seenow.vn/mean/ANNINHTV/manifest.mpd
 # https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" group-title="ANQP" tvg-logo="https://img.lichphatsong.xyz/logo/qpvnhd.jpg",QPVN
-https://livecdn.seenow.vn/mean/QPTV/manifest.mpd
-# https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
+# https://livecdn.seenow.vn/mean/QPTV/manifest.mpd
 
 # --- VTV ---
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv1hd.jpg",VTV1
