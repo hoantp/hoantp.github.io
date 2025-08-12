@@ -249,7 +249,10 @@ https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="kix" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/kix.png",KIX
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="bbcearth" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/bbcearth.jpg",BBC Earth
-http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/165106.ts
+https://hls.mskycdn.online/tv/bbcearth/index.m3u8
+# http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/165106.ts
+#EXTINF:0 tvg-id="bbclifestyle" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/bbclifestyle.jpg",BBC Lifestyle
+https://hls.mskycdn.online/tv/bbclifestyle/index.m3u8
 #EXTINF:-1 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/animalhd.jpg",Animal Planet
 https://hls.mskycdn.online/tv/animalhd/index.m3u8
 # http://fl5.moveonjoy.com/Animal_Planet/index.m3u8
@@ -259,7 +262,8 @@ http://fl5.moveonjoy.com/National_Geographic/index.m3u8
 #EXTINF:-1 tvg-id="national" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/nat_geo_wild.png",National Geographic Wild
 http://fl5.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 #EXTINF:0 tvg-id="outdoorhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/outdoorhd.jpg",Outdoor Channel
-https://sgchill.io.vn/v1/b521/216/index.m3u8
+https://hls.mskycdn.online/tv/outdoorhd/index.m3u8
+# https://sgchill.io.vn/v1/b521/216/index.m3u8
 # https://xem.hoiquan.click/CoBan/outdoor-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:0 tvg-id="hgtv" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/hgtv.jpg",HGTV
 https://sgchill.io.vn/v1/b521/99/index.m3u8
