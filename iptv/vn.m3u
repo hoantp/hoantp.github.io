@@ -44,54 +44,54 @@ https://liveh12.seenow.vn/hls/VTV9_HD/04.m3u8
 
 # ---MyTV (RTP) ---
 #EXTINF:0 tvg-id="kcinehd" group-title="MyTV" tvg-logo="https://img.lichphatsong.xyz/logo/kcinehd.jpg",K+ Cine
-http://14.226.244.23:11111/rtp/232.84.1.122:10314
+http://113.175.168.231:8182/rtp/232.84.1.122:10314
 #EXTINF:0 tvg-id="kaction" group-title="MyTV" tvg-logo="https://img.lichphatsong.xyz/logo/kaction.jpg",K+ Action
-http://14.226.244.23:11111/rtp/232.84.1.33:8172
+http://113.175.168.231:8182/rtp/232.84.1.33:8172
 #EXTINF:0 tvg-id="ksport1hd" group-title="MyTV" tvg-logo="https://img.lichphatsong.xyz/logo/ksport1hd.jpg",K+ Sport 1
-http://14.226.244.23:11111/rtp/232.84.1.37:8196
+http://113.175.168.231:8182/rtp/232.84.1.37:8196
 #EXTINF:0 tvg-id="ksport2hd" group-title="MyTV" tvg-logo="https://img.lichphatsong.xyz/logo/ksport2hd.jpg",K+ Sport 2
-http://14.226.244.23:11111/rtp/232.84.1.34:8178
+http://113.175.168.231:8182/rtp/232.84.1.34:8178
 #EXTINF:0 tvg-id="kkidshd" group-title="MyTV" tvg-logo="https://img.lichphatsong.xyz/logo/kkidshd.jpg",K+ Kids
-http://14.226.244.23:11111/rtp/232.84.3.42:11800
+http://113.175.168.231:8182/rtp/232.84.3.42:11800
 
 #EXTINF:-1 tvg-id="onfootball" group-title="MyTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-football.jpg",ON Football
-http://14.226.244.23:11111/rtp/232.84.1.210:9234
+http://113.175.168.231:8182/rtp/232.84.1.210:9234
 #EXTINF:-1 tvg-id="onsports" group-title="MyTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-sports.jpg",ON Sports
-http://14.226.244.23:11111/rtp/232.84.1.207:9216
+http://113.175.168.231:8182/rtp/232.84.1.207:9216
 #EXTINF:-1 tvg-id="onsportsnews" group-title="MyTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-sportsnews.jpg",ON Sports News
-http://14.226.244.23:11111/rtp/232.84.2.193:10942
+http://113.175.168.231:8182/rtp/232.84.2.193:10942
 #EXTINF:-1 tvg-id="onsportsplus" group-title="MyTV" tvg-logo="https://img.lichphatsong.xyz/logo/on-sportsplus.jpg",ON Sports+
-http://14.226.244.23:11111/rtp/232.84.3.75:11602
+http://113.175.168.231:8182/rtp/232.84.3.75:11602
 
 #EXTINF:-1 tvg-id="hbohd" group-title="MyTV" tvg-logo="https://img.lichphatsong.xyz/logo/hbohd.png",HBO
-http://14.226.244.23:11111/rtp/232.84.2.138:10648
+http://113.175.168.231:8182/rtp/232.84.2.138:10648
 #EXTINF:-1 tvg-id="axnhd" group-title="MyTV" tvg-logo="https://img.lichphatsong.xyz/logo/axn.png",AXN Asia
-http://14.226.244.23:11111/rtp/232.84.2.140:10660
+http://113.175.168.231:8182/rtp/232.84.2.140:10660
 #EXTINF:0 tvg-id="dreamworks" group-title="MyTV" tvg-logo="https://img.lichphatsong.xyz/logo/dreamworks.jpg",Dreamworks
-http://14.226.244.23:11111/rtp/232.84.3.227:11284
+http://113.175.168.231:8182/rtp/232.84.3.227:11284
 #EXTINF:0 tvg-id="cinemaworldhd" group-title="MyTV" tvg-logo="https://img.lichphatsong.xyz/logo/cinemaworldhd.jpg",Cinema World
-http://14.226.244.23:11111/rtp/232.84.2.172:10840
+http://113.175.168.231:8182/rtp/232.84.2.172:10840
 #EXTINF:0 tvg-id="cinemaxhd" group-title="MyTV" tvg-logo="https://img.lichphatsong.xyz/logo/cinemaxhd.png",Cinemax
-http://14.226.244.23:11111/rtp/232.84.3.117:10654
+http://113.175.168.231:8182/rtp/232.84.3.117:10654
 
 #EXTINF:-1 tvg-id="warnertvhd" group-title="MyTV" tvg-logo="https://img.lichphatsong.xyz/logo/warnertvhd.jpg",Warner TV
-http://14.226.244.23:11111/rtp/232.84.2.51:10516
+http://113.175.168.231:8182/rtp/232.84.2.51:10516
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="MyTV" tvg-logo="https://img.lichphatsong.xyz/logo/discoveryasiahd.jpg",Discovery Asia
-http://14.226.244.23:11111/rtp/232.84.3.219:11236
+http://113.175.168.231:8182/rtp/232.84.3.219:11236
 #EXTINF:-1 tvg-id="discoveryhd" group-title="MyTV" tvg-logo="https://img.lichphatsong.xyz/logo/discoveryhd.jpg",Discovery Channel
-http://14.226.244.23:11111/rtp/232.84.2.53:10528
+http://113.175.168.231:8182/rtp/232.84.2.53:10528
 #EXTINF:-1 tvg-id="bbcearth" group-title="MyTV" tvg-logo="https://img.lichphatsong.xyz/logo/bbcearth.jpg",BBC Earth
-http://14.226.244.23:11111/rtp/232.84.3.226:11278
+http://113.175.168.231:8182/rtp/232.84.3.226:11278
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="MyTV" tvg-logo="https://img.lichphatsong.xyz/logo/bbcnews.png",BBC News
-http://14.226.244.23:11111/rtp/232.84.3.224:11266
+http://113.175.168.231:8182/rtp/232.84.3.224:11266
 #EXTINF:0 tvg-id="cbeebies" group-title="MyTV" tvg-logo="https://img.lichphatsong.xyz/logo/cbeebies.jpg",BBC CbeeBies
-http://14.226.244.23:11111/rtp/232.84.1.90:10398
+http://113.175.168.231:8182/rtp/232.84.1.90:10398
 #EXTINF:0 tvg-id="bbclifestyle" group-title="MyTV" tvg-logo="https://img.lichphatsong.xyz/logo/bbclifestyle.jpg",BBC Lifestyle
-http://14.226.244.23:11111/rtp/232.84.3.225:11272
+http://113.175.168.231:8182/rtp/232.84.3.225:11272
 #EXTINF:-1 tvg-id="animalhd" group-title="MyTV" tvg-logo="https://img.lichphatsong.xyz/logo/animalhd.jpg",Animal Planet
-http://14.226.244.23:11111/rtp/232.84.3.139:10702
+http://113.175.168.231:8182/rtp/232.84.3.139:10702
 #EXTINF:0 tvg-id="cartoonhd" group-title="MyTV" tvg-logo="https://img.lichphatsong.xyz/logo/cartoonhd.jpg",Cartoon Network
-http://14.226.244.23:11111/rtp/232.84.2.144:10684
+http://113.175.168.231:8182/rtp/232.84.2.144:10684
 
 
 # --- SCTV ---
