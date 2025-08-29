@@ -264,8 +264,8 @@ http://fl5.moveonjoy.com/National_Geographic/index.m3u8
 http://fl5.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 #EXTINF:0 tvg-id="outdoorhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/outdoorhd.jpg",Outdoor Channel
 https://hls.mskycdn.online/tv/outdoorhd/index.m3u8
-# # https://sgchill.io.vn/v1/b521/216/index.m3u8
-https://xem.hoiquan.click/CoBan/outdoor-hd/TuyetDoiKhongKinhDoanh.m3u8
+# https://sgchill.io.vn/v1/b521/216/index.m3u8
+# https://xem.hoiquan.click/CoBan/outdoor-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:0 tvg-id="hgtv" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/hgtv.jpg",HGTV
 # https://sgchill.io.vn/v1/b521/99/index.m3u8
 https://xem.hoiquan.click/CoBan/hgtv/TuyetDoiKhongKinhDoanh.m3u8
@@ -279,8 +279,6 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTINF:0 tvg-id="cnbc" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/H0hAm72.png",CNBC
 https://tv-1.iill.top/4gtv/4gtv-live130
 #EXTINF:0 tvg-id="historyhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/historyhd.jpg",History
-#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
-#EXTVLCOPT:http-referrer=https://www.videolan.org/
 https://tv-1.iill.top/4gtv/4gtv-live026
 
 # --- HTV ---
@@ -334,3 +332,7 @@ https://xem.hoiquan.click/CoBan/vinh-long-3/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="THVL" tvg-logo="https://img.lichphatsong.xyz/logo/vinhlong4hd.png",THVL4
 # https://sgchill.io.vn/v1/b521/220/index.m3u8
 https://xem.hoiquan.click/CoBan/vinh-long-4/TuyetDoiKhongKinhDoanh.m3u8
+
+# --- Test ---
+#EXTINF:-1 tvg-id="gas" group-title="Test" tvg-logo="",Test
+https://script.google.com/macros/s/AKfycbwlJ8qh1_hyMrUXdd5BOlnuXsep2t_hrzzRIBEJU_RsEv1ZQx3AlIK0MZXHjPNoK6fgvA/exec
