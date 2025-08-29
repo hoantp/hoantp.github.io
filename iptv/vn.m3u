@@ -277,11 +277,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 # https://raw.githubusercontent.com/CODERX24/tv/refs/heads/master/CNN.m3u8
 #EXTINF:0 tvg-id="cnbc" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/H0hAm72.png",CNBC
-http://iptvtree.net:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/162533.ts
-# http://fl5.moveonjoy.com/CNBC/index.m3u8
-#EXTINF:0 tvg-id="musicbox" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/musicbox.jpg",Music Box
-# https://sgchill.io.vn/v1/b521/289/index.m3u8
-https://xem.hoiquan.click/CoBan/music-box/TuyetDoiKhongKinhDoanh.m3u8
+https://tv-1.iill.top/4gtv/4gtv-live130
 
 # --- HTV ---
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://img.lichphatsong.xyz/logo/htv1.jpg",HTV1
