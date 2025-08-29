@@ -279,6 +279,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTINF:0 tvg-id="cnbc" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/H0hAm72.png",CNBC
 https://tv-1.iill.top/4gtv/4gtv-live130
 #EXTINF:0 tvg-id="historyhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/historyhd.jpg",History
+#EXTHTTP:{"User-Agent":"Kodi/21.2 (Macintosh; ARM Mac OS X 13_7_5) App_Bitness/64 Version/21.2-(21.2.0)-Git:20250115-d1a1d48c3c", "accept": "*/*", "accept-encoding": "deflate, gzip"}
 https://tv-1.iill.top/4gtv/4gtv-live026
 
 # --- HTV ---
@@ -335,4 +336,5 @@ https://xem.hoiquan.click/CoBan/vinh-long-4/TuyetDoiKhongKinhDoanh.m3u8
 
 # --- Test ---
 #EXTINF:-1 tvg-id="gas" group-title="Test" tvg-logo="",Test
+#EXTHTTP:{"User-Agent":"Kodi/21.2 (Macintosh; ARM Mac OS X 13_7_5) App_Bitness/64 Version/21.2-(21.2.0)-Git:20250115-d1a1d48c3c", "accept": "*/*", "accept-encoding": "deflate, gzip"}
 https://webhook.site/0e0c1396-5e15-442f-b29f-1733b7907e4c
