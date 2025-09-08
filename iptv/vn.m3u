@@ -41,6 +41,8 @@ https://liveh12.seenow.vn/hls/VTV8_HD/04.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv9hd.jpg",VTV9
 https://liveh12.seenow.vn/hls/VTV9_HD/04.m3u8
 # https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vietnamtoday.webp",Vietnam Today
+https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
 
 # ---MyTV (RTP) ---
 #EXTINF:0 tvg-id="kcinehd" group-title="MyTV" tvg-logo="https://img.lichphatsong.xyz/logo/kcinehd.jpg",K+ Cine
