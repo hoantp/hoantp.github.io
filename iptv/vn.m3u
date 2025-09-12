@@ -279,10 +279,10 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 # https://raw.githubusercontent.com/CODERX24/tv/refs/heads/master/CNN.m3u8
 #EXTINF:0 tvg-id="cnbc" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/H0hAm72.png",CNBC
-https://iptv.pirago.work/stream-link/130
+https://iptv.pirago.work/4gtv/130
 #https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="historyhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.xyz/logo/historyhd.jpg",History
-https://iptv.pirago.work/stream-link/026
+https://iptv.pirago.work/4gtv/026
 
 # --- HTV ---
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://img.lichphatsong.xyz/logo/htv1.jpg",HTV1
