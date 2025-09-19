@@ -2,8 +2,8 @@
 
 # --- ANQP ---
 #EXTINF:-1 tvg-id="antvhd" group-title="ANQP" tvg-logo="https://img.lichphatsong.site/logo/antv.png",ANTV
-https://livecdn.seenow.vn/mean/ANNINHTV/manifest.mpd
-# https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
+# https://livecdn.seenow.vn/mean/ANNINHTV/manifest.mpd
 #EXTINF:-1 tvg-id="qpvnhd" group-title="ANQP" tvg-logo="https://img.lichphatsong.site/logo/qpvnhd.jpg",QPVN
 https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 # https://livecdn.seenow.vn/mean/QPTV/manifest.mpd
@@ -191,7 +191,8 @@ https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/179/index.
 #EXTINF:-1 tvg-id="hanoi1" group-title="HNTV" tvg-logo="https://img.lichphatsong.site/logo/hanoi1.png",Hà Nội 1
 https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="hanoi2" group-title="HNTV" tvg-logo="https://img.lichphatsong.site/logo/hanoi2.png",Hà Nội 2
-https://liveh12.seenow.vn/hls/HANOI2TV/03.m3u8
+https://cecex9g5cpliv.vcdn.cloud/events/HN2/playlist.m3u8
+#https://liveh12.seenow.vn/hls/HANOI2TV/03.m3u8
 
 # --- Film ---
 #EXTINF:-1 tvg-id="hbohd" group-title="Film" tvg-logo="https://img.lichphatsong.site/logo/hbohd.png",HBO
