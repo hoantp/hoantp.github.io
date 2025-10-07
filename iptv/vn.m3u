@@ -254,8 +254,8 @@ https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-id="cna" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.site/logo/cna.jpg",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:0 tvg-id="cnn" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.site/logo/cnn.png",CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-# https://raw.githubusercontent.com/CODERX24/tv/refs/heads/master/CNN.m3u8
+https://viamotionhsi.netplus.ch/live/eds/cnn/browser-HLS8/cnn.m3u8
+# https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:0 tvg-id="cnbc" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.site/logo/cnbc.jpg",CNBC
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 # https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8
