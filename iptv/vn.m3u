@@ -303,17 +303,13 @@ https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist_b5000000.m3u8
 
 # --- THVL ---
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="THVL" tvg-logo="https://img.lichphatsong.site/logo/vinhlong1hd.jpg",THVL1
-# https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/25/index.m3u8
-https://xem.hoiquan.click/CoBan/vinh-long-1/TuyetDoiKhongKinhDoanh.m3u8
+https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="THVL" tvg-logo="https://img.lichphatsong.site/logo/vinhlong2hd.jpg",THVL2
-# https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/26/index.m3u8
-https://xem.hoiquan.click/CoBan/vinh-long-2/TuyetDoiKhongKinhDoanh.m3u8
+https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="THVL" tvg-logo="https://img.lichphatsong.site/logo/vinhlong3hd.jpg",THVL3
-# https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/219/index.m3u8
-https://xem.hoiquan.click/CoBan/vinh-long-3/TuyetDoiKhongKinhDoanh.m3u8
+https://live.fptplay53.net/epzch2/vinhlong3-abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="THVL" tvg-logo="https://img.lichphatsong.site/logo/vinhlong4hd.png",THVL4
-# https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/220/index.m3u8
-https://xem.hoiquan.click/CoBan/vinh-long-4/TuyetDoiKhongKinhDoanh.m3u8
+https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
 
 # --- Test ---
 ##EXTINF:-1 tvg-id="gas" group-title="Test" tvg-logo="",Test
