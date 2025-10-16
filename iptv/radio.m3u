@@ -1,0 +1,12 @@
+#EXTM3U url-tvg="https://vnepg.site/epg.xml.gz"
+
+# == VOV
+#EXTINF:-1 tvg-id="vovgthn" group-title="VOV" tvg-logo="https://foxxradio.com/upload/vi/1671787010.png.webp",VOV Giao thông Hà Nội
+https://stream.vovmedia.vn/vovgt-hn
+#EXTINF:-1 tvg-id="vov1" group-title="VOV" tvg-logo="https://foxxradio.com/upload/vi/1671787010.png.webp",VOV1 - Thời sự
+https://stream.vovmedia.vn/vov-1
+#EXTINF:-1 tvg-id="vov2" group-title="VOV" tvg-logo="https://foxxradio.com/upload/vi/1671787175.png.webp",VOV2 - Xã hội
+https://stream.vovmedia.vn/vov-2
+#EXTINF:-1 tvg-id="vov3" group-title="VOV" tvg-logo="https://foxxradio.com/upload/vi/1671787383.png.webp",VOV3 - Âm nhạc
+https://stream.vovmedia.vn/vov-3
+
