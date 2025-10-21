@@ -101,7 +101,7 @@ http://mytv.hoantran.name.vn:63213/rtp/232.84.2.144:10684
 https://liveh12.seenow.vn/hls/SCTV1/03.m3u8
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://img.lichphatsong.site/logo/sctv2hd.png",SCTV2
 https://freem3u.xyz/api/live/play.m3u8?vid=201
-# https://xem.hoiquan.click/CoBan/sctv2-today-tv/TuyetDoiKhongKinhDoanh.m3u8
+# https://toiyeuvietnam.dpdns.org/CoBan/sctv2-today-tv/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://img.lichphatsong.site/logo/sctv3hd.png",SCTV3
 https://liveh34.seenow.vn/hls/SCTV3/03.m3u8
 #EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://img.lichphatsong.site/logo/sctv4hd.png",SCTV4
@@ -140,52 +140,52 @@ https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8
 # --- VTVcab---
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://img.lichphatsong.site/logo/on-viegiaitri.jpg",ON Vie Giải trí
 https://freem3u.xyz/api/live/play.m3u8?vid=180
-# https://xem.hoiquan.click/CoBan/vtvcab-1-vie-giai-tri-hd/TuyetDoiKhongKinhDoanh.m3u8
+# https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-1-vie-giai-tri-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="onphimviet" group-title="VTVcab" tvg-logo="https://img.lichphatsong.site/logo/on-phimviet.jpg",ON Phim Việt
 https://freem3u.xyz/api/live/play.m3u8?vid=175
-# https://xem.hoiquan.click/CoBan/vtvcab-2-phim-viet-hd/TuyetDoiKhongKinhDoanh.m3u8
+# https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-2-phim-viet-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="onmovies" group-title="VTVcab" tvg-logo="https://img.lichphatsong.site/logo/on-movies.jpg",ON Movies
 https://freem3u.xyz/api/live/play.m3u8?vid=181
-# https://xem.hoiquan.click/CoBan/vtvcab-4-on-movies/TuyetDoiKhongKinhDoanh.m3u8
+# https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-4-on-movies/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="onechannel" group-title="VTVcab" tvg-logo="https://img.lichphatsong.site/logo/on-echannel.jpg",ON E-Channel
 https://freem3u.xyz/api/live/play.m3u8?vid=182
-# https://xem.hoiquan.click/CoBan/vtvcab-5-e-channel-hd/TuyetDoiKhongKinhDoanh.m3u8
+# https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-5-e-channel-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="ono2tv" group-title="VTVcab" tvg-logo="https://img.lichphatsong.site/logo/on-o2tv.jpg",ON O2TV
 https://freem3u.xyz/api/live/play.m3u8?vid=136
-# https://xem.hoiquan.click/CoBan/o2tv/TuyetDoiKhongKinhDoanh.m3u8
+# https://toiyeuvietnam.dpdns.org/CoBan/o2tv/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="onbibi" group-title="VTVcab" tvg-logo="https://img.lichphatsong.site/logo/on-bibi.jpg",ON BiBi
 https://freem3u.xyz/api/live/play.m3u8?vid=178
-# https://xem.hoiquan.click/CoBan/vtvcab-8-bi-bi-sd/TuyetDoiKhongKinhDoanh.m3u8
+# https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-8-bi-bi-sd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="ongolf" group-title="VTVcab" tvg-logo="https://img.lichphatsong.site/logo/on-golf.jpg",ON Golf
 https://sgchill.io.vn/s97/cb1?id=169
-#https://xem.hoiquan.click/CoBan/vtvcab-23-golf-channel/TuyetDoiKhongKinhDoanh.m3u8
+#https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-23-golf-channel/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="onlife" group-title="VTVcab" tvg-logo="https://img.lichphatsong.site/logo/on-life.jpg",ON Life
 https://freem3u.xyz/api/live/play.m3u8?vid=188
-# https://xem.hoiquan.click/CoBan/vtvcab-22-life-tv-hd/TuyetDoiKhongKinhDoanh.m3u8
+# https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-22-life-tv-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="oninfotv" group-title="VTVcab" tvg-logo="https://img.lichphatsong.site/logo/on-infotv.jpg",ON Info
 https://freem3u.xyz/api/live/play.m3u8?vid=189
-# https://xem.hoiquan.click/CoBan/vtvcab-9-infotv-hd/TuyetDoiKhongKinhDoanh.m3u8
+# https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-9-infotv-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="oncine" group-title="VTVcab" tvg-logo="https://img.lichphatsong.site/logo/on-cine.jpg",ON Cine
 https://freem3u.xyz/api/live/play.m3u8?vid=176
-# https://xem.hoiquan.click/CoBan/vtvcab10-on-cine-hd/TuyetDoiKhongKinhDoanh.m3u8
+# https://toiyeuvietnam.dpdns.org/CoBan/vtvcab10-on-cine-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="onstyle" group-title="VTVcab" tvg-logo="https://img.lichphatsong.site/logo/on-style.jpg",ON Style
 https://freem3u.xyz/api/live/play.m3u8?vid=184
-# https://xem.hoiquan.click/CoBan/vtvcab-12-styletv-hd/TuyetDoiKhongKinhDoanh.m3u8
+# https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-12-styletv-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="onmusic" group-title="VTVcab" tvg-logo="https://img.lichphatsong.site/logo/on-music.jpg",ON Music
 https://freem3u.xyz/api/live/play.m3u8?vid=185
-# https://xem.hoiquan.click/CoBan/vtvcab15-on-music/TuyetDoiKhongKinhDoanh.m3u8
+# https://toiyeuvietnam.dpdns.org/CoBan/vtvcab15-on-music/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:0 tvg-id="ontrending" type="stream" group-title="VTVcab" tvg-logo="https://img.lichphatsong.site/logo/on-trending.jpg",ON Trending
 https://freem3u.xyz/api/live/play.m3u8?vid=186
-# https://xem.hoiquan.click/CoBan/vtvcab17-trending-tv/TuyetDoiKhongKinhDoanh.m3u8
+# https://toiyeuvietnam.dpdns.org/CoBan/vtvcab17-trending-tv/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="onviedramas" group-title="VTVcab" tvg-logo="https://img.lichphatsong.site/logo/on-viedramas.jpg",ON Vie Dramas
 https://freem3u.xyz/api/live/play.m3u8?vid=177
-# https://xem.hoiquan.click/CoBan/vtvcab19-vie-dramas/TuyetDoiKhongKinhDoanh.m3u8
+# https://toiyeuvietnam.dpdns.org/CoBan/vtvcab19-vie-dramas/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="onvfamily" type="stream" group-title="VTVcab" tvg-logo="https://img.lichphatsong.site/logo/on-vfamily.jpg",ON VFamily
 https://freem3u.xyz/api/live/play.m3u8?vid=187
-# https://xem.hoiquan.click/CoBan/vtvcab-20-v-family-hd/TuyetDoiKhongKinhDoanh.m3u8
+# https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-20-v-family-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="vtvcab21hd" group-title="VTVcab" tvg-logo="https://img.lichphatsong.site/logo/on-kids.jpg",ON Kids
 https://freem3u.xyz/api/live/play.m3u8?vid=179
-# https://xem.hoiquan.click/CoBan/vtvcab-21-cartoon-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
+# https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-21-cartoon-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
 
 # --- Hanoi TV ---
 #EXTINF:-1 tvg-id="hanoi1" group-title="HNTV" tvg-logo="https://img.lichphatsong.site/logo/hanoi1.png",Hà Nội 1
@@ -197,42 +197,31 @@ https://live.fptplay53.net/fnxch2/hntv2_abr.smil/chunklist_b6000000.m3u8
 
 # --- Film ---
 #EXTINF:-1 tvg-id="boxhits" group-title="Film" tvg-logo="https://img.lichphatsong.site/logo/boxhits.jpg",Box Hits
-https://sgchill.io.vn/s97/cb1?id=239
-#https://xem.hoiquan.click/CoBan/box-hits/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/box-hits/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="boxmovie1" group-title="Film" tvg-logo="https://img.lichphatsong.site/logo/boxmovie1.jpg",Box Movie 1
-https://sgchill.io.vn/s97/cb1?id=159
-#https://xem.hoiquan.click/CoBan/box-movie-1-hd/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/box-movie-1-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="Film" tvg-logo="https://img.lichphatsong.site/logo/hollywoodclassics.jpg",Hollywood Classics
-https://sgchill.io.vn/s97/cb1?id=160
-#https://xem.hoiquan.click/CoBan/hollywood-classic-hd/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/hollywood-classic-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="inthebox" group-title="Film" tvg-logo="https://img.lichphatsong.site/logo/inthebox.jpg",In The Box
-https://sgchill.io.vn/s97/cb1?id=235
-#https://xem.hoiquan.click/CoBan/in-the-box/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/in-the-box/TuyetDoiKhongKinhDoanh.m3u8
 
 # --- International ---
 #EXTINF:-1 tvg-id="planetearthhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.site/logo/planetearthhd.jpg",Planet Earth
-https://sgchill.io.vn/s97/cb1?id=135
-#https://xem.hoiquan.click/CoBan/planet-earth-hd/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/planet-earth-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="afnhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.site/logo/afnhd.png",Asian Food Network
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="davinci" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.site/logo/davinci.png",Da Vinci
 https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="kix" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.site/logo/kix.png",KIX
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
-##EXTINF:-1 tvg-id="bbcearth" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.site/logo/bbcearth.jpg",BBC Earth
-#https://hls.mskycdn.online/tv/bbcearth/index.m3u8
-##EXTINF:0 tvg-id="bbclifestyle" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.site/logo/bbclifestyle.jpg",BBC Lifestyle
-#https://hls.mskycdn.online/tv/bbclifestyle/index.m3u8
-##EXTINF:-1 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.site/logo/animalhd.jpg",Animal Planet
-#https://hls.mskycdn.online/tv/animalhd/index.m3u8
 #EXTINF:0 tvg-id="outdoorhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.site/logo/outdoorhd.jpg",Outdoor Channel
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="historyhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.site/logo/historyhd.jpg",History
 https://freem3u.xyz/api/live/play.m3u8?vid=9856
-# https://xem.hoiquan.click/CoBan/history-hd/TuyetDoiKhongKinhDoanh.m3u8
+# https://toiyeuvietnam.dpdns.org/CoBan/history-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:0 tvg-id="hgtv" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.site/logo/hgtv.jpg",HGTV
 https://freem3u.xyz/api/live/play.mpd?vid=99
-# https://xem.hoiquan.click/CoBan/hgtv/TuyetDoiKhongKinhDoanh.m3u8
+# https://toiyeuvietnam.dpdns.org/CoBan/hgtv/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:0 tvg-id="bloomberg" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.site/logo/bloomberg.png",Bloomberg
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-id="cna" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.site/logo/cna.jpg",CNA
@@ -248,17 +237,17 @@ https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 # --- HTV ---
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://img.lichphatsong.site/logo/htv1.jpg",HTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=190
-# https://xem.hoiquan.click/CoBan/htv1/TuyetDoiKhongKinhDoanh.m3u8
+# https://toiyeuvietnam.dpdns.org/CoBan/htv1/TuyetDoiKhongKinhDoanh.m3u8
 # https://live.fptplay53.net/epzhd1/htv1_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://img.lichphatsong.site/logo/htv2hd.jpg",HTV2
 https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://img.lichphatsong.site/logo/htv3.png",HTV3
 https://freem3u.xyz/api/live/play.m3u8?vid=192
-# https://xem.hoiquan.click/CoBan/htv3/TuyetDoiKhongKinhDoanh.m3u8
+# https://toiyeuvietnam.dpdns.org/CoBan/htv3/TuyetDoiKhongKinhDoanh.m3u8
 # https://live.fptplay53.net/epzhd1/htv3_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv4" group-title="HTV" tvg-logo="https://img.lichphatsong.site/logo/htvkey.jpg",HTV Key
 https://freem3u.xyz/api/live/play.m3u8?vid=9
-# https://xem.hoiquan.click/CoBan/htv4/TuyetDoiKhongKinhDoanh.m3u8
+# https://toiyeuvietnam.dpdns.org/CoBan/htv4/TuyetDoiKhongKinhDoanh.m3u8
 # https://live.fptplay53.net/epzhd1/htv4_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://img.lichphatsong.site/logo/htv7hd.jpg",HTV7
 https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
