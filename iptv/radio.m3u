@@ -1,13 +1,13 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml.gz"
 
 # == VOV
-#EXTINF:-1 tvg-id="vovgthn" group-title="VOV" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov-gt.png",VOV Giao thông Hà Nội
+#EXTINF:-1 tvg-id="vovgthn" group-title="VOV" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov-gt.png",VOV FM91 - GTHN
 https://media-audio.vov.vn/vovGTHN.sdp_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="vov1" group-title="VOV" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov1_2.png",VOV1 Thời sự
+#EXTINF:-1 tvg-id="vov1" group-title="VOV" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov1_2.png",VOV1 - Thời sự
 https://audio-lss.vov.vn/han/live/vov1/audio/manifest.m3u8
-#EXTINF:-1 tvg-id="vov2" group-title="VOV" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov2_2.png",VOV2 Xã hội
+#EXTINF:-1 tvg-id="vov2" group-title="VOV" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov2_2.png",VOV2 - Xã hội
 https://audio-lss.vov.vn/han/live/vov2/audio/manifest.m3u8
-#EXTINF:-1 tvg-id="vov3" group-title="VOV" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov3_2.png",VOV3 Âm nhạc
+#EXTINF:-1 tvg-id="vov3" group-title="VOV" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov3_2.png",VOV3 - Âm nhạc
 https://audio-lss.vov.vn/han/live/vov3/audio/manifest.m3u8
 
 # === Zing
