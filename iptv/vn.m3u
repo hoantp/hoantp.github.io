@@ -46,54 +46,54 @@ https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
 
 # ---MyTV (RTP) ---
 #EXTINF:0 tvg-id="kcinehd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/kcinehd.jpg",K+ Cine
-http://mytv.hoantran.name.vn:63213/rtp/232.84.1.122:10314
+http://mytv.hoantran.name.vn:27031/rtp/232.84.1.122:10314
 #EXTINF:0 tvg-id="kaction" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/kaction.jpg",K+ Action
-http://mytv.hoantran.name.vn:63213/rtp/232.84.1.33:8172
+http://mytv.hoantran.name.vn:27031/rtp/232.84.1.33:8172
 #EXTINF:0 tvg-id="ksport1hd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/ksport1hd.jpg",K+ Sport 1
-http://mytv.hoantran.name.vn:63213/rtp/232.84.1.98:8562
+http://mytv.hoantran.name.vn:27031/rtp/232.84.1.37:8196
 #EXTINF:0 tvg-id="ksport2hd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/ksport2hd.jpg",K+ Sport 2
-http://mytv.hoantran.name.vn:63213/rtp/232.84.1.34:8178
+http://mytv.hoantran.name.vn:27031/rtp/232.84.1.34:8178
 #EXTINF:0 tvg-id="kkidshd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/kkidshd.jpg",K+ Kids
-http://mytv.hoantran.name.vn:63213/rtp/232.84.3.43:11794
+http://mytv.hoantran.name.vn:27031/rtp/232.84.3.42:11800
 
 #EXTINF:-1 tvg-id="onfootball" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/on-football.jpg",ON Football
-http://mytv.hoantran.name.vn:63213/rtp/232.84.1.210:9234
+http://mytv.hoantran.name.vn:27031/rtp/232.84.1.210:9234
 #EXTINF:-1 tvg-id="onsports" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/on-sports.jpg",ON Sports
-http://mytv.hoantran.name.vn:63213/rtp/232.84.1.207:9216
+http://mytv.hoantran.name.vn:27031/rtp/232.84.1.207:9216
 #EXTINF:-1 tvg-id="onsportsnews" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/on-sportsnews.jpg",ON Sports News
-http://mytv.hoantran.name.vn:63213/rtp/232.84.2.193:10942
+http://mytv.hoantran.name.vn:27031/rtp/232.84.2.193:10942
 #EXTINF:-1 tvg-id="onsportsplus" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/on-sportsplus.jpg",ON Sports+
-http://mytv.hoantran.name.vn:63213/rtp/232.84.3.75:11602
+http://mytv.hoantran.name.vn:27031/rtp/232.84.3.75:11602
 
 #EXTINF:-1 tvg-id="hbohd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/hbohd.png",HBO
-http://mytv.hoantran.name.vn:63213/rtp/232.84.2.138:10648
+http://mytv.hoantran.name.vn:27031/rtp/232.84.2.138:10648
 #EXTINF:-1 tvg-id="axnhd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/axn.png",AXN Asia
-http://mytv.hoantran.name.vn:63213/rtp/232.84.2.140:10660
+http://mytv.hoantran.name.vn:27031/rtp/232.84.2.140:10660
 #EXTINF:0 tvg-id="dreamworks" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/dreamworks.jpg",Dreamworks
-http://mytv.hoantran.name.vn:63213/rtp/232.84.3.227:11284
+http://mytv.hoantran.name.vn:27031/rtp/232.84.3.227:11284
 #EXTINF:0 tvg-id="cinemaworldhd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/cinemaworldhd.jpg",Cinema World
-http://mytv.hoantran.name.vn:63213/rtp/232.84.2.172:10840
+http://mytv.hoantran.name.vn:27031/rtp/232.84.2.172:10840
 #EXTINF:0 tvg-id="cinemaxhd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/cinemaxhd.png",Cinemax
-http://mytv.hoantran.name.vn:63213/rtp/232.84.3.117:10654
+http://mytv.hoantran.name.vn:27031/rtp/232.84.3.117:10654
 
 #EXTINF:-1 tvg-id="warnertvhd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/warnertvhd.jpg",Warner TV
-http://mytv.hoantran.name.vn:63213/rtp/232.84.2.51:10516
+http://mytv.hoantran.name.vn:27031/rtp/232.84.2.51:10516
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/discoveryasiahd.jpg",Discovery Asia
-http://mytv.hoantran.name.vn:63213/rtp/232.84.3.219:11236
+http://mytv.hoantran.name.vn:27031/rtp/232.84.3.219:11236
 #EXTINF:-1 tvg-id="discoveryhd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/discoveryhd.jpg",Discovery Channel
-http://mytv.hoantran.name.vn:63213/rtp/232.84.2.53:10528
+http://mytv.hoantran.name.vn:27031/rtp/232.84.2.53:10528
 #EXTINF:-1 tvg-id="bbcearth" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/bbcearth.jpg",BBC Earth
-http://mytv.hoantran.name.vn:63213/rtp/232.84.3.226:11278
+http://mytv.hoantran.name.vn:27031/rtp/232.84.3.226:11278
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/bbcnews.png",BBC News
-http://mytv.hoantran.name.vn:63213/rtp/232.84.3.224:11266
+http://mytv.hoantran.name.vn:27031/rtp/232.84.3.224:11266
 #EXTINF:0 tvg-id="cbeebies" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/cbeebies.jpg",BBC CbeeBies
-http://mytv.hoantran.name.vn:63213/rtp/232.84.1.90:10398
+http://mytv.hoantran.name.vn:27031/rtp/232.84.1.90:10398
 #EXTINF:0 tvg-id="bbclifestyle" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/bbclifestyle.jpg",BBC Lifestyle
-http://mytv.hoantran.name.vn:63213/rtp/232.84.3.225:11272
+http://mytv.hoantran.name.vn:27031/rtp/232.84.3.225:11272
 #EXTINF:-1 tvg-id="animalhd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/animalhd.jpg",Animal Planet
-http://mytv.hoantran.name.vn:63213/rtp/232.84.3.139:10702
+http://mytv.hoantran.name.vn:27031/rtp/232.84.3.139:10702
 #EXTINF:0 tvg-id="cartoonhd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/cartoonhd.jpg",Cartoon Network
-http://mytv.hoantran.name.vn:63213/rtp/232.84.2.144:10684
+http://mytv.hoantran.name.vn:27031/rtp/232.84.2.144:10684
 
 
 # --- SCTV ---
