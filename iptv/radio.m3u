@@ -1,35 +1,33 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml.gz"
 
 # == VOV
-#EXTINF:-1 tvg-id="vovgthn" group-title="VOV" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov-gt.png",VOV FM91 - GTHN
+#EXTINF:-1 tvg-id="vovgthn" group-title="VOV" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov-gt.png",VOV FM91 GTHN
 https://media-audio.vov.vn/vovGTHN.sdp_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="vov1" group-title="VOV" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov1_2.png",VOV1 - Thời sự
+#EXTINF:-1 tvg-id="vovenglish" group-title="VOV" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov-en.png",VOV English
+https://media-audio.vov.vn/vov247vov5English.sdp_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="vov1" group-title="VOV" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov1_2.png",VOV1 Thời sự
 https://audio-lss.vov.vn/han/live/vov1/audio/manifest.m3u8
-#EXTINF:-1 tvg-id="vov2" group-title="VOV" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov2_2.png",VOV2 - Xã hội
+#EXTINF:-1 tvg-id="vov2" group-title="VOV" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov2_2.png",VOV2 Xã hội
 https://audio-lss.vov.vn/han/live/vov2/audio/manifest.m3u8
-#EXTINF:-1 tvg-id="vov3" group-title="VOV" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov3_2.png",VOV3 - Âm nhạc
+#EXTINF:-1 tvg-id="vov3" group-title="VOV" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov3_2.png",VOV3 Âm nhạc
 https://audio-lss.vov.vn/han/live/vov3/audio/manifest.m3u8
+#EXTINF:-1 tvg-id="vov5" group-title="VOV" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov5new_0.png",VOV5 Đối ngoại
+https://media-audio.vov.vn/vov5.sdp_aac/playlist.m3u8
 
 # === Zing
-#EXTINF:-1 group-title="Zing" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/5/0/8/f/508fb88137284723e67c83b9c9fede28.jpg",ZingRadio 1 - Vpop
+#EXTINF:-1 group-title="Zing" tvg-logo="https://photo-zmp3.zmdcdn.me/avatars/1/4/6/b/146b49d11cc9b3bc591823bfedb8bce2.jpg",Vpop
 https://multi-playlist-zmp3.zmdcdn.me/odi6UBatld4/zhls/playback-realtime/6ddadf76e3330a6d5322/index.m3u8
-#EXTINF:-1 group-title="Zing" tvg-logo="https://photo-zmp3.zmdcdn.me/avatars/7/7/8/d/778d152062edfbe0e4c4abf151858bf0.jpg",ZingRadio 2 - Chạm FM
+#EXTINF:-1 group-title="Zing" tvg-logo="https://photo-zmp3.zmdcdn.me/avatars/7/7/8/d/778d152062edfbe0e4c4abf151858bf0.jpg",Chạm FM
 https://multi-playlist-zmp3.zmdcdn.me/eHjZAdAk-sk/zhls/playback-realtime/59a2ee0ed24b3b15625a/index.m3u8
-#EXTINF:-1 group-title="Zing" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/e/1/8/8/e1887a2c79f9d3d04984905cbf443a29.jpg",ZingRadio 3 - Kpop
-https://multi-playlist-zmp3.zmdcdn.me/rTbzjcKEO1A/zhls/playback-realtime/6600baac86e96fb736f8/index.m3u8
-#EXTINF:-1 group-title="Zing" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/3/1/0/d/310df4f53c1026d4cb2844dc96cc01d3.jpg",ZingRadio 4 - USUK
+#EXTINF:-1 group-title="Zing" tvg-logo="https://photo-zmp3.zmdcdn.me/avatars/b/0/d/a/b0da7c8ecd6521337682f3a86fa0170f.jpg",USUK
 https://multi-playlist-zmp3.zmdcdn.me/-XosZVJX9XA/zhls/playback-realtime/f49e38320477ed29b466/index.m3u8
-#EXTINF:-1 group-title="Zing" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/1/5/c/2/15c2abf5f4554b416384d4f675b2151e.jpg",ZingRadio 5 - CPop
+#EXTINF:-1 group-title="Zing" tvg-logo="https://photo-zmp3.zmdcdn.me/avatars/d/b/2/d/db2db7890510c26e76f32b885b1818cd.jpg",C-Pop
 https://multi-playlist-zmp3.zmdcdn.me/_TAVBRh_ce4/zhls/playback-realtime/97b35e1f625a8b04d24b/index.m3u8
-#EXTINF:-1 group-title="Zing" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/a/6/f/4/a6f4712ca91e9cc15530960ab44611da.jpg",ZingRadio 6 - EDM
-https://multi-playlist-zmp3.zmdcdn.me/lupi_x8-Su4/zhls/playback-realtime/7386bb2a876f6e31377e/index.m3u8
-#EXTINF:-1 group-title="Zing" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/8/1/d/6/81d6bc7e9ced5d11d01f6da4b440f146.jpg",ZingRadio 7 - Acoustic
+#EXTINF:-1 group-title="Zing" tvg-logo="https://photo-zmp3.zmdcdn.me/avatars/0/9/9/3/0993b3110c60ba6518fceeba9913d20d.jpg",Acoustic
 https://multi-playlist-zmp3.zmdcdn.me/AiekixzmitQ/zhls/playback-realtime/9b7b55d7699280ccd983/index.m3u8
-#EXTINF:-1 group-title="Zing" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/d/6/7/4/d6746d1bbff609111133449abb9e622b.jpg",ZingRadio 8 - Bolero
+#EXTINF:-1 group-title="Zing" tvg-logo="https://photo-zmp3.zmdcdn.me/avatars/1/3/0/5/1305cd954d22d89fef4354301613fd68.jpg",Bolero
 https://multi-playlist-zmp3.zmdcdn.me/ioZs7yhxUxk/zhls/playback-realtime/5bace800d4453d1b6454/index.m3u8
-#EXTINF:-1 group-title="Zing" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/0/c/2/e/0c2ee7cb5ef72b5db673341864312a2a.jpg",ZingRadio 9 - Rap Việt
-https://multi-playlist-zmp3.zmdcdn.me/XHOosOJ-f8g/zhls/playback-realtime/cef1015d3d18d4468d09/index.m3u8
-#EXTINF:-1 group-title="Zing" tvg-logo="https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/9/5/5/b/955b98868b8b29e1e782fc0913d857d2.jpg",ZingRadio 10 - Indie
+#EXTINF:-1 group-title="Zing" tvg-logo="https://photo-zmp3.zmdcdn.me/avatars/b/9/6/f/b96f6e19b183766e1c286c76356e1818.jpg",Indie
 https://multi-playlist-zmp3.zmdcdn.me/VV55kkJD6Qo/zhls/playback-realtime/eeff2a531616ff48a607/index.m3u8
-#EXTINF:-1 group-title="Zing" tvg-logo="https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/e/d/d/6/edd6b56e8f79898dd98acfcf55c5564a.jpg",ZingRadio 11 - Thiếu Nhi
+#EXTINF:-1 group-title="Zing" tvg-logo="https://photo-zmp3.zmdcdn.me/avatars/d/1/0/a/d10a58ac7338bad2baf1eab2a9c3ed6f.jpg",Thiếu Nhi
 https://multi-playlist-zmp3.zmdcdn.me/UKk_cQEl314/zhls/playback-realtime/ef512afd16b8ffe6a6a9/index.m3u8
