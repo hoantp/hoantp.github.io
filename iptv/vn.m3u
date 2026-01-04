@@ -47,55 +47,44 @@ https://liveh12.seenow.vn/hls/VIETNAMTODAY/index.m3u8
 # https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
 
 # ---MyTV (RTP) ---
-#EXTINF:0 tvg-id="kcinehd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/kcinehd.jpg",K+ Cine
-http://mytv.hoantran.name.vn:27031/rtp/232.84.1.122:10314
-#EXTINF:0 tvg-id="kaction" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/kaction.jpg",K+ Action
-http://mytv.hoantran.name.vn:27031/rtp/232.84.1.33:8172
-#EXTINF:0 tvg-id="ksport1hd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/ksport1hd.jpg",K+ Sport 1
-http://mytv.hoantran.name.vn:27031/rtp/232.84.1.37:8196
-#EXTINF:0 tvg-id="ksport2hd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/ksport2hd.jpg",K+ Sport 2
-http://mytv.hoantran.name.vn:27031/rtp/232.84.1.34:8178
-#EXTINF:0 tvg-id="kkidshd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/kkidshd.jpg",K+ Kids
-http://mytv.hoantran.name.vn:27031/rtp/232.84.3.42:11800
-
-#EXTINF:-1 tvg-id="onfootball" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/on-football.jpg",ON Football
-http://mytv.hoantran.name.vn:27031/rtp/232.84.1.210:9234
-#EXTINF:-1 tvg-id="onsports" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/on-sports.jpg",ON Sports
-http://mytv.hoantran.name.vn:27031/rtp/232.84.1.207:9216
-#EXTINF:-1 tvg-id="onsportsnews" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/on-sportsnews.jpg",ON Sports News
-http://mytv.hoantran.name.vn:27031/rtp/232.84.2.193:10942
-#EXTINF:-1 tvg-id="onsportsplus" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/on-sportsplus.jpg",ON Sports+
-http://mytv.hoantran.name.vn:27031/rtp/232.84.3.75:11602
-
-#EXTINF:-1 tvg-id="hbohd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/hbohd.png",HBO
-http://mytv.hoantran.name.vn:27031/rtp/232.84.2.138:10648
-#EXTINF:-1 tvg-id="axnhd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/axn.png",AXN Asia
-http://mytv.hoantran.name.vn:27031/rtp/232.84.2.140:10660
-#EXTINF:0 tvg-id="dreamworks" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/dreamworks.jpg",Dreamworks
-http://mytv.hoantran.name.vn:27031/rtp/232.84.3.227:11284
-#EXTINF:0 tvg-id="cinemaworldhd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/cinemaworldhd.jpg",Cinema World
-http://mytv.hoantran.name.vn:27031/rtp/232.84.2.172:10840
-#EXTINF:0 tvg-id="cinemaxhd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/cinemaxhd.png",Cinemax
-http://mytv.hoantran.name.vn:27031/rtp/232.84.3.117:10654
-
-#EXTINF:-1 tvg-id="warnertvhd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/warnertvhd.jpg",Warner TV
-http://mytv.hoantran.name.vn:27031/rtp/232.84.2.51:10516
-#EXTINF:-1 tvg-id="discoveryasiahd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/discoveryasiahd.jpg",Discovery Asia
-http://mytv.hoantran.name.vn:27031/rtp/232.84.3.219:11236
-#EXTINF:-1 tvg-id="discoveryhd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/discoveryhd.jpg",Discovery Channel
-http://mytv.hoantran.name.vn:27031/rtp/232.84.2.53:10528
-#EXTINF:-1 tvg-id="bbcearth" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/bbcearth.jpg",BBC Earth
-http://mytv.hoantran.name.vn:27031/rtp/232.84.3.226:11278
-#EXTINF:-1 tvg-id="bbcworldnews" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/bbcnews.png",BBC News
-http://mytv.hoantran.name.vn:27031/rtp/232.84.3.224:11266
-#EXTINF:0 tvg-id="cbeebies" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/cbeebies.jpg",BBC CbeeBies
-http://mytv.hoantran.name.vn:27031/rtp/232.84.1.90:10398
-#EXTINF:0 tvg-id="bbclifestyle" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/bbclifestyle.jpg",BBC Lifestyle
-http://mytv.hoantran.name.vn:27031/rtp/232.84.3.225:11272
-#EXTINF:-1 tvg-id="animalhd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/animalhd.jpg",Animal Planet
-http://mytv.hoantran.name.vn:27031/rtp/232.84.3.139:10702
-#EXTINF:0 tvg-id="cartoonhd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/cartoonhd.jpg",Cartoon Network
-http://mytv.hoantran.name.vn:27031/rtp/232.84.2.144:10684
+##EXTINF:-1 tvg-id="onfootball" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/on-football.jpg",ON Football
+#http://mytv.hoantran.name.vn:27031/rtp/232.84.1.210:9234
+##EXTINF:-1 tvg-id="onsports" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/on-sports.jpg",ON Sports
+#http://mytv.hoantran.name.vn:27031/rtp/232.84.1.207:9216
+##EXTINF:-1 tvg-id="onsportsnews" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/on-sportsnews.jpg",ON Sports News
+#http://mytv.hoantran.name.vn:27031/rtp/232.84.2.193:10942
+##EXTINF:-1 tvg-id="onsportsplus" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/on-sportsplus.jpg",ON Sports+
+#http://mytv.hoantran.name.vn:27031/rtp/232.84.3.75:11602
+#
+##EXTINF:-1 tvg-id="hbohd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/hbohd.png",HBO
+#http://mytv.hoantran.name.vn:27031/rtp/232.84.2.138:10648
+##EXTINF:-1 tvg-id="axnhd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/axn.png",AXN Asia
+#http://mytv.hoantran.name.vn:27031/rtp/232.84.2.140:10660
+##EXTINF:0 tvg-id="dreamworks" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/dreamworks.jpg",Dreamworks
+#http://mytv.hoantran.name.vn:27031/rtp/232.84.3.227:11284
+##EXTINF:0 tvg-id="cinemaworldhd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/cinemaworldhd.jpg",Cinema World
+#http://mytv.hoantran.name.vn:27031/rtp/232.84.2.172:10840
+##EXTINF:0 tvg-id="cinemaxhd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/cinemaxhd.png",Cinemax
+#http://mytv.hoantran.name.vn:27031/rtp/232.84.3.117:10654
+#
+##EXTINF:-1 tvg-id="warnertvhd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/warnertvhd.jpg",Warner TV
+#http://mytv.hoantran.name.vn:27031/rtp/232.84.2.51:10516
+##EXTINF:-1 tvg-id="discoveryasiahd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/discoveryasiahd.jpg",Discovery Asia
+#http://mytv.hoantran.name.vn:27031/rtp/232.84.3.219:11236
+##EXTINF:-1 tvg-id="discoveryhd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/discoveryhd.jpg",Discovery Channel
+#http://mytv.hoantran.name.vn:27031/rtp/232.84.2.53:10528
+##EXTINF:-1 tvg-id="bbcearth" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/bbcearth.jpg",BBC Earth
+#http://mytv.hoantran.name.vn:27031/rtp/232.84.3.226:11278
+##EXTINF:-1 tvg-id="bbcworldnews" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/bbcnews.png",BBC News
+#http://mytv.hoantran.name.vn:27031/rtp/232.84.3.224:11266
+##EXTINF:0 tvg-id="cbeebies" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/cbeebies.jpg",BBC CbeeBies
+#http://mytv.hoantran.name.vn:27031/rtp/232.84.1.90:10398
+##EXTINF:0 tvg-id="bbclifestyle" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/bbclifestyle.jpg",BBC Lifestyle
+#http://mytv.hoantran.name.vn:27031/rtp/232.84.3.225:11272
+##EXTINF:-1 tvg-id="animalhd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/animalhd.jpg",Animal Planet
+#http://mytv.hoantran.name.vn:27031/rtp/232.84.3.139:10702
+##EXTINF:0 tvg-id="cartoonhd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/cartoonhd.jpg",Cartoon Network
+#http://mytv.hoantran.name.vn:27031/rtp/232.84.2.144:10684
 
 
 # --- SCTV ---
@@ -158,9 +147,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=136
 #EXTINF:-1 tvg-id="onbibi" group-title="VTVcab" tvg-logo="https://img.lichphatsong.site/logo/on-bibi.jpg",ON BiBi
 https://freem3u.xyz/api/live/play.m3u8?vid=178
 # https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-8-bi-bi-sd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="ongolf" group-title="VTVcab" tvg-logo="https://img.lichphatsong.site/logo/on-golf.jpg",ON Golf
-#https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=169&token=2025
-https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-23-golf-channel/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="onlife" group-title="VTVcab" tvg-logo="https://img.lichphatsong.site/logo/on-life.jpg",ON Life
 https://freem3u.xyz/api/live/play.m3u8?vid=188
 # https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-22-life-tv-hd/TuyetDoiKhongKinhDoanh.m3u8
@@ -196,27 +182,23 @@ https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/fnxch2/hntv2_abr.smil/chunklist.m3u8
 
 # --- Film ---
-#EXTINF:-1 tvg-id="hbohd" group-title="Film" tvg-logo="https://img.lichphatsong.site/logo/hbohd.png",HBO
-http://akasaijr.myftp.org:21585/hbo/index.m3u8
-#EXTINF:-1 tvg-id="axnhd" group-title="Film" tvg-logo="https://img.lichphatsong.site/logo/axn.png",AXN Asia
-http://akasaijr.myftp.org:21585/axn/index.m3u8
 #EXTINF:-1 tvg-id="boxhits" group-title="Film" tvg-logo="https://img.lichphatsong.site/logo/boxhits.jpg",Box Hits
-#https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=239&token=2025
-https://toiyeuvietnam.dpdns.org/CoBan/box-hits/TuyetDoiKhongKinhDoanh.m3u8
+#https://toiyeuvietnam.dpdns.org/CoBan/box-hits/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/Start/VMT456_BoxHit
 #EXTINF:-1 tvg-id="boxmovie1" group-title="Film" tvg-logo="https://img.lichphatsong.site/logo/boxmovie1.jpg",Box Movie 1
-#https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=159&token=2025
-https://toiyeuvietnam.dpdns.org/CoBan/box-movie-1-hd/TuyetDoiKhongKinhDoanh.m3u8
+#https://toiyeuvietnam.dpdns.org/CoBan/box-movie-1-hd/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/Start/VMT678_BoxMovie1
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="Film" tvg-logo="https://img.lichphatsong.site/logo/hollywoodclassics.jpg",Hollywood Classics
-#https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=160&token=2025
-https://toiyeuvietnam.dpdns.org/CoBan/hollywood-classic-hd/TuyetDoiKhongKinhDoanh.m3u8
+#https://toiyeuvietnam.dpdns.org/CoBan/hollywood-classic-hd/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/Start/VMT678_HW
 #EXTINF:-1 tvg-id="inthebox" group-title="Film" tvg-logo="https://img.lichphatsong.site/logo/inthebox.jpg",In The Box
-#https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=235&token=2025
-https://toiyeuvietnam.dpdns.org/CoBan/in-the-box/TuyetDoiKhongKinhDoanh.m3u8
+#https://toiyeuvietnam.dpdns.org/CoBan/in-the-box/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/Start/VMT567_InTheBox
 
 # --- International ---
 #EXTINF:-1 tvg-id="planetearthhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.site/logo/planetearthhd.jpg",Planet Earth
-#https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=135&token=2025
-https://toiyeuvietnam.dpdns.org/CoBan/planet-earth-hd/TuyetDoiKhongKinhDoanh.m3u8
+#https://toiyeuvietnam.dpdns.org/CoBan/planet-earth-hd/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/Start/VMT345_PlanetEarth
 #EXTINF:-1 tvg-id="afnhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.site/logo/afnhd.png",Asian Food Network
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="davinci" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.site/logo/davinci.png",Da Vinci
