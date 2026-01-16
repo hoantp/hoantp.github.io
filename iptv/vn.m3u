@@ -56,7 +56,8 @@ https://liveh12.vtvprime.vn/hls/VIETNAMTODAY/index.m3u8
 ##EXTINF:-1 tvg-id="onsportsplus" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/on-sportsplus.jpg",ON Sports+
 #http://mytv.hoantran.name.vn:27031/rtp/232.84.3.75:11602
 
-##EXTINF:-1 tvg-id="hbohd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/hbohd.png",HBO
+#EXTINF:-1 tvg-id="hbohd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/hbohd.png",HBO
+http://akasaijr.myftp.org:21585/hbo/index.m3u8
 #http://mytv.hoantran.name.vn:27031/rtp/232.84.2.138:10648
 #EXTINF:-1 tvg-id="axnhd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/axn.png",AXN Asia
 #http://mytv.hoantran.name.vn:27031/rtp/232.84.2.140:10660
@@ -107,6 +108,8 @@ https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8
 https://liveh34.vtvprime.vn/hls/SCTV7/index.m3u8
 #EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/logo/sctv8.png",SCTV8 - Kinh tế thị trường
 https://liveh34.vtvprime.vn/hls/SCTV8/index.m3u8
+#EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/logo/sctv9.png",SCTV9 - Phim Châu Á
+http://akasaijr.myftp.org:21585/sctv9/index.m3u8
 #EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/logo/sctv11.png",SCTV11 - TV Star
 https://liveh34.vtvprime.vn/hls/SCTV11/index.m3u8
 #EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/logo/sctv12.png",SCTV12 - Du lịch khám phá
