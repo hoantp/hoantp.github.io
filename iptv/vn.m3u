@@ -47,48 +47,48 @@ https://liveh12.vtvprime.vn/hls/VIETNAMTODAY/index.m3u8
 # https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
 
 # ---MyTV (RTP) ---
-#EXTINF:-1 tvg-id="onfootball" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/on-football.jpg",ON Football
-http://zzzzzzzzzzz.duckdns.org:8414/rtp/232.84.1.210:9234
-#EXTINF:-1 tvg-id="onsports" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/on-sports.jpg",ON Sports
-http://zzzzzzzzzzz.duckdns.org:8414/rtp/232.84.1.207:9216
-#EXTINF:-1 tvg-id="onsportsnews" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/on-sportsnews.jpg",ON Sports News
-http://zzzzzzzzzzz.duckdns.org:8414/rtp/232.84.2.193:10942
-#EXTINF:-1 tvg-id="onsportsplus" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/on-sportsplus.jpg",ON Sports+
-http://zzzzzzzzzzz.duckdns.org:8414/rtp/232.84.3.75:11602
-
-#EXTINF:-1 tvg-id="hbohd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/hbohd.png",HBO
-http://zzzzzzzzzzz.duckdns.org:8414/rtp/232.84.2.138:10648
-#EXTINF:-1 tvg-id="axnhd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/axn.png",AXN Asia
-http://zzzzzzzzzzz.duckdns.org:8414/rtp/232.84.2.140:10660
-# https://ace.hoiquan.click/module/IPTV/?id=axn&accKenh=vuminhthanh1
-#EXTINF:0 tvg-id="dreamworks" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/dreamworks.jpg",Dreamworks
-http://zzzzzzzzzzz.duckdns.org:8414/rtp/232.84.3.227:11284
-#EXTINF:0 tvg-id="cinemaworldhd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/cinemaworldhd.jpg",Cinema World
-http://zzzzzzzzzzz.duckdns.org:8414/rtp/232.84.2.172:10840
-#EXTINF:0 tvg-id="cinemaxhd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/cinemaxhd.png",Cinemax
-http://zzzzzzzzzzz.duckdns.org:8414/rtp/232.84.3.117:10654
-
-#EXTINF:-1 tvg-id="warnertvhd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/warnertvhd.jpg",Warner TV
-http://zzzzzzzzzzz.duckdns.org:8414/rtp/232.84.2.51:10516
-#EXTINF:-1 tvg-id="discoveryasiahd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/discoveryasiahd.jpg",Discovery Asia
-http://zzzzzzzzzzz.duckdns.org:8414/rtp/232.84.3.219:11236
-#EXTINF:-1 tvg-id="discoveryhd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/discoveryhd.jpg",Discovery Channel
-http://zzzzzzzzzzz.duckdns.org:8414/rtp/232.84.2.53:10528
-#EXTINF:-1 tvg-id="bbcearth" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/bbcearth.jpg",BBC Earth
-http://zzzzzzzzzzz.duckdns.org:8414/rtp/232.84.3.226:11278
-# https://ace.hoiquan.click/module/IPTV/?id=Bbceath&accKenh=vuminhthanh1
-#EXTINF:-1 tvg-id="bbcworldnews" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/bbcnews.png",BBC News
-http://zzzzzzzzzzz.duckdns.org:8414/rtp/232.84.3.224:11266
-#EXTINF:0 tvg-id="cbeebies" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/cbeebies.jpg",BBC CbeeBies
-http://zzzzzzzzzzz.duckdns.org:8414/rtp/232.84.1.90:10398
-#EXTINF:0 tvg-id="bbclifestyle" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/bbclifestyle.jpg",BBC Lifestyle
-http://zzzzzzzzzzz.duckdns.org:8414/rtp/232.84.3.225:11272
-# https://ace.hoiquan.click/module/IPTV/?id=Bbclifestyle&accKenh=vuminhthanh1
-#EXTINF:-1 tvg-id="animalhd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/animalhd.jpg",Animal Planet
-http://zzzzzzzzzzz.duckdns.org:8414/rtp/232.84.3.139:10702
-# https://ace.hoiquan.click/module/IPTV/?id=animalplanet&accKenh=vuminhthanh1
-#EXTINF:0 tvg-id="cartoonhd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/cartoonhd.jpg",Cartoon Network
-http://zzzzzzzzzzz.duckdns.org:8414/rtp/232.84.2.144:10684
+##EXTINF:-1 tvg-id="onfootball" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/on-football.jpg",ON Football
+#http://zzzzzzzzzzz.duckdns.org:8414/rtp/232.84.1.210:9234
+##EXTINF:-1 tvg-id="onsports" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/on-sports.jpg",ON Sports
+#http://zzzzzzzzzzz.duckdns.org:8414/rtp/232.84.1.207:9216
+##EXTINF:-1 tvg-id="onsportsnews" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/on-sportsnews.jpg",ON Sports News
+#http://zzzzzzzzzzz.duckdns.org:8414/rtp/232.84.2.193:10942
+##EXTINF:-1 tvg-id="onsportsplus" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/on-sportsplus.jpg",ON Sports+
+#http://zzzzzzzzzzz.duckdns.org:8414/rtp/232.84.3.75:11602
+#
+##EXTINF:-1 tvg-id="hbohd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/hbohd.png",HBO
+#http://zzzzzzzzzzz.duckdns.org:8414/rtp/232.84.2.138:10648
+##EXTINF:-1 tvg-id="axnhd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/axn.png",AXN Asia
+#http://zzzzzzzzzzz.duckdns.org:8414/rtp/232.84.2.140:10660
+## https://ace.hoiquan.click/module/IPTV/?id=axn&accKenh=vuminhthanh1
+##EXTINF:0 tvg-id="dreamworks" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/dreamworks.jpg",Dreamworks
+#http://zzzzzzzzzzz.duckdns.org:8414/rtp/232.84.3.227:11284
+##EXTINF:0 tvg-id="cinemaworldhd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/cinemaworldhd.jpg",Cinema World
+#http://zzzzzzzzzzz.duckdns.org:8414/rtp/232.84.2.172:10840
+##EXTINF:0 tvg-id="cinemaxhd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/cinemaxhd.png",Cinemax
+#http://zzzzzzzzzzz.duckdns.org:8414/rtp/232.84.3.117:10654
+#
+##EXTINF:-1 tvg-id="warnertvhd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/warnertvhd.jpg",Warner TV
+#http://zzzzzzzzzzz.duckdns.org:8414/rtp/232.84.2.51:10516
+##EXTINF:-1 tvg-id="discoveryasiahd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/discoveryasiahd.jpg",Discovery Asia
+#http://zzzzzzzzzzz.duckdns.org:8414/rtp/232.84.3.219:11236
+##EXTINF:-1 tvg-id="discoveryhd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/discoveryhd.jpg",Discovery Channel
+#http://zzzzzzzzzzz.duckdns.org:8414/rtp/232.84.2.53:10528
+##EXTINF:-1 tvg-id="bbcearth" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/bbcearth.jpg",BBC Earth
+#http://zzzzzzzzzzz.duckdns.org:8414/rtp/232.84.3.226:11278
+## https://ace.hoiquan.click/module/IPTV/?id=Bbceath&accKenh=vuminhthanh1
+##EXTINF:-1 tvg-id="bbcworldnews" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/bbcnews.png",BBC News
+#http://zzzzzzzzzzz.duckdns.org:8414/rtp/232.84.3.224:11266
+##EXTINF:0 tvg-id="cbeebies" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/cbeebies.jpg",BBC CbeeBies
+#http://zzzzzzzzzzz.duckdns.org:8414/rtp/232.84.1.90:10398
+##EXTINF:0 tvg-id="bbclifestyle" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/bbclifestyle.jpg",BBC Lifestyle
+#http://zzzzzzzzzzz.duckdns.org:8414/rtp/232.84.3.225:11272
+## https://ace.hoiquan.click/module/IPTV/?id=Bbclifestyle&accKenh=vuminhthanh1
+##EXTINF:-1 tvg-id="animalhd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/animalhd.jpg",Animal Planet
+#http://zzzzzzzzzzz.duckdns.org:8414/rtp/232.84.3.139:10702
+## https://ace.hoiquan.click/module/IPTV/?id=animalplanet&accKenh=vuminhthanh1
+##EXTINF:0 tvg-id="cartoonhd" group-title="MyTV" tvg-logo="https://img.lichphatsong.site/logo/cartoonhd.jpg",Cartoon Network
+#http://zzzzzzzzzzz.duckdns.org:8414/rtp/232.84.2.144:10684
 
 
 # --- SCTV ---
