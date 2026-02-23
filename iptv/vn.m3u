@@ -94,8 +94,8 @@ https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8
 https://liveh34.vtvprime.vn/hls/SCTV7/index.m3u8
 #EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/logo/sctv8.png",SCTV8 - Kinh tế thị trường
 https://liveh34.vtvprime.vn/hls/SCTV8/index.m3u8
-#EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/logo/sctv9.png",SCTV9 - Phim Châu Á
-http://akasaijr.myftp.org:21585/sctv9/index.m3u8
+##EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/logo/sctv9.png",SCTV9 - Phim Châu Á
+#== Link
 #EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/logo/sctv11.png",SCTV11 - TV Star
 https://liveh34.vtvprime.vn/hls/SCTV11/index.m3u8
 #EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/logo/sctv12.png",SCTV12 - Du lịch khám phá
@@ -187,6 +187,8 @@ https://toiyeuvietnam.dpdns.org/Start/VMT0678_HW
 #EXTINF:-1 tvg-id="inthebox" group-title="Film" tvg-logo="https://img.lichphatsong.site/logo/inthebox.jpg",In The Box
 #https://toiyeuvietnam.dpdns.org/CoBan/in-the-box/TuyetDoiKhongKinhDoanh.m3u8
 https://toiyeuvietnam.dpdns.org/Start/VMT0567_InTheBox
+#EXTINF:-1 tvg-id="tvb" group-title="Film" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/TVB%20Vietnam%20Banner_Side.jpg",TVB VIỆT NAM
+https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 
 # --- International ---
 #EXTINF:-1 tvg-id="planetearthhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.site/logo/planetearthhd.jpg",Planet Earth
@@ -210,12 +212,13 @@ https://freem3u.xyz/api/live/play.mpd?vid=99
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-id="cna" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.site/logo/cna.jpg",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+# https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="cnn" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.site/logo/cnn.png",CNN
-https://viamotionhsi.netplus.ch/live/eds/cnn/browser-HLS8/cnn.m3u8
-# https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#https://viamotionhsi.netplus.ch/live/eds/cnn/browser-HLS8/cnn.m3u8
 #EXTINF:0 tvg-id="cnbc" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.site/logo/cnbc.jpg",CNBC
-https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
-# https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8
+https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8
+#https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 
 
 # --- HTV ---
@@ -265,6 +268,8 @@ https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzch2/vinhlong3_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="THVL" tvg-logo="https://img.lichphatsong.site/logo/vinhlong4hd.png",THVL4
 https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vinhlong5hd" group-title="THVL" tvg-logo="https://img.lichphatsong.site/logo/vinhlong5hd.png",THVL5
+https://freem3u.xyz/api/live/play.m3u8?vid=91
 
 # --- Test ---
 ##EXTINF:-1 tvg-id="gas" group-title="Test" tvg-logo="",Test
