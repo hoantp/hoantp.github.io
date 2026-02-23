@@ -122,6 +122,15 @@ https://liveh12.vtvprime.vn/hls/SCTVPHIM/index.m3u8
 # https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8
 
 # --- VTVcab---
+#EXTINF:-1 tvg-id="onfootball" group-title="VTVcab" tvg-logo="https://img.lichphatsong.site/logo/on-football.jpg",ON Football
+https://freem3u.xyz/api/live/play.m3u8?oid=onfootball
+#EXTINF:-1 tvg-id="onsports" group-title="VTVcab" tvg-logo="https://img.lichphatsong.site/logo/on-sports.jpg",ON Sports
+https://freem3u.xyz/api/live/play.m3u8?oid=onsports
+#EXTINF:-1 tvg-id="onsportsnews" group-title="VTVcab" tvg-logo="https://img.lichphatsong.site/logo/on-sportsnews.jpg",ON Sports News
+https://freem3u.xyz/api/live/play.m3u8?oid=onsportsnews
+#EXTINF:-1 tvg-id="onsportsplus" group-title="VTVcab" tvg-logo="https://img.lichphatsong.site/logo/on-sportsplus.jpg",ON Sports+
+https://freem3u.xyz/api/live/play.m3u8?oid=onsportsplus
+
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://img.lichphatsong.site/logo/on-viegiaitri.jpg",ON Vie Giải trí
 https://freem3u.xyz/api/live/play.m3u8?vid=180
 # https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-1-vie-giai-tri-hd/TuyetDoiKhongKinhDoanh.m3u8
