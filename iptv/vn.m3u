@@ -80,20 +80,29 @@ https://liveh12.vtvprime.vn/hls/SCTVPHIM/index.m3u8
 # #EXTINF:-1 tvg-id="sctv4k" group-title="SCTV" tvg-logo="https://img.lichphatsong.site/logo/sctv4k.jpg",SCTV 4K
 # https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8
 
-# --- VTVcab---
+
+# --- Sports ---
+#EXTINF:-1 tvg-id="nowsports1" group-title="Thể thao" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_1920_1080",Now Sports 1
+https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
+#EXTINF:-1 tvg-id="nowsports2" group-title="Thể thao" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_1920_1080",Now Sports 2
+https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8
+#EXTINF:-1 tvg-id="nowsports3" group-title="Thể thao" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_1920_1080",Now Sports 3
+https://eventcdn02-nowe.akamaized.net/hls/CH623/index.m3u8
+
 #EXTINF:-1 tvg-id="onfootball" group-title="VTVcab" tvg-logo="https://img.lichphatsong.site/logo/on-football.jpg",ON Football
 https://freem3u.xyz/static/no-signal/low.m3u8
 #https://freem3u.xyz/api/live/play.m3u8?oid=onfootball
-#EXTINF:-1 tvg-id="onsports" group-title="VTVcab" tvg-logo="https://img.lichphatsong.site/logo/on-sports.jpg",ON Sports
+#EXTINF:-1 tvg-id="onsports" group-title="Thể thao" tvg-logo="https://img.lichphatsong.site/logo/on-sports.jpg",ON Sports
 https://freem3u.xyz/static/no-signal/low.m3u8
 #https://freem3u.xyz/api/live/play.m3u8?oid=onsports
-#EXTINF:-1 tvg-id="onsportsnews" group-title="VTVcab" tvg-logo="https://img.lichphatsong.site/logo/on-sportsnews.jpg",ON Sports News
+#EXTINF:-1 tvg-id="onsportsnews" group-title="Thể thao" tvg-logo="https://img.lichphatsong.site/logo/on-sportsnews.jpg",ON Sports News
 https://freem3u.xyz/static/no-signal/low.m3u8
 #https://freem3u.xyz/api/live/play.m3u8?oid=onsportsnews
-#EXTINF:-1 tvg-id="onsportsplus" group-title="VTVcab" tvg-logo="https://img.lichphatsong.site/logo/on-sportsplus.jpg",ON Sports+
+#EXTINF:-1 tvg-id="onsportsplus" group-title="Thể thao" tvg-logo="https://img.lichphatsong.site/logo/on-sportsplus.jpg",ON Sports+
 https://freem3u.xyz/static/no-signal/low.m3u8
 #https://freem3u.xyz/api/live/play.m3u8?oid=onsportsplus
 
+# --- VTVcab---
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://img.lichphatsong.site/logo/on-viegiaitri.jpg",ON Vie Giải trí
 https://freem3u.xyz/api/live/play.m3u8?vid=180
 # https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-1-vie-giai-tri-hd/TuyetDoiKhongKinhDoanh.m3u8
