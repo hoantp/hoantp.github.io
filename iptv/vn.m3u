@@ -179,16 +179,16 @@ https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist.m
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-id="cna" group-title="Tin tức" tvg-logo="https://img.lichphatsong.site/logo/cna.jpg",CNA
 https://freem3u.xyz/api/live/play.m3u8?vid=112
-#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist.m3u8
+#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="nhkworld" group-title="Tin tức" tvg-logo="https://img.lichphatsong.site/logo/nhkworld.png",NHK World
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF:-1 tvg-id="cnn" group-title="Tin tức" tvg-logo="https://img.lichphatsong.site/logo/cnn.png",CNN
-#https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-https://viamotionhsi.netplus.ch/live/eds/cnn/browser-HLS8/cnn.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#https://viamotionhsi.netplus.ch/live/eds/cnn/browser-HLS8/cnn.m3u8
 #EXTINF:-1 tvg-id="cnbc" group-title="Tin tức" tvg-logo="https://img.lichphatsong.site/logo/cnbc.jpg",CNBC
-#https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8
-https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
+https://live.fptplay53.net/fnxhd1/cnbchd_vhls.smil/chunklist.m3u8
+#https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 
 
 # --- International ---
