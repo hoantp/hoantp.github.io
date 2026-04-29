@@ -168,7 +168,7 @@ https://freem3u.xyz/static/no-signal/low.m3u8
 https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="Film" tvg-logo="https://img.lichphatsong.site/logo/hollywoodclassics.jpg",Hollywood Classics
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 tvg-id="inthebox" group-title="Film" tvg-logo="https://img.lichphatsong.site/logo/inthebox.jpg",In The Box
+#EXTINF:-1 tvg-id="warnertvhd" group-title="Film" tvg-logo="https://img.lichphatsong.site/logo/warnertvhd.jpg",Warner TV
 https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 tvg-id="tvb" group-title="Film" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/TVB%20Vietnam%20Banner_Side.jpg",TVB VIỆT NAM
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist.m3u8
@@ -211,8 +211,6 @@ https://freem3u.xyz/api/live/play.mpd?vid=99
 #EXTINF:-1 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.site/logo/animalhd.jpg",Animal Planet
 https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 tvg-id="discoveryhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.site/logo/discoveryhd.jpg",Discovery Channel
-https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 tvg-id="dmax" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.site/logo/dmax.jpg",Dmax
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 
