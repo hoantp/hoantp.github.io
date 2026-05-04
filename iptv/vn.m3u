@@ -59,12 +59,8 @@ https://liveh34.vtvprime.vn/hls/SCTV12/index.m3u8
 https://liveh34.vtvprime.vn/hls/SCTV13/index.m3u8
 #EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://img.lichphatsong.site/logo/sctv14hd.png",SCTV14 - Phim Việt Nam
 https://liveh34.vtvprime.vn/hls/SCTV14/index.m3u8
-#EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://img.lichphatsong.site/logo/sctv15hd.png",SCTV15 - S Sport 2
-https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://img.lichphatsong.site/logo/sctv16hd.png",SCTV16 - Phim nước ngoài
 https://liveh34.vtvprime.vn/hls/SCTV16/index.m3u8
-#EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://img.lichphatsong.site/logo/sctv17hd.png",SCTV17 - S Sport
-https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://img.lichphatsong.site/logo/sctv18hd.png",SCTV18
 https://liveh34.vtvprime.vn/hls/SCTV18/index.m3u8
 #EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://img.lichphatsong.site/logo/sctv19hd.png",SCTV19 - Thiếu niên
@@ -73,22 +69,11 @@ https://liveh34.vtvprime.vn/hls/SCTV19/index.m3u8
 https://liveh34.vtvprime.vn/hls/SCTV20/index.m3u8
 #EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://img.lichphatsong.site/logo/sctv21hd.jpg",SCTV21 - Việt Nam ký ức
 https://liveh34.vtvprime.vn/hls/SCTV21/index.m3u8
-#EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://img.lichphatsong.site/logo/sctv22hd.png",SCTV22 - S Sport 1
-https://liveh34.vtvprime.vn/hls/SCTV22/index.m3u8
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://img.lichphatsong.site/logo/sctvhdpth.png",SCTV Phim tổng hợp
 https://liveh12.vtvprime.vn/hls/SCTVPHIM/index.m3u8
-# #EXTINF:-1 tvg-id="sctv4k" group-title="SCTV" tvg-logo="https://img.lichphatsong.site/logo/sctv4k.jpg",SCTV 4K
-# https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8
 
 
 # --- Sports ---
-#EXTINF:-1 tvg-id="nowsports1" group-title="Thể thao" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_1920_1080",Now Sports 1
-https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
-#EXTINF:-1 tvg-id="nowsports2" group-title="Thể thao" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_1920_1080",Now Sports 2
-https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8
-#EXTINF:-1 tvg-id="nowsports3" group-title="Thể thao" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_1920_1080",Now Sports 3
-https://eventcdn02-nowe.akamaized.net/hls/CH623/index.m3u8
-
 #EXTINF:-1 tvg-id="onfootball" group-title="Thể thao" tvg-logo="https://img.lichphatsong.site/logo/on-football.jpg",ON Football
 https://freem3u.xyz/static/no-signal/low.m3u8
 #https://freem3u.xyz/api/live/play.m3u8?oid=onfootball
@@ -101,6 +86,13 @@ https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 tvg-id="onsportsplus" group-title="Thể thao" tvg-logo="https://img.lichphatsong.site/logo/on-sportsplus.jpg",ON Sports+
 https://freem3u.xyz/static/no-signal/low.m3u8
 #https://freem3u.xyz/api/live/play.m3u8?oid=onsportsplus
+
+#EXTINF:-1 tvg-id="sctv22hd" group-title="Thể thao" tvg-logo="https://img.lichphatsong.site/logo/sctv22hd.png",SCTV22 - S Sport 1
+https://liveh34.vtvprime.vn/hls/SCTV22/index.m3u8
+#EXTINF:-1 tvg-id="sctv15hd" group-title="Thể thao" tvg-logo="https://img.lichphatsong.site/logo/sctv15hd.png",SCTV15 - S Sport 2
+https://freem3u.xyz/static/no-signal/low.m3u8
+#EXTINF:-1 tvg-id="sctv17hd" group-title="Thể thao" tvg-logo="https://img.lichphatsong.site/logo/sctv17hd.png",SCTV17 - S Sport
+https://freem3u.xyz/static/no-signal/low.m3u8
 
 # --- VTVcab---
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://img.lichphatsong.site/logo/on-viegiaitri.jpg",ON Vie Giải trí
