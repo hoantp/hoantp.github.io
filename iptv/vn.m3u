@@ -198,7 +198,7 @@ https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist.m3u8
 https://vietanhtv.id.vn/tv360/9856/index.m3u8
 # https://toiyeuvietnam.dpdns.org/CoBan/history-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="hgtv" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.site/logo/hgtv.jpg",HGTV
-https://freem3u.xyz/api/live/play.mpd?vid=99
+https://vietanhtv.id.vn/tv360/99/index.m3u8
 # https://toiyeuvietnam.dpdns.org/CoBan/hgtv/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.site/logo/animalhd.jpg",Animal Planet
 https://freem3u.xyz/static/no-signal/low.m3u8
@@ -217,6 +217,8 @@ https://vietanhtv.id.vn/tv360/192/index.m3u8
 #EXTINF:-1 tvg-id="htv4" group-title="HTV" tvg-logo="https://img.lichphatsong.site/logo/htvkey.jpg",HTV Key
 https://vietanhtv.id.vn/tv360/9/index.m3u8
 # https://live.fptplay53.net/epzhd1/htv4_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="htv5" group-title="HTV" tvg-logo="https://img.lichphatsong.site/logo/htv5.jpg",HTV5 Bchannel
+https://vietanhtv.id.vn/tv360/151/index.m3u8
 #EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://img.lichphatsong.site/logo/htv7hd.jpg",HTV7
 https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://img.lichphatsong.site/logo/htv9hd.jpg",HTV9
