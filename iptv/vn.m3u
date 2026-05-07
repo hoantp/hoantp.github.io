@@ -51,11 +51,7 @@ https://liveh34.vtvprime.vn/hls/SCTV7/index.m3u8
 #EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://img.lichphatsong.site/logo/sctv8hd.png",SCTV8 - Kinh tế thị trường
 https://liveh34.vtvprime.vn/hls/SCTV8/index.m3u8
 #EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://img.lichphatsong.site/logo/sctv9hd.png",SCTV9 - Phim Châu Á
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/mean/SCTV9/manifest.mpd
+https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://img.lichphatsong.site/logo/sctv11hd.png",SCTV11 - TV Star
 https://liveh34.vtvprime.vn/hls/SCTV11/index.m3u8
 #EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="https://img.lichphatsong.site/logo/sctv12hd.png",SCTV12 - Du lịch khám phá
@@ -80,7 +76,12 @@ https://liveh12.vtvprime.vn/hls/SCTVPHIM/index.m3u8
 
 # --- Sports ---
 #EXTINF:-1 tvg-id="onfootball" group-title="Thể thao" tvg-logo="https://img.lichphatsong.site/logo/on-football.jpg",ON Football
-https://freem3u.xyz/static/no-signal/low.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_HD/manifest.mpd
+
 #EXTINF:-1 tvg-id="onsports" group-title="Thể thao" tvg-logo="https://img.lichphatsong.site/logo/on-sports.jpg",ON Sports
 https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 tvg-id="onsportsnews" group-title="Thể thao" tvg-logo="https://img.lichphatsong.site/logo/on-sportsnews.jpg",ON Sports News
