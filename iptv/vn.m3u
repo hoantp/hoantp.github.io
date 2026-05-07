@@ -26,7 +26,8 @@ https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://img.lichphatsong.site/logo/vtv8hd.jpg",VTV8
 https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://img.lichphatsong.site/logo/vtv9hd.jpg",VTV9
-https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist.m3u8
+https://sgclient.duckdns.org/source/tv360.m3u8?id=8
+# https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://img.lichphatsong.site/logo/vtv10hd.jpg",VTV10
 https://live-a.fptplay53.net/live/media/VTV_can_tho/live_hls_avc/index.m3u8
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://img.lichphatsong.site/logo/vietnamtoday.jpg",Vietnam Today
@@ -76,16 +77,12 @@ https://liveh12.vtvprime.vn/hls/SCTVPHIM/index.m3u8
 # --- Sports ---
 #EXTINF:-1 tvg-id="onfootball" group-title="Thể thao" tvg-logo="https://img.lichphatsong.site/logo/on-football.jpg",ON Football
 https://freem3u.xyz/static/no-signal/low.m3u8
-#https://freem3u.xyz/api/live/play.m3u8?oid=onfootball
 #EXTINF:-1 tvg-id="onsports" group-title="Thể thao" tvg-logo="https://img.lichphatsong.site/logo/on-sports.jpg",ON Sports
 https://freem3u.xyz/static/no-signal/low.m3u8
-#https://freem3u.xyz/api/live/play.m3u8?oid=onsports
 #EXTINF:-1 tvg-id="onsportsnews" group-title="Thể thao" tvg-logo="https://img.lichphatsong.site/logo/on-sportsnews.jpg",ON Sports News
 https://freem3u.xyz/static/no-signal/low.m3u8
-#https://freem3u.xyz/api/live/play.m3u8?oid=onsportsnews
 #EXTINF:-1 tvg-id="onsportsplus" group-title="Thể thao" tvg-logo="https://img.lichphatsong.site/logo/on-sportsplus.jpg",ON Sports+
 https://freem3u.xyz/static/no-signal/low.m3u8
-#https://freem3u.xyz/api/live/play.m3u8?oid=onsportsplus
 
 #EXTINF:-1 tvg-id="sctv22hd" group-title="Thể thao" tvg-logo="https://img.lichphatsong.site/logo/sctv22hd.png",SCTV22 - S Sport 1
 https://liveh34.vtvprime.vn/hls/SCTV22/index.m3u8
@@ -214,7 +211,7 @@ https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://img.lichphatsong.site/logo/htv3.png",HTV3
 https://sgclient.duckdns.org/source/tv360.m3u8?id=192
 # https://live.fptplay53.net/epzhd1/htv3_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="htv4" group-title="HTV" tvg-logo="https://img.lichphatsong.site/logo/htvkey.jpg",HTV4
+#EXTINF:-1 tvg-id="htvkey" group-title="HTV" tvg-logo="https://img.lichphatsong.site/logo/htvkey.jpg",HTV4
 https://sgclient.duckdns.org/source/tv360.m3u8?id=9
 # https://live.fptplay53.net/epzhd1/htv4_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv5" group-title="HTV" tvg-logo="https://img.lichphatsong.site/logo/htv5.jpg",HTV5 Bchannel
@@ -252,4 +249,4 @@ https://live.fptplay53.net/epzch2/vinhlong3_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="THVL" tvg-logo="https://img.lichphatsong.site/logo/vinhlong4hd.png",THVL4
 https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vinhlong5hd" group-title="THVL" tvg-logo="https://img.lichphatsong.site/logo/vinhlong5hd.png",THVL5
-https://sgclient.duckdns.org/source/tv360.m3u8?id=91
+https://live.fptplay53.net/epzhd2/vinhlong5hd_vhls.smil/chunklist.m3u8
