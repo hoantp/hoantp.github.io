@@ -308,13 +308,13 @@ https://live.fptplay53.net/epzhd1/htv1_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://img.lichphatsong.site/logo/htv2hd.jpg",HTV2
 https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://img.lichphatsong.site/logo/htv3.png",HTV3
-https://freem3u.xyz/api/live/play.m3u8?vid=192
-# https://live.fptplay53.net/epzhd1/htv3_vhls.smil/chunklist.m3u8
+#https://freem3u.xyz/api/live/play.m3u8?vid=192
+https://live.fptplay53.net/epzhd1/htv3_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvkey" group-title="HTV" tvg-logo="https://img.lichphatsong.site/logo/htvkey.jpg",HTV4
-https://freem3u.xyz/api/live/play.m3u8?vid=9
-# https://live.fptplay53.net/epzhd1/htv4_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="htv5" group-title="HTV" tvg-logo="https://img.lichphatsong.site/logo/htv5.jpg",HTV5 Bchannel
-https://freem3u.xyz/api/live/play.m3u8?vid=151
+#https://freem3u.xyz/api/live/play.m3u8?vid=9
+https://live.fptplay53.net/epzhd1/htv4_vhls.smil/chunklist.m3u8
+##EXTINF:-1 tvg-id="htv5" group-title="HTV" tvg-logo="https://img.lichphatsong.site/logo/htv5.jpg",HTV5 Bchannel
+#https://freem3u.xyz/api/live/play.m3u8?vid=151
 #EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://img.lichphatsong.site/logo/htv7hd.jpg",HTV7
 https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://img.lichphatsong.site/logo/htv9hd.jpg",HTV9
