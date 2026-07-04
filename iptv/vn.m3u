@@ -42,7 +42,7 @@ https://live-a.fptplay53.net/live/media/vietnamtoday/live-hls-avc/vietnamtoday-a
 https://hoiquan.dpdns.org/VTVGo/?sctv1
 #https://liveh12.vtvprime.vn/hls/SCTV1/index.m3u8
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://img.lichphatsong.site/logo/sctv2hd.png",SCTV2 - Today TV
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=201
+https://tpninosaga.duckdns.org/source/tv360.m3u8?token=NinoExility&id=201
 #EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://img.lichphatsong.site/logo/sctv3hd.png",SCTV3 - Thiếu nhi
 https://hoiquan.dpdns.org/VTVGo/?sctv3
 #EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://img.lichphatsong.site/logo/sctv4hd.png",SCTV4 - Let's Việt
@@ -143,35 +143,35 @@ https://livevlisctcdnw.seenow.vn/mean/SCTV17/manifest.mpd
 
 # --- VTVcab---
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://img.lichphatsong.site/logo/on-viegiaitri.jpg",ON Vie Giải trí
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=180
+https://tpninosaga.duckdns.org/source/tv360.m3u8?token=NinoExility&id=180
 #EXTINF:-1 tvg-id="onphimviet" group-title="VTVcab" tvg-logo="https://img.lichphatsong.site/logo/on-phimviet.jpg",ON Phim Việt
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=175
+https://tpninosaga.duckdns.org/source/tv360.m3u8?token=NinoExility&id=175
 #EXTINF:-1 tvg-id="onmovies" group-title="VTVcab" tvg-logo="https://img.lichphatsong.site/logo/on-movies.jpg",ON Movies
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=181
+https://tpninosaga.duckdns.org/source/tv360.m3u8?token=NinoExility&id=181
 #EXTINF:-1 tvg-id="onechannel" group-title="VTVcab" tvg-logo="https://img.lichphatsong.site/logo/on-echannel.jpg",ON E-Channel
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=182
+https://tpninosaga.duckdns.org/source/tv360.m3u8?token=NinoExility&id=182
 #EXTINF:-1 tvg-id="ono2tv" group-title="VTVcab" tvg-logo="https://img.lichphatsong.site/logo/on-o2tv.jpg",ON O2TV
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=136
+https://tpninosaga.duckdns.org/source/tv360.m3u8?token=NinoExility&id=136
 #EXTINF:-1 tvg-id="onbibi" group-title="VTVcab" tvg-logo="https://img.lichphatsong.site/logo/on-bibi.jpg",ON BiBi
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=178
+https://tpninosaga.duckdns.org/source/tv360.m3u8?token=NinoExility&id=178
 #EXTINF:-1 tvg-id="onlife" group-title="VTVcab" tvg-logo="https://img.lichphatsong.site/logo/on-life.jpg",ON Life
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=188
+https://tpninosaga.duckdns.org/source/tv360.m3u8?token=NinoExility&id=188
 #EXTINF:-1 tvg-id="oninfotv" group-title="VTVcab" tvg-logo="https://img.lichphatsong.site/logo/on-infotv.jpg",ON Info
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=189
+https://tpninosaga.duckdns.org/source/tv360.m3u8?token=NinoExility&id=189
 #EXTINF:-1 tvg-id="oncine" group-title="VTVcab" tvg-logo="https://img.lichphatsong.site/logo/on-cine.jpg",ON Cine
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=176
+https://tpninosaga.duckdns.org/source/tv360.m3u8?token=NinoExility&id=176
 #EXTINF:-1 tvg-id="onstyle" group-title="VTVcab" tvg-logo="https://img.lichphatsong.site/logo/on-style.jpg",ON Style
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=184
+https://tpninosaga.duckdns.org/source/tv360.m3u8?token=NinoExility&id=184
 #EXTINF:-1 tvg-id="onmusic" group-title="VTVcab" tvg-logo="https://img.lichphatsong.site/logo/on-music.jpg",ON Music
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=185
+https://tpninosaga.duckdns.org/source/tv360.m3u8?token=NinoExility&id=185
 #EXTINF:-1 tvg-id="ontrending" type="stream" group-title="VTVcab" tvg-logo="https://img.lichphatsong.site/logo/on-trending.jpg",ON Trending
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=186
+https://tpninosaga.duckdns.org/source/tv360.m3u8?token=NinoExility&id=186
 #EXTINF:-1 tvg-id="onviedramas" group-title="VTVcab" tvg-logo="https://img.lichphatsong.site/logo/on-viedramas.jpg",ON Vie Dramas
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=177
+https://tpninosaga.duckdns.org/source/tv360.m3u8?token=NinoExility&id=177
 #EXTINF:-1 tvg-id="onvfamily" type="stream" group-title="VTVcab" tvg-logo="https://img.lichphatsong.site/logo/on-vfamily.jpg",ON VFamily
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=187
+https://tpninosaga.duckdns.org/source/tv360.m3u8?token=NinoExility&id=187
 #EXTINF:-1 tvg-id="vtvcab21hd" group-title="VTVcab" tvg-logo="https://img.lichphatsong.site/logo/on-kids.jpg",ON Kids
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=179
+https://tpninosaga.duckdns.org/source/tv360.m3u8?token=NinoExility&id=179
 
 
 # --- Hanoi TV ---
@@ -239,7 +239,7 @@ https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist.m
 #EXTINF:-1 tvg-id="bloomberg" group-title="Tin tức" tvg-logo="https://img.lichphatsong.site/logo/bloomberg.png",Bloomberg
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-id="cna" group-title="Tin tức" tvg-logo="https://img.lichphatsong.site/logo/cna.jpg",CNA
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=112
+https://tpninosaga.duckdns.org/source/tv360.m3u8?token=NinoExility&id=112
 #https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist.m3u8
 #https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="nhkworld" group-title="Tin tức" tvg-logo="https://img.lichphatsong.site/logo/nhkworld.png",NHK World
@@ -269,7 +269,7 @@ https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="outdoorhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.site/logo/outdoorhd.jpg",Outdoor Channel
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="historyhd" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.site/logo/historyhd.jpg",History
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9856
+https://tpninosaga.duckdns.org/source/tv360.m3u8?token=NinoExility&id=9856
 #EXTINF:-1 tvg-id="hgtv" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.site/logo/hgtv.jpg",HGTV
 https://freem3u.xyz/api/live/play.mpd?vid=99
 
@@ -308,13 +308,13 @@ https://live.fptplay53.net/epzhd1/htv1_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://img.lichphatsong.site/logo/htv2hd.jpg",HTV2
 https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://img.lichphatsong.site/logo/htv3.png",HTV3
-#https://vpsttt.vietanhtv.top/tv360/tv360.php?id=192
+#https://tpninosaga.duckdns.org/source/tv360.m3u8?token=NinoExility&id=192
 https://live.fptplay53.net/epzhd1/htv3_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvkey" group-title="HTV" tvg-logo="https://img.lichphatsong.site/logo/htvkey.jpg",HTV4
-#https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9
+#https://tpninosaga.duckdns.org/source/tv360.m3u8?token=NinoExility&id=9
 https://live.fptplay53.net/epzhd1/htv4_vhls.smil/chunklist.m3u8
 ##EXTINF:-1 tvg-id="htv5" group-title="HTV" tvg-logo="https://img.lichphatsong.site/logo/htv5.jpg",HTV5 Bchannel
-#https://vpsttt.vietanhtv.top/tv360/tv360.php?id=151
+#https://tpninosaga.duckdns.org/source/tv360.m3u8?token=NinoExility&id=151
 #EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://img.lichphatsong.site/logo/htv7hd.jpg",HTV7
 https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://img.lichphatsong.site/logo/htv9hd.jpg",HTV9
