@@ -95,51 +95,51 @@ https://liveh12.vtvprime.vn/hls/SCTVPHIM/index.m3u8
 
 
 # --- Sports ---
-#EXTINF:-1 tvg-id="onfootball" group-title="Thể thao" tvg-logo="https://img.lichphatsong.site/logo/on-football.jpg",ON Football
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
-https://cdnet-cdn-01.onsports.vn/onplus/BONGDA_HD/manifest.mpd
+# #EXTINF:-1 tvg-id="onfootball" group-title="Thể thao" tvg-logo="https://img.lichphatsong.site/logo/on-football.jpg",ON Football
+# #KODIPROP:inputstream=inputstream.adaptive
+# #KODIPROP:inputstream.adaptive.manifest_type=dash
+# #KODIPROP:inputstream.adaptive.license_type=clearkey
+# #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
+# https://cdnet-cdn-01.onsports.vn/onplus/BONGDA_HD/manifest.mpd
 
-#EXTINF:-1 tvg-id="onsports" group-title="Thể thao" tvg-logo="https://img.lichphatsong.site/logo/on-sports.jpg",ON Sports
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
-https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_HD/manifest.mpd
+# #EXTINF:-1 tvg-id="onsports" group-title="Thể thao" tvg-logo="https://img.lichphatsong.site/logo/on-sports.jpg",ON Sports
+# #KODIPROP:inputstream=inputstream.adaptive
+# #KODIPROP:inputstream.adaptive.manifest_type=dash
+# #KODIPROP:inputstream.adaptive.license_type=clearkey
+# #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
+# https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_HD/manifest.mpd
 
-#EXTINF:-1 tvg-id="onsportsnews" group-title="Thể thao" tvg-logo="https://img.lichphatsong.site/logo/on-sportsnews.jpg",ON Sports News
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
-https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_TINTUC_HD/manifest.mpd
+# #EXTINF:-1 tvg-id="onsportsnews" group-title="Thể thao" tvg-logo="https://img.lichphatsong.site/logo/on-sportsnews.jpg",ON Sports News
+# #KODIPROP:inputstream=inputstream.adaptive
+# #KODIPROP:inputstream.adaptive.manifest_type=dash
+# #KODIPROP:inputstream.adaptive.license_type=clearkey
+# #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
+# https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_TINTUC_HD/manifest.mpd
 
-#EXTINF:-1 tvg-id="onsportsplus" group-title="Thể thao" tvg-logo="https://img.lichphatsong.site/logo/on-sportsplus.jpg",ON Sports+
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
-https://cdnet-cdn-01.onsports.vn/onplus/HAY_TV/manifest.mpd
+# #EXTINF:-1 tvg-id="onsportsplus" group-title="Thể thao" tvg-logo="https://img.lichphatsong.site/logo/on-sportsplus.jpg",ON Sports+
+# #KODIPROP:inputstream=inputstream.adaptive
+# #KODIPROP:inputstream.adaptive.manifest_type=dash
+# #KODIPROP:inputstream.adaptive.license_type=clearkey
+# #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
+# https://cdnet-cdn-01.onsports.vn/onplus/HAY_TV/manifest.mpd
 
-#EXTINF:-1 tvg-id="sctv22hd" group-title="Thể thao" tvg-logo="https://img.lichphatsong.site/logo/sctv22hd.png",SCTV22 - S Sport 1
-https://hoiquan.dpdns.org/VTVGo/?sctv22
-#https://liveh34.vtvprime.vn/hls/SCTV22/index.m3u8
+# #EXTINF:-1 tvg-id="sctv22hd" group-title="Thể thao" tvg-logo="https://img.lichphatsong.site/logo/sctv22hd.png",SCTV22 - S Sport 1
+# https://hoiquan.dpdns.org/VTVGo/?sctv22
+# #https://liveh34.vtvprime.vn/hls/SCTV22/index.m3u8
 
-#EXTINF:-1 tvg-id="sctv15hd" group-title="Thể thao" tvg-logo="https://img.lichphatsong.site/logo/sctv15hd.png",SCTV15 - S Sport 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/mean/SCTV15HD/manifest.mpd
+# #EXTINF:-1 tvg-id="sctv15hd" group-title="Thể thao" tvg-logo="https://img.lichphatsong.site/logo/sctv15hd.png",SCTV15 - S Sport 2
+# #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+# #KODIPROP:inputstream.adaptive.manifest_type=mpd
+# #KODIPROP:inputstream.adaptive.license_type=clearkey
+# #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+# https://livevlisctcdnw.seenow.vn/mean/SCTV15HD/manifest.mpd
 
-#EXTINF:-1 tvg-id="sctv17hd" group-title="Thể thao" tvg-logo="https://img.lichphatsong.site/logo/sctv17hd.png",SCTV17 - S Sport
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/mean/SCTV17/manifest.mpd
+# #EXTINF:-1 tvg-id="sctv17hd" group-title="Thể thao" tvg-logo="https://img.lichphatsong.site/logo/sctv17hd.png",SCTV17 - S Sport
+# #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+# #KODIPROP:inputstream.adaptive.manifest_type=mpd
+# #KODIPROP:inputstream.adaptive.license_type=clearkey
+# #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+# https://livevlisctcdnw.seenow.vn/mean/SCTV17/manifest.mpd
 
 
 # --- VTVcab---
