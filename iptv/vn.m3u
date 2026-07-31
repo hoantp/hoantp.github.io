@@ -50,7 +50,7 @@ https://vmttv.dpdns.org/VTVGo/?sctv3
 https://vmttv.dpdns.org/VTVGo/?sctv4
 #https://liveh12.vtvprime.vn/hls/SCTV4/index.m3u8
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://img.lichphatsong.site/logo/sctv6hd.png",SCTV6 - Giải trí thế hệ mới
-https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://img.lichphatsong.site/logo/sctv7hd.png",SCTV7 - Sân khấu
 https://vmttv.dpdns.org/VTVGo/?sctv7
 #https://liveh34.vtvprime.vn/hls/SCTV7/index.m3u8
@@ -91,7 +91,7 @@ https://vmttv.dpdns.org/VTVGo/?sctv20
 https://vmttv.dpdns.org/VTVGo/?sctv21
 #https://liveh34.vtvprime.vn/hls/SCTV21/index.m3u8
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://img.lichphatsong.site/logo/sctvhdpth.png",SCTV Phim tổng hợp
-https://liveh12.vtvprime.vn/hls/SCTVPHIM/index.m3u8
+https://vmttv.dpdns.org/VTVGo/?sctvphim
 
 
 # --- Sports ---
@@ -192,9 +192,9 @@ https://freem3u.xyz/api/live/play.m3u8?vid=179
 
 # --- Hanoi TV ---
 #EXTINF:-1 tvg-id="hanoi1" group-title="HNTV" tvg-logo="https://img.lichphatsong.site/logo/hanoi1.png",Hà Nội 1
-https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="hanoi2" group-title="HNTV" tvg-logo="https://img.lichphatsong.site/logo/hanoi2.png",Hà Nội 2
-https://live.fptplay53.net/fnxhd1/hntv2_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/fnxhd1/hntv2_vhls.smil/chunklist.m3u8
 
 
 # --- Film ---
@@ -364,6 +364,7 @@ https://live-a.fptplay53.net/live/media/vinhlong2/live247-hls-avc/vinhlong2.m3u8
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="THVL" tvg-logo="https://img.lichphatsong.site/logo/vinhlong3hd.jpg",THVL3
 https://live-a.fptplay53.net/live/media/vinhlong3/live247-hls-avc/vinhlong3.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="THVL" tvg-logo="https://img.lichphatsong.site/logo/vinhlong4hd.png",THVL4
-https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8
+#https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=220
 #EXTINF:-1 tvg-id="vinhlong5hd" group-title="THVL" tvg-logo="https://img.lichphatsong.site/logo/vinhlong5hd.png",THVL5
 https://live.fptplay53.net/epzhd2/vinhlong5hd_vhls.smil/chunklist.m3u8
