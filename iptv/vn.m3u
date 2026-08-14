@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://lichphatsong.io.vn/epg.xml.gz"
+#EXTM3U url-tvg="https://epg.io.vn/epg.xml.gz"
 
 # --- ANQP ---
 #EXTINF:-1 tvg-id="antvhd" group-title="ANQP" tvg-logo="https://img.lichphatsong.site/logo/antv.png",ANTV
