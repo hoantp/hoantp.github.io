@@ -1,126 +1,126 @@
 #EXTM3U url-tvg="https://epg.io.vn/epg.xml"
 
 # --- ANQP ---
-#EXTINF:-1 tvg-id="antvhd" group-title="ANQP" tvg-logo="https://hoantp.github.io/assets/logo/anqp/antv.webp",ANTV
+#EXTINF:-1 tvg-id="antvhd" group-title="ANQP" tvg-logo="https://hoantran.name.vn/assets/logo/anqp/antv.webp",ANTV
 https://live-a.fptplay53.net/live/media/antv/live-hls-avc/antv.m3u8
-#EXTINF:-1 tvg-id="qpvnhd" group-title="ANQP" tvg-logo="https://hoantp.github.io/assets/logo/anqp/qpvnhd.webp",QPVN
+#EXTINF:-1 tvg-id="qpvnhd" group-title="ANQP" tvg-logo="https://hoantran.name.vn/assets/logo/anqp/qpvnhd.webp",QPVN
 https://live-a.fptplay53.net/live/media/quocphongvn/live-hls-avc/quocphongvn.m3u8
 
 
 # --- VTV ---
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://hoantp.github.io/assets/logo/vtv/vtv1hd.webp",VTV1
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://hoantran.name.vn/assets/logo/vtv/vtv1hd.webp",VTV1
 https://live-a.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://hoantp.github.io/assets/logo/vtv/vtv2hd.webp",VTV2
+#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://hoantran.name.vn/assets/logo/vtv/vtv2hd.webp",VTV2
 https://live-a.fptplay53.net/live/media/vtv2/live247-hls-avc/vtv2.m3u8
-#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://hoantp.github.io/assets/logo/vtv/vtv3hd.webp",VTV3
+#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://hoantran.name.vn/assets/logo/vtv/vtv3hd.webp",VTV3
 https://live-a.fptplay53.net/live/media/vtv3/live247-hls-avc/vtv3.m3u8
-#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://hoantp.github.io/assets/logo/vtv/vtv4hd.webp",VTV4
+#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://hoantran.name.vn/assets/logo/vtv/vtv4hd.webp",VTV4
 https://live-a.fptplay53.net/live/media/vtv4/live247-hls-avc/vtv4.m3u8
-#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://hoantp.github.io/assets/logo/vtv/vtv5hd.webp",VTV5
+#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://hoantran.name.vn/assets/logo/vtv/vtv5hd.webp",VTV5
 https://live-a.fptplay53.net/live/media/vtv5/live247-hls-avc/vtv5.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://hoantp.github.io/assets/logo/vtv/vtv5hdtnb.webp",VTV5 Tây Nam Bộ
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://hoantran.name.vn/assets/logo/vtv/vtv5hdtnb.webp",VTV5 Tây Nam Bộ
 https://live-a.fptplay53.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://hoantp.github.io/assets/logo/vtv/vtv5hdtn.webp",VTV5 Tây Nguyên
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://hoantran.name.vn/assets/logo/vtv/vtv5hdtn.webp",VTV5 Tây Nguyên
 https://live-a.fptplay53.net/live/media/vtv5tn/live-hls-avc/vtv5tn.m3u8
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://hoantp.github.io/assets/logo/vtv/vtv6hd.webp",VTV6
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://hoantran.name.vn/assets/logo/vtv/vtv6hd.webp",VTV6
 https://live-a.fptplay53.net/live/media/vtv6/live247-hls-avc/vtv6.m3u8
-#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://hoantp.github.io/assets/logo/vtv/vtv7hd.webp",VTV7
+#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://hoantran.name.vn/assets/logo/vtv/vtv7hd.webp",VTV7
 https://live-a.fptplay53.net/live/media/vtv7/live247-hls-avc/vtv7.m3u8
-#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://hoantp.github.io/assets/logo/vtv/vtv8hd.webp",VTV8
+#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://hoantran.name.vn/assets/logo/vtv/vtv8hd.webp",VTV8
 https://live-a.fptplay53.net/live/media/vtv8/live-hls-avc/vtv8.m3u8
-#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://hoantp.github.io/assets/logo/vtv/vtv9hd.webp",VTV9
+#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://hoantran.name.vn/assets/logo/vtv/vtv9hd.webp",VTV9
 https://live-a.fptplay53.net/live/media/vtv9/live247-hls-avc/vtv9.m3u8
-#EXTINF:-1 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://hoantp.github.io/assets/logo/vtv/vtv10hd.webp",VTV10
+#EXTINF:-1 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://hoantran.name.vn/assets/logo/vtv/vtv10hd.webp",VTV10
 https://live-a.fptplay53.net/live/media/vtv10/live247-hls-avc/vtv10.m3u8
-#EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://hoantp.github.io/assets/logo/vtv/vietnamtoday.webp",Vietnam Today
+#EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://hoantran.name.vn/assets/logo/vtv/vietnamtoday.webp",Vietnam Today
 https://live-a.fptplay53.net/live/media/vietnamtoday/live-hls-avc/vietnamtoday.m3u8
 
 
 # --- SCTV ---
-#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://hoantp.github.io/assets/logo/sctv/sctv1hd.webp",SCTV1 - Hài
+#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/assets/logo/sctv/sctv1hd.webp",SCTV1 - Hài
 https://vietanhtv.id.vn/sctv/sctv1-hd-7f2aafec/index.m3u8
-#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://hoantp.github.io/assets/logo/sctv/sctv2hd.webp",SCTV2 - Today TV
+#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/assets/logo/sctv/sctv2hd.webp",SCTV2 - Today TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=201
-#EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://hoantp.github.io/assets/logo/sctv/sctv3hd.webp",SCTV3 - Thiếu nhi
+#EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/assets/logo/sctv/sctv3hd.webp",SCTV3 - Thiếu nhi
 https://vietanhtv.id.vn/sctv/sctv3-hd-cf3adaca/index.m3u8
-#EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://hoantp.github.io/assets/logo/sctv/sctv4hd.webp",SCTV4 - Let's Việt
+#EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/assets/logo/sctv/sctv4hd.webp",SCTV4 - Let's Việt
 https://vietanhtv.id.vn/sctv/sctv4-ae779f7e/index.m3u8
-#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://hoantp.github.io/assets/logo/sctv/sctv6hd.webp",SCTV6 - Giải trí thế hệ mới
+#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/assets/logo/sctv/sctv6hd.webp",SCTV6 - Giải trí thế hệ mới
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://hoantp.github.io/assets/logo/sctv/sctv7hd.webp",SCTV7 - Sân khấu
+#EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/assets/logo/sctv/sctv7hd.webp",SCTV7 - Sân khấu
 https://vietanhtv.id.vn/sctv/sctv7-ef7e259a/index.m3u8
-#EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://hoantp.github.io/assets/logo/sctv/sctv8hd.webp",SCTV8 - Kinh tế thị trường
+#EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/assets/logo/sctv/sctv8hd.webp",SCTV8 - Kinh tế thị trường
 https://vietanhtv.id.vn/sctv/sctv8-c12d138b/index.m3u8
-#EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://hoantp.github.io/assets/logo/sctv/sctv9hd.webp",SCTV9 - Phim Châu Á
+#EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/assets/logo/sctv/sctv9hd.webp",SCTV9 - Phim Châu Á
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=22a9a9a63d2746df9f90c184c596105a:2d9d24caeaea42f8b44e413fe04f0e5c
 https://livevlisctcdnw.seenow.vn/mean/SCTV9/manifest.mpd
-#EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://hoantp.github.io/assets/logo/sctv/sctv11hd.webp",SCTV11 - TV Star
+#EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/assets/logo/sctv/sctv11hd.webp",SCTV11 - TV Star
 https://vietanhtv.id.vn/sctv/sctv11-1d565c47/index.m3u8
-#EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="https://hoantp.github.io/assets/logo/sctv/sctv12hd.webp",SCTV12 - Du lịch khám phá
+#EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/assets/logo/sctv/sctv12hd.webp",SCTV12 - Du lịch khám phá
 https://vietanhtv.id.vn/sctv/sctv12-b0d6c023/index.m3u8
-#EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="https://hoantp.github.io/assets/logo/sctv/sctv13hd.webp",SCTV13 - Phụ nữ & Gia đình
+#EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/assets/logo/sctv/sctv13hd.webp",SCTV13 - Phụ nữ & Gia đình
 https://vietanhtv.id.vn/sctv/sctv13-67f88fcb/index.m3u8
-#EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://hoantp.github.io/assets/logo/sctv/sctv14hd.webp",SCTV14 - Phim Việt Nam
+#EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/assets/logo/sctv/sctv14hd.webp",SCTV14 - Phim Việt Nam
 https://vietanhtv.id.vn/sctv/sctv14-789c9f45/index.m3u8
-#EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://hoantp.github.io/assets/logo/sctv/sctv16hd.webp",SCTV16 - Phim nước ngoài
+#EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/assets/logo/sctv/sctv16hd.webp",SCTV16 - Phim nước ngoài
 https://vietanhtv.id.vn/sctv/sctv16-dd1535e8/index.m3u8
-#EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://hoantp.github.io/assets/logo/sctv/sctv18hd.webp",SCTV18
+#EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/assets/logo/sctv/sctv18hd.webp",SCTV18
 https://vietanhtv.id.vn/sctv/sctv18-398b0b4e/index.m3u8
-#EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://hoantp.github.io/assets/logo/sctv/sctv19hd.webp",SCTV19 - Thiếu niên
+#EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/assets/logo/sctv/sctv19hd.webp",SCTV19 - Thiếu niên
 https://vietanhtv.id.vn/sctv/sctv19-bf00bd02/index.m3u8
-#EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://hoantp.github.io/assets/logo/sctv/sctv20hd.webp",SCTV20 - Ca nhạc
+#EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/assets/logo/sctv/sctv20hd.webp",SCTV20 - Ca nhạc
 https://vietanhtv.id.vn/sctv/sctv19-cb98949a/index.m3u8
-#EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://hoantp.github.io/assets/logo/sctv/sctv21hd.webp",SCTV21 - Việt Nam ký ức
+#EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://hoantran.name.vn/assets/logo/sctv/sctv21hd.webp",SCTV21 - Việt Nam ký ức
 https://vietanhtv.id.vn/sctv/sctv-21-57de221a/index.m3u8
-#EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://hoantp.github.io/assets/logo/sctv/sctvhdpth.webp",SCTV Phim tổng hợp
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://hoantran.name.vn/assets/logo/sctv/sctvhdpth.webp",SCTV Phim tổng hợp
 https://vietanhtv.id.vn/sctv/sctv-phim-tong-hop-e6d2df88/index.m3u8
 
 
 # --- Sports ---
-# #EXTINF:-1 tvg-id="onfootball" group-title="Thể thao" tvg-logo="https://hoantp.github.io/assets/logo/the-thao/on-football.webp",ON Football
+# #EXTINF:-1 tvg-id="onfootball" group-title="Thể thao" tvg-logo="https://hoantran.name.vn/assets/logo/the-thao/on-football.webp",ON Football
 # #KODIPROP:inputstream=inputstream.adaptive
 # #KODIPROP:inputstream.adaptive.manifest_type=dash
 # #KODIPROP:inputstream.adaptive.license_type=clearkey
 # #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
 # https://cdnet-cdn-01.onsports.vn/onplus/BONGDA_HD/manifest.mpd
 
-# #EXTINF:-1 tvg-id="onsports" group-title="Thể thao" tvg-logo="https://hoantp.github.io/assets/logo/the-thao/on-sports.webp",ON Sports
+# #EXTINF:-1 tvg-id="onsports" group-title="Thể thao" tvg-logo="https://hoantran.name.vn/assets/logo/the-thao/on-sports.webp",ON Sports
 # #KODIPROP:inputstream=inputstream.adaptive
 # #KODIPROP:inputstream.adaptive.manifest_type=dash
 # #KODIPROP:inputstream.adaptive.license_type=clearkey
 # #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
 # https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_HD/manifest.mpd
 
-# #EXTINF:-1 tvg-id="onsportsnews" group-title="Thể thao" tvg-logo="https://hoantp.github.io/assets/logo/the-thao/on-sportsnews.webp",ON Sports News
+# #EXTINF:-1 tvg-id="onsportsnews" group-title="Thể thao" tvg-logo="https://hoantran.name.vn/assets/logo/the-thao/on-sportsnews.webp",ON Sports News
 # #KODIPROP:inputstream=inputstream.adaptive
 # #KODIPROP:inputstream.adaptive.manifest_type=dash
 # #KODIPROP:inputstream.adaptive.license_type=clearkey
 # #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
 # https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_TINTUC_HD/manifest.mpd
 
-# #EXTINF:-1 tvg-id="onsportsplus" group-title="Thể thao" tvg-logo="https://hoantp.github.io/assets/logo/the-thao/on-sportsplus.webp",ON Sports+
+# #EXTINF:-1 tvg-id="onsportsplus" group-title="Thể thao" tvg-logo="https://hoantran.name.vn/assets/logo/the-thao/on-sportsplus.webp",ON Sports+
 # #KODIPROP:inputstream=inputstream.adaptive
 # #KODIPROP:inputstream.adaptive.manifest_type=dash
 # #KODIPROP:inputstream.adaptive.license_type=clearkey
 # #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
 # https://cdnet-cdn-01.onsports.vn/onplus/HAY_TV/manifest.mpd
 
-# #EXTINF:-1 tvg-id="sctv22hd" group-title="Thể thao" tvg-logo="https://hoantp.github.io/assets/logo/the-thao/sctv22hd.webp",SCTV22 - S Sport 1
+# #EXTINF:-1 tvg-id="sctv22hd" group-title="Thể thao" tvg-logo="https://hoantran.name.vn/assets/logo/the-thao/sctv22hd.webp",SCTV22 - S Sport 1
 # https://vmttv.dpdns.org/VTVGo/?sctv22
 # #https://liveh34.vtvprime.vn/hls/SCTV22/index.m3u8
 
-# #EXTINF:-1 tvg-id="sctv15hd" group-title="Thể thao" tvg-logo="https://hoantp.github.io/assets/logo/the-thao/sctv15hd.webp",SCTV15 - S Sport 2
+# #EXTINF:-1 tvg-id="sctv15hd" group-title="Thể thao" tvg-logo="https://hoantran.name.vn/assets/logo/the-thao/sctv15hd.webp",SCTV15 - S Sport 2
 # #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 # #KODIPROP:inputstream.adaptive.manifest_type=mpd
 # #KODIPROP:inputstream.adaptive.license_type=clearkey
 # #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 # https://livevlisctcdnw.seenow.vn/mean/SCTV15HD/manifest.mpd
 
-# #EXTINF:-1 tvg-id="sctv17hd" group-title="Thể thao" tvg-logo="https://hoantp.github.io/assets/logo/the-thao/sctv17hd.webp",SCTV17 - S Sport
+# #EXTINF:-1 tvg-id="sctv17hd" group-title="Thể thao" tvg-logo="https://hoantran.name.vn/assets/logo/the-thao/sctv17hd.webp",SCTV17 - S Sport
 # #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 # #KODIPROP:inputstream.adaptive.manifest_type=mpd
 # #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -129,125 +129,125 @@ https://vietanhtv.id.vn/sctv/sctv-phim-tong-hop-e6d2df88/index.m3u8
 
 
 # --- VTVcab---
-#EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://hoantp.github.io/assets/logo/vtvcab/on-viegiaitri.webp",ON Vie Giải trí
+#EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://hoantran.name.vn/assets/logo/vtvcab/on-viegiaitri.webp",ON Vie Giải trí
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=180
-#EXTINF:-1 tvg-id="onphimviet" group-title="VTVcab" tvg-logo="https://hoantp.github.io/assets/logo/vtvcab/on-phimviet.webp",ON Phim Việt
+#EXTINF:-1 tvg-id="onphimviet" group-title="VTVcab" tvg-logo="https://hoantran.name.vn/assets/logo/vtvcab/on-phimviet.webp",ON Phim Việt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=175
-#EXTINF:-1 tvg-id="onmovies" group-title="VTVcab" tvg-logo="https://hoantp.github.io/assets/logo/vtvcab/on-movies.webp",ON Movies
+#EXTINF:-1 tvg-id="onmovies" group-title="VTVcab" tvg-logo="https://hoantran.name.vn/assets/logo/vtvcab/on-movies.webp",ON Movies
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=181
-#EXTINF:-1 tvg-id="onechannel" group-title="VTVcab" tvg-logo="https://hoantp.github.io/assets/logo/vtvcab/on-echannel.webp",ON E-Channel
+#EXTINF:-1 tvg-id="onechannel" group-title="VTVcab" tvg-logo="https://hoantran.name.vn/assets/logo/vtvcab/on-echannel.webp",ON E-Channel
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=182
-#EXTINF:-1 tvg-id="ono2tv" group-title="VTVcab" tvg-logo="https://hoantp.github.io/assets/logo/vtvcab/on-o2tv.webp",ON O2TV
+#EXTINF:-1 tvg-id="ono2tv" group-title="VTVcab" tvg-logo="https://hoantran.name.vn/assets/logo/vtvcab/on-o2tv.webp",ON O2TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=136
-#EXTINF:-1 tvg-id="onbibi" group-title="VTVcab" tvg-logo="https://hoantp.github.io/assets/logo/vtvcab/on-bibi.webp",ON BiBi
+#EXTINF:-1 tvg-id="onbibi" group-title="VTVcab" tvg-logo="https://hoantran.name.vn/assets/logo/vtvcab/on-bibi.webp",ON BiBi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=178
-#EXTINF:-1 tvg-id="onlife" group-title="VTVcab" tvg-logo="https://hoantp.github.io/assets/logo/vtvcab/on-life.webp",ON Life
+#EXTINF:-1 tvg-id="onlife" group-title="VTVcab" tvg-logo="https://hoantran.name.vn/assets/logo/vtvcab/on-life.webp",ON Life
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=188
-#EXTINF:-1 tvg-id="oninfotv" group-title="VTVcab" tvg-logo="https://hoantp.github.io/assets/logo/vtvcab/on-infotv.webp",ON Info
+#EXTINF:-1 tvg-id="oninfotv" group-title="VTVcab" tvg-logo="https://hoantran.name.vn/assets/logo/vtvcab/on-infotv.webp",ON Info
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=189
-#EXTINF:-1 tvg-id="oncine" group-title="VTVcab" tvg-logo="https://hoantp.github.io/assets/logo/vtvcab/on-cine.webp",ON Cine
+#EXTINF:-1 tvg-id="oncine" group-title="VTVcab" tvg-logo="https://hoantran.name.vn/assets/logo/vtvcab/on-cine.webp",ON Cine
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=176
-#EXTINF:-1 tvg-id="onstyle" group-title="VTVcab" tvg-logo="https://hoantp.github.io/assets/logo/vtvcab/on-style.webp",ON Style
+#EXTINF:-1 tvg-id="onstyle" group-title="VTVcab" tvg-logo="https://hoantran.name.vn/assets/logo/vtvcab/on-style.webp",ON Style
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=184
-#EXTINF:-1 tvg-id="onmusic" group-title="VTVcab" tvg-logo="https://hoantp.github.io/assets/logo/vtvcab/on-music.webp",ON Music
+#EXTINF:-1 tvg-id="onmusic" group-title="VTVcab" tvg-logo="https://hoantran.name.vn/assets/logo/vtvcab/on-music.webp",ON Music
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=185
-#EXTINF:-1 tvg-id="ontrending" type="stream" group-title="VTVcab" tvg-logo="https://hoantp.github.io/assets/logo/vtvcab/on-trending.webp",ON Trending
+#EXTINF:-1 tvg-id="ontrending" type="stream" group-title="VTVcab" tvg-logo="https://hoantran.name.vn/assets/logo/vtvcab/on-trending.webp",ON Trending
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=186
-#EXTINF:-1 tvg-id="onviedramas" group-title="VTVcab" tvg-logo="https://hoantp.github.io/assets/logo/vtvcab/on-viedramas.webp",ON Vie Dramas
+#EXTINF:-1 tvg-id="onviedramas" group-title="VTVcab" tvg-logo="https://hoantran.name.vn/assets/logo/vtvcab/on-viedramas.webp",ON Vie Dramas
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=177
-#EXTINF:-1 tvg-id="onvfamily" type="stream" group-title="VTVcab" tvg-logo="https://hoantp.github.io/assets/logo/vtvcab/on-vfamily.webp",ON VFamily
+#EXTINF:-1 tvg-id="onvfamily" type="stream" group-title="VTVcab" tvg-logo="https://hoantran.name.vn/assets/logo/vtvcab/on-vfamily.webp",ON VFamily
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=187
-#EXTINF:-1 tvg-id="vtvcab21hd" group-title="VTVcab" tvg-logo="https://hoantp.github.io/assets/logo/vtvcab/on-kids.webp",ON Kids
+#EXTINF:-1 tvg-id="vtvcab21hd" group-title="VTVcab" tvg-logo="https://hoantran.name.vn/assets/logo/vtvcab/on-kids.webp",ON Kids
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=179
 
 
 # --- Hanoi TV ---
-#EXTINF:-1 tvg-id="hanoi1" group-title="HNTV" tvg-logo="https://hoantp.github.io/assets/logo/hntv/hanoi1.webp",Hà Nội 1
+#EXTINF:-1 tvg-id="hanoi1" group-title="HNTV" tvg-logo="https://hoantran.name.vn/assets/logo/hntv/hanoi1.webp",Hà Nội 1
 https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="hanoi2" group-title="HNTV" tvg-logo="https://hoantp.github.io/assets/logo/hntv/hanoi2.webp",Hà Nội 2
+#EXTINF:-1 tvg-id="hanoi2" group-title="HNTV" tvg-logo="https://hoantran.name.vn/assets/logo/hntv/hanoi2.webp",Hà Nội 2
 https://live.fptplay53.net/fnxhd1/hntv2_vhls.smil/chunklist.m3u8
 
 
 # --- Film ---
-#EXTINF:-1 tvg-id="axnhd" group-title="Film" tvg-logo="https://hoantp.github.io/assets/logo/film/axn.webp",AXN Asia
+#EXTINF:-1 tvg-id="axnhd" group-title="Film" tvg-logo="https://hoantran.name.vn/assets/logo/film/axn.webp",AXN Asia
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9d29f87efdec3c9fab368f724a62ad0e:6f1c09c035eab36323d60d1454db3d20
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="hbohd" group-title="Film" tvg-logo="https://hoantp.github.io/assets/logo/film/hbohd.webp",HBO
+#EXTINF:-1 tvg-id="hbohd" group-title="Film" tvg-logo="https://hoantran.name.vn/assets/logo/film/hbohd.webp",HBO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PeDzjc8BSCff1b7Dh0PGog","kid":"Cd3+PWOGPK+ut50FRrCYqw"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="Film" tvg-logo="https://hoantp.github.io/assets/logo/film/cinemaxhd.webp",Cinemax
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="Film" tvg-logo="https://hoantran.name.vn/assets/logo/film/cinemaxhd.webp",Cinemax
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6YaPX0c9D9hpnt5I1THCsA","kid":"rLTCNHEGMyetxzLig8CEfw"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="boxhits" group-title="Film" tvg-logo="https://hoantp.github.io/assets/logo/film/boxhits.webp",Box Hits
+#EXTINF:-1 tvg-id="boxhits" group-title="Film" tvg-logo="https://hoantran.name.vn/assets/logo/film/boxhits.webp",Box Hits
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/mean/BOXHIT/manifest.mpd
 
-#EXTINF:-1 tvg-id="boxmovie1" group-title="Film" tvg-logo="https://hoantp.github.io/assets/logo/film/boxmovie1.webp",Box Movie 1
+#EXTINF:-1 tvg-id="boxmovie1" group-title="Film" tvg-logo="https://hoantran.name.vn/assets/logo/film/boxmovie1.webp",Box Movie 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/mean/BM1/manifest.mpd
 
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="Film" tvg-logo="https://hoantp.github.io/assets/logo/film/hollywoodclassics.webp",Hollywood Classics
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="Film" tvg-logo="https://hoantran.name.vn/assets/logo/film/hollywoodclassics.webp",Hollywood Classics
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/mean/HC/manifest.mpd
 
-#EXTINF:-1 tvg-id="warnertvhd" group-title="Film" tvg-logo="https://hoantp.github.io/assets/logo/film/warnertvhd.webp",Warner TV
+#EXTINF:-1 tvg-id="warnertvhd" group-title="Film" tvg-logo="https://hoantran.name.vn/assets/logo/film/warnertvhd.webp",Warner TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NPGQjP4uBe4GAEbUDxSuyQ","kid":"CG0JpAv/OgCqbdTbr5wTsg"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="tvb" group-title="Film" tvg-logo="https://hoantp.github.io/assets/logo/film/tvb-vietnam-banner_side.webp",TVB VIỆT NAM
+#EXTINF:-1 tvg-id="tvb" group-title="Film" tvg-logo="https://hoantran.name.vn/assets/logo/film/tvb-vietnam-banner_side.webp",TVB VIỆT NAM
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist.m3u8
 
 
 # --- News ---
-#EXTINF:-1 tvg-id="bloomberg" group-title="Tin tức" tvg-logo="https://hoantp.github.io/assets/logo/tin-tuc/bloomberg.webp",Bloomberg
+#EXTINF:-1 tvg-id="bloomberg" group-title="Tin tức" tvg-logo="https://hoantran.name.vn/assets/logo/tin-tuc/bloomberg.webp",Bloomberg
 https://bloomberg.com/media-manifest/streams/asia.m3u8
-#EXTINF:-1 tvg-id="cna" group-title="Tin tức" tvg-logo="https://hoantp.github.io/assets/logo/tin-tuc/cna.webp",CNA
+#EXTINF:-1 tvg-id="cna" group-title="Tin tức" tvg-logo="https://hoantran.name.vn/assets/logo/tin-tuc/cna.webp",CNA
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=112
 #https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist.m3u8
 #https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-id="nhkworld" group-title="Tin tức" tvg-logo="https://hoantp.github.io/assets/logo/tin-tuc/nhkworld.webp",NHK World
+#EXTINF:-1 tvg-id="nhkworld" group-title="Tin tức" tvg-logo="https://hoantran.name.vn/assets/logo/tin-tuc/nhkworld.webp",NHK World
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
-#EXTINF:-1 tvg-id="cnn" group-title="Tin tức" tvg-logo="https://hoantp.github.io/assets/logo/tin-tuc/cnn.webp",CNN
+#EXTINF:-1 tvg-id="cnn" group-title="Tin tức" tvg-logo="https://hoantran.name.vn/assets/logo/tin-tuc/cnn.webp",CNN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -255,50 +255,50 @@ https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/cnn.smil/manifest.mpd
 #https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #https://viamotionhsi.netplus.ch/live/eds/cnn/browser-HLS8/cnn.m3u8
-#EXTINF:-1 tvg-id="cnbc" group-title="Tin tức" tvg-logo="https://hoantp.github.io/assets/logo/tin-tuc/cnbc.webp",CNBC
+#EXTINF:-1 tvg-id="cnbc" group-title="Tin tức" tvg-logo="https://hoantran.name.vn/assets/logo/tin-tuc/cnbc.webp",CNBC
 https://live.fptplay53.net/fnxhd1/cnbchd_vhls.smil/chunklist.m3u8
 #https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 
 
 # --- International ---
-##EXTINF:-1 tvg-id="planetearthhd" group-title="Quốc Tế" tvg-logo="https://hoantp.github.io/assets/logo/quoc-te/planetearthhd.webp",Planet Earth
+##EXTINF:-1 tvg-id="planetearthhd" group-title="Quốc Tế" tvg-logo="https://hoantran.name.vn/assets/logo/quoc-te/planetearthhd.webp",Planet Earth
 #https://toiyeuvietnam.dpdns.org/OnliveTV/planet-earth-hd/Free.m3u8
-#EXTINF:-1 tvg-id="afnhd" group-title="Quốc Tế" tvg-logo="https://hoantp.github.io/assets/logo/quoc-te/afnhd.webp",Asian Food Network
+#EXTINF:-1 tvg-id="afnhd" group-title="Quốc Tế" tvg-logo="https://hoantran.name.vn/assets/logo/quoc-te/afnhd.webp",Asian Food Network
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="davinci" group-title="Quốc Tế" tvg-logo="https://hoantp.github.io/assets/logo/quoc-te/davinci.webp",Da Vinci
+#EXTINF:-1 tvg-id="davinci" group-title="Quốc Tế" tvg-logo="https://hoantran.name.vn/assets/logo/quoc-te/davinci.webp",Da Vinci
 https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="kix" group-title="Quốc Tế" tvg-logo="https://hoantp.github.io/assets/logo/quoc-te/kix.webp",KIX
+#EXTINF:-1 tvg-id="kix" group-title="Quốc Tế" tvg-logo="https://hoantran.name.vn/assets/logo/quoc-te/kix.webp",KIX
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="outdoorhd" group-title="Quốc Tế" tvg-logo="https://hoantp.github.io/assets/logo/quoc-te/outdoorhd.webp",Outdoor Channel
+#EXTINF:-1 tvg-id="outdoorhd" group-title="Quốc Tế" tvg-logo="https://hoantran.name.vn/assets/logo/quoc-te/outdoorhd.webp",Outdoor Channel
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="historyhd" group-title="Quốc Tế" tvg-logo="https://hoantp.github.io/assets/logo/quoc-te/historyhd.webp",History
+#EXTINF:-1 tvg-id="historyhd" group-title="Quốc Tế" tvg-logo="https://hoantran.name.vn/assets/logo/quoc-te/historyhd.webp",History
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=9856
-#EXTINF:-1 tvg-id="hgtv" group-title="Quốc Tế" tvg-logo="https://hoantp.github.io/assets/logo/quoc-te/hgtv.webp",HGTV
+#EXTINF:-1 tvg-id="hgtv" group-title="Quốc Tế" tvg-logo="https://hoantran.name.vn/assets/logo/quoc-te/hgtv.webp",HGTV
 https://freem3u.xyz/api/live/play.mpd?vid=99
 
-#EXTINF:-1 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://hoantp.github.io/assets/logo/quoc-te/animalhd.webp",Animal Planet
+#EXTINF:-1 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://hoantran.name.vn/assets/logo/quoc-te/animalhd.webp",Animal Planet
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec6f072c7125377a9bc0ae61598095f4:1d5388e0781415ebcec9914f5ad75875
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="discoveryhd" group-title="Quốc Tế" tvg-logo="https://hoantp.github.io/assets/logo/quoc-te/discoveryhd.webp",Discovery Channel
+#EXTINF:-1 tvg-id="discoveryhd" group-title="Quốc Tế" tvg-logo="https://hoantran.name.vn/assets/logo/quoc-te/discoveryhd.webp",Discovery Channel
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"vqWgcVfgxNF7Eas5lRf5Ug","kid":"60Fg6lU6Mh2JlVPk55b+wg"}],"type":"temporary"}
 https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="discoveryasiahd" group-title="Quốc Tế" tvg-logo="https://hoantp.github.io/assets/logo/quoc-te/discoveryasiahd.webp",Discovery Asia
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="Quốc Tế" tvg-logo="https://hoantran.name.vn/assets/logo/quoc-te/discoveryasiahd.webp",Discovery Asia
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=934907b134be3963a6263a453846924c:788e2835fb98568aed2f47bbdc091515
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="bbcearth" group-title="Quốc Tế" tvg-logo="https://hoantp.github.io/assets/logo/quoc-te/bbcearth.webp",BBC Earth
+#EXTINF:-1 tvg-id="bbcearth" group-title="Quốc Tế" tvg-logo="https://hoantran.name.vn/assets/logo/quoc-te/bbcearth.webp",BBC Earth
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -307,50 +307,50 @@ https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd
 
 
 # --- HTV ---
-#EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://hoantp.github.io/assets/logo/htv/htv1.webp",HTV1
+#EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://hoantran.name.vn/assets/logo/htv/htv1.webp",HTV1
 https://live.fptplay53.net/epzhd1/htv1_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://hoantp.github.io/assets/logo/htv/htv2hd.webp",HTV2
+#EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://hoantran.name.vn/assets/logo/htv/htv2hd.webp",HTV2
 https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://hoantp.github.io/assets/logo/htv/htv3.webp",HTV3
+#EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://hoantran.name.vn/assets/logo/htv/htv3.webp",HTV3
 #https://freem3u.xyz/api/live/play.m3u8?vid=192
 https://live.fptplay53.net/epzhd1/htv3_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="htvkey" group-title="HTV" tvg-logo="https://hoantp.github.io/assets/logo/htv/htvkey.webp",HTV4
+#EXTINF:-1 tvg-id="htvkey" group-title="HTV" tvg-logo="https://hoantran.name.vn/assets/logo/htv/htvkey.webp",HTV4
 #https://freem3u.xyz/api/live/play.m3u8?vid=9
 https://live.fptplay53.net/epzhd1/htv4_vhls.smil/chunklist.m3u8
-##EXTINF:-1 tvg-id="htv5" group-title="HTV" tvg-logo="https://hoantp.github.io/assets/logo/htv/htv5.webp",HTV5 Bchannel
+##EXTINF:-1 tvg-id="htv5" group-title="HTV" tvg-logo="https://hoantran.name.vn/assets/logo/htv/htv5.webp",HTV5 Bchannel
 #https://freem3u.xyz/api/live/play.m3u8?vid=151
-#EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://hoantp.github.io/assets/logo/htv/htv7hd.webp",HTV7
+#EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://hoantran.name.vn/assets/logo/htv/htv7hd.webp",HTV7
 https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://hoantp.github.io/assets/logo/htv/htv9hd.webp",HTV9
+#EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://hoantran.name.vn/assets/logo/htv/htv9hd.webp",HTV9
 https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://hoantp.github.io/assets/logo/htv/htvthethaohd.webp",HTV Thể Thao
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://hoantran.name.vn/assets/logo/htv/htvthethaohd.webp",HTV Thể Thao
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
 
 # --- HTVC ---
-#EXTINF:-1 tvg-id="htvcthuanviethd" group-title="HTVC" tvg-logo="https://hoantp.github.io/assets/logo/htvc/htvcthuanviet.webp",HTVC Thuần Việt
+#EXTINF:-1 tvg-id="htvcthuanviethd" group-title="HTVC" tvg-logo="https://hoantran.name.vn/assets/logo/htvc/htvcthuanviet.webp",HTVC Thuần Việt
 https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTVC" tvg-logo="https://hoantp.github.io/assets/logo/htvc/htvcgiadinhhd.webp",HTVC Gia đình
+#EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTVC" tvg-logo="https://hoantran.name.vn/assets/logo/htvc/htvcgiadinhhd.webp",HTVC Gia đình
 https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="htvcphunuhd" group-title="HTVC" tvg-logo="https://hoantp.github.io/assets/logo/htvc/htvcphunuhd.webp",HTVC Phụ nữ
+#EXTINF:-1 tvg-id="htvcphunuhd" group-title="HTVC" tvg-logo="https://hoantran.name.vn/assets/logo/htvc/htvcphunuhd.webp",HTVC Phụ nữ
 https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTVC" tvg-logo="https://hoantp.github.io/assets/logo/htvc/htvcdulichhd.webp",HTVC Du lịch Cuộc sống
+#EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTVC" tvg-logo="https://hoantran.name.vn/assets/logo/htvc/htvcdulichhd.webp",HTVC Du lịch Cuộc sống
 https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="htvccanhachd" group-title="HTVC" tvg-logo="https://hoantp.github.io/assets/logo/htvc/htvccanhachd.webp",HTVC Ca nhạc
+#EXTINF:-1 tvg-id="htvccanhachd" group-title="HTVC" tvg-logo="https://hoantran.name.vn/assets/logo/htvc/htvccanhachd.webp",HTVC Ca nhạc
 https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="htvcphimhd" group-title="HTVC" tvg-logo="https://hoantp.github.io/assets/logo/htvc/htvcphimhd.webp",HTVC Phim
+#EXTINF:-1 tvg-id="htvcphimhd" group-title="HTVC" tvg-logo="https://hoantran.name.vn/assets/logo/htvc/htvcphimhd.webp",HTVC Phim
 https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="htvcplushd" group-title="HTVC" tvg-logo="https://hoantp.github.io/assets/logo/htvc/htvcplushd.webp",HTVC Plus
+#EXTINF:-1 tvg-id="htvcplushd" group-title="HTVC" tvg-logo="https://hoantran.name.vn/assets/logo/htvc/htvcplushd.webp",HTVC Plus
 https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
 
 # --- THVL ---
-#EXTINF:-1 tvg-id="vinhlong1hd" group-title="THVL" tvg-logo="https://hoantp.github.io/assets/logo/thvl/vinhlong1hd.webp",THVL1
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="THVL" tvg-logo="https://hoantran.name.vn/assets/logo/thvl/vinhlong1hd.webp",THVL1
 https://live-a.fptplay53.net/live/media/vinhlong1/live247-hls-avc/vinhlong1.m3u8
-#EXTINF:-1 tvg-id="vinhlong2hd" group-title="THVL" tvg-logo="https://hoantp.github.io/assets/logo/thvl/vinhlong2hd.webp",THVL2
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="THVL" tvg-logo="https://hoantran.name.vn/assets/logo/thvl/vinhlong2hd.webp",THVL2
 https://live-a.fptplay53.net/live/media/vinhlong2/live247-hls-avc/vinhlong2.m3u8
-#EXTINF:-1 tvg-id="vinhlong3hd" group-title="THVL" tvg-logo="https://hoantp.github.io/assets/logo/thvl/vinhlong3hd.webp",THVL3
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="THVL" tvg-logo="https://hoantran.name.vn/assets/logo/thvl/vinhlong3hd.webp",THVL3
 https://live-a.fptplay53.net/live/media/vinhlong3/live247-hls-avc/vinhlong3.m3u8
-#EXTINF:-1 tvg-id="vinhlong4hd" group-title="THVL" tvg-logo="https://hoantp.github.io/assets/logo/thvl/vinhlong4hd.webp",THVL4
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="THVL" tvg-logo="https://hoantran.name.vn/assets/logo/thvl/vinhlong4hd.webp",THVL4
 #https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=220
-#EXTINF:-1 tvg-id="vinhlong5hd" group-title="THVL" tvg-logo="https://hoantp.github.io/assets/logo/thvl/vinhlong5hd.webp",THVL5
+#EXTINF:-1 tvg-id="vinhlong5hd" group-title="THVL" tvg-logo="https://hoantran.name.vn/assets/logo/thvl/vinhlong5hd.webp",THVL5
 https://live.fptplay53.net/epzhd2/vinhlong5hd_vhls.smil/chunklist.m3u8
