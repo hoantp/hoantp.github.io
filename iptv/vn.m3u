@@ -92,11 +92,10 @@ https://cdnet-cdn-01.onsports.vn/onplus/BONGDA_HD/manifest.mpd
 
 #EXTINF:-1 tvg-id="onsports" group-title="Thể thao" tvg-logo="https://hoantran.name.vn/assets/logo/the-thao/on-sports.webp",ON Sports
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://sgchill.duckdns.org/tv/clearkey.php?id=onsports
-#EXTVLCOPT:adaptive-variant=max
-#EXTVLCOPT:network-caching=5000
+#KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
 https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_HD/manifest.mpd
 
 # #EXTINF:-1 tvg-id="onsportsnews" group-title="Thể thao" tvg-logo="https://hoantran.name.vn/assets/logo/the-thao/on-sportsnews.webp",ON Sports News
