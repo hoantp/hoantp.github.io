@@ -363,6 +363,7 @@ https://live.fptplay53.net/epzhd2/vinhlong5hd_vhls.smil/chunklist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=1a83ee088e5343d095ac7f4d8d3cd945:dc0da9fdfae3c69c322b67db207a87a1
 https://tglmp03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
 #EXTINF:-1 group-title="Asiad 20" tvg-logo="https://hoantran.name.vn/assets/logo/asiad/ch02.webp", Asian Games CH02
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c9c38c2de3f41afa12f9872ad6c3903:d6f5a6750b32d2addec0c98fff14de9d
