@@ -356,34 +356,34 @@ https://freem3u.xyz/api/live/play.m3u8?vid=220
 https://live.fptplay53.net/epzhd2/vinhlong5hd_vhls.smil/chunklist.m3u8
 
 # --- Demo ---
-#EXTINF:-1 group-title="Asiad 20" tvg-logo="https://hoantran.name.vn/assets/logo/asiad/ch01.webp",Asian Games CH01
+#EXTINF:-1 group-title="Asiad 20" tvg-logo="https://hoantran.name.vn/assets/logo/asiad/logo.webp",Asian Games CH01
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a83ee088e5343d095ac7f4d8d3cd945:dc0da9fdfae3c69c322b67db207a87a1
 https://tglmp03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
-#EXTINF:-1 group-title="Asiad 20" tvg-logo="https://hoantran.name.vn/assets/logo/asiad/ch02.webp",Asian Games CH02
+#EXTINF:-1 group-title="Asiad 20" tvg-logo="https://hoantran.name.vn/assets/logo/asiad/logo.webp",Asian Games CH02
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c9c38c2de3f41afa12f9872ad6c3903:d6f5a6750b32d2addec0c98fff14de9d
 https://tglmp01.akamaized.net/out/v1/5fa3fdc8720b4317b14df756e81b78c1/manifest.mpd
-#EXTINF:-1 group-title="Asiad 20" tvg-logo="https://hoantran.name.vn/assets/logo/asiad/ch03.webp",Asian Games CH03
+#EXTINF:-1 group-title="Asiad 20" tvg-logo="https://hoantran.name.vn/assets/logo/asiad/logo.webp",Asian Games CH03
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3da197d13d754505887a04aedd17922e:0028b47ca60594991910c6f6048c51a0
 https://tglmp02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd
-#EXTINF:-1 group-title="Asiad 20" tvg-logo="https://hoantran.name.vn/assets/logo/asiad/ch04.webp",Asian Games CH04
+#EXTINF:-1 group-title="Asiad 20" tvg-logo="https://hoantran.name.vn/assets/logo/asiad/logo.webp",Asian Games CH04
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea1f7f86732d47e897e38c3168851569:55b7ed4cc25fa476f6682c447af128d5
 https://tglmp04.akamaized.net/out/v1/4604623e7ff4462a962275664ccd8ee5/manifest.mpd
-#EXTINF:-1 group-title="Asiad 20" tvg-logo="https://hoantran.name.vn/assets/logo/asiad/ch05.webp",Asian Games CH05
+#EXTINF:-1 group-title="Asiad 20" tvg-logo="https://hoantran.name.vn/assets/logo/asiad/logo.webp",Asian Games CH05
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=93dccb38f8c84d448d5a7422eb44462b:af8f1c6acedc34551a82f3bb49adfdea
 https://tglmp03.akamaized.net/out/v1/926637c1aba44cffa74adc74bf786816/manifest.mpd
-#EXTINF:-1 group-title="Asiad 20" tvg-logo="https://hoantran.name.vn/assets/logo/asiad/ch06.webp",Asian Games CH06
+#EXTINF:-1 group-title="Asiad 20" tvg-logo="https://hoantran.name.vn/assets/logo/asiad/logo.webp",Asian Games CH06
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f33acf338ec946fd921a85f870636399:a6c1a2e81fe941a9e2efd2bcad0d1532
@@ -393,3 +393,9 @@ https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=593abb95b362434f812e42e7780779b0:dd7e80e1d618d69631f21d04423dcab7
 https://tglmp02.akamaized.net/out/v1/3b1dd652def14c0d88ad4d65b8a63103/manifest.mpd
+
+#EXTINF:-1 group-title="Asiad 20" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/metadata/20260921/2026092123/JqjIUtLL0T-sang1.webp&width=1080", TRỰC TIẾP | ASIAD 20 - Ngày thi đấu 22/9 | Luồng 1
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-sk/asiad_1_paid/live/asiad_1_1080p/chunks.m3u8
+#EXTINF:-1 group-title="Asiad 20" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/metadata/20260922/2026092200/ac7yGdFBon-sang2.webp&width=1080", TRỰC TIẾP | ASIAD 20 - Ngày thi đấu 22/9 | Luồng 2
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-sk/asiad_2_paid/live/asiad_2_1080p/chunks.m3u8
+
