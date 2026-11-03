@@ -337,13 +337,12 @@ https://freem3u.xyz/api/live/play.m3u8?vid=132
 
 # --- THVL ---
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="THVL" tvg-logo="https://hoantran.name.vn/assets/logo/thvl/vinhlong1hd.webp",THVL1
-https://vips-livecdn.fptplay.net/live/media/vinhlong1/live247-hls-avc/vinhlong1.m3u8
+https://iptv.hoantran.name.vn/vinhlong/vinhlong1
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="THVL" tvg-logo="https://hoantran.name.vn/assets/logo/thvl/vinhlong2hd.webp",THVL2
-https://vips-livecdn.fptplay.net/live/media/vinhlong2/live247-hls-avc/vinhlong2.m3u8
+https://iptv.hoantran.name.vn/vinhlong/vinhlong2
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="THVL" tvg-logo="https://hoantran.name.vn/assets/logo/thvl/vinhlong3hd.webp",THVL3
-https://vips-livecdn.fptplay.net/live/media/vinhlong3/live247-hls-avc/vinhlong3.m3u8
+https://iptv.hoantran.name.vn/vinhlong/vinhlong3
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="THVL" tvg-logo="https://hoantran.name.vn/assets/logo/thvl/vinhlong4hd.webp",THVL4
-https://freem3u.xyz/api/live/play.m3u8?vid=220
+https://iptv.hoantran.name.vn/vinhlong/vinhlong4
 #EXTINF:-1 tvg-id="vinhlong5hd" group-title="THVL" tvg-logo="https://hoantran.name.vn/assets/logo/thvl/vinhlong5hd.webp",THVL5
-https://freem3u.xyz/api/live/play.m3u8?vid=91
-
+https://iptv.hoantran.name.vn/vinhlong/vinhlong5
