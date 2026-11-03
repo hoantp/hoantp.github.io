@@ -2,38 +2,38 @@
 
 # --- ANQP ---
 #EXTINF:-1 tvg-id="antvhd" group-title="ANQP" tvg-logo="https://hoantran.name.vn/assets/logo/anqp/antv.webp",ANTV
-https://vips-livecdn.fptplay.net/live/media/antv/live-hls-avc/antv.m3u8
+https://iptv.hoantran.name.vn/anqp/antv
 #EXTINF:-1 tvg-id="qpvnhd" group-title="ANQP" tvg-logo="https://hoantran.name.vn/assets/logo/anqp/qpvnhd.webp",QPVN
-https://vips-livecdn.fptplay.net/live/media/quocphongvn/live-hls-avc/quocphongvn.m3u8
+https://iptv.hoantran.name.vn/anqp/qpvn
 
 
 # --- VTV ---
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://hoantran.name.vn/assets/logo/vtv/vtv1hd.webp",VTV1
-https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/vtv1.m3u8
+https://iptv.hoantran.name.vn/vtv/vtv1
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://hoantran.name.vn/assets/logo/vtv/vtv2hd.webp",VTV2
-https://vips-livecdn.fptplay.net/live/media/vtv2/live247-hls-avc/vtv2.m3u8
+https://iptv.hoantran.name.vn/vtv/vtv2
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://hoantran.name.vn/assets/logo/vtv/vtv3hd.webp",VTV3
-https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/vtv3.m3u8
+https://iptv.hoantran.name.vn/vtv/vtv3
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://hoantran.name.vn/assets/logo/vtv/vtv4hd.webp",VTV4
-https://vips-livecdn.fptplay.net/live/media/vtv4/live247-hls-avc/vtv4.m3u8
+https://iptv.hoantran.name.vn/vtv/vtv4
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://hoantran.name.vn/assets/logo/vtv/vtv5hd.webp",VTV5
-https://vips-livecdn.fptplay.net/live/media/vtv5/live247-hls-avc/vtv5.m3u8
+https://iptv.hoantran.name.vn/vtv/vtv5
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://hoantran.name.vn/assets/logo/vtv/vtv5hdtnb.webp",VTV5 Tây Nam Bộ
-https://vips-livecdn.fptplay.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb.m3u8
+https://iptv.hoantran.name.vn/vtv/vtv5tnb
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://hoantran.name.vn/assets/logo/vtv/vtv5hdtn.webp",VTV5 Tây Nguyên
-https://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/vtv5tn.m3u8
+https://iptv.hoantran.name.vn/vtv/vtv5tn
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://hoantran.name.vn/assets/logo/vtv/vtv6hd.webp",VTV6
-https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/vtv6.m3u8
+https://iptv.hoantran.name.vn/vtv/vtv6
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://hoantran.name.vn/assets/logo/vtv/vtv7hd.webp",VTV7
-https://vips-livecdn.fptplay.net/live/media/vtv7/live247-hls-avc/vtv7.m3u8
+https://iptv.hoantran.name.vn/vtv/vtv7
 #EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://hoantran.name.vn/assets/logo/vtv/vtv8hd.webp",VTV8
-https://vips-livecdn.fptplay.net/live/media/vtv8/live-hls-avc/vtv8.m3u8
+https://iptv.hoantran.name.vn/vtv/vtv8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://hoantran.name.vn/assets/logo/vtv/vtv9hd.webp",VTV9
-https://vips-livecdn.fptplay.net/live/media/vtv9/live247-hls-avc/vtv9.m3u8
+https://iptv.hoantran.name.vn/vtv/vtv9
 #EXTINF:-1 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://hoantran.name.vn/assets/logo/vtv/vtv10hd.webp",VTV10
-https://vips-livecdn.fptplay.net/live/media/vtv10/live247-hls-avc/vtv10.m3u8
+https://iptv.hoantran.name.vn/vtv/vtv10
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://hoantran.name.vn/assets/logo/vtv/vietnamtoday.webp",Vietnam Today
-https://vips-livecdn.fptplay.net/live/media/vietnamtoday/live-hls-avc/vietnamtoday.m3u8
+https://iptv.hoantran.name.vn/vtv/vietnamtoday
 
 
 # --- SCTV ---
@@ -303,21 +303,21 @@ https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd
 
 # --- HTV ---
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://hoantran.name.vn/assets/logo/htv/htv1.webp",HTV1
-https://freem3u.xyz/api/live/play.m3u8?vid=190
+https://iptv.hoantran.name.vn/htv/htv1
 #EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://hoantran.name.vn/assets/logo/htv/htv2hd.webp",HTV2
-https://freem3u.xyz/api/live/play.m3u8?vid=191
+https://iptv.hoantran.name.vn/htv/htv2
 #EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://hoantran.name.vn/assets/logo/htv/htv3.webp",HTV3
-https://freem3u.xyz/api/live/play.m3u8?vid=192
+https://iptv.hoantran.name.vn/htv/htv3
 #EXTINF:-1 tvg-id="htvkey" group-title="HTV" tvg-logo="https://hoantran.name.vn/assets/logo/htv/htvkey.webp",HTV4
-https://freem3u.xyz/api/live/play.m3u8?vid=9
+https://iptv.hoantran.name.vn/htv/htv4
 #EXTINF:-1 tvg-id="htv5" group-title="HTV" tvg-logo="https://hoantran.name.vn/assets/logo/htv/htv5.webp",HTV5 Bchannel
-https://freem3u.xyz/api/live/play.m3u8?vid=151
+https://iptv.hoantran.name.vn/htv/htv5
 #EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://hoantran.name.vn/assets/logo/htv/htv7hd.webp",HTV7
-https://freem3u.xyz/api/live/play.m3u8?vid=193
+https://iptv.hoantran.name.vn/htv/htv7
 #EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://hoantran.name.vn/assets/logo/htv/htv9hd.webp",HTV9
-https://freem3u.xyz/api/live/play.m3u8?vid=194
+https://iptv.hoantran.name.vn/htv/htv9
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://hoantran.name.vn/assets/logo/htv/htvthethaohd.webp",HTV Thể Thao
-https://freem3u.xyz/api/live/play.m3u8?vid=195
+https://iptv.hoantran.name.vn/htv/htv-the-thao
 
 # --- HTVC ---
 #EXTINF:-1 tvg-id="htvcthuanviethd" group-title="HTVC" tvg-logo="https://hoantran.name.vn/assets/logo/htvc/htvcthuanviet.webp",HTVC Thuần Việt
